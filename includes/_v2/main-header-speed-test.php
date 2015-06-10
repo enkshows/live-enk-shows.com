@@ -1,4 +1,4 @@
-<?php include("includes/variables.php"); ?>
+<?php include_once("includes/variables.php"); ?>
 <!doctype html>
 <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
 <!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
@@ -27,6 +27,19 @@
   <!-- <script src="<?php //echo BASE; ?>/css/webfonts/ss-social.js"></script>-->
   <!-- <link rel="stylesheet" href="css/libs.min.css"> -->
   <!-- <link rel="stylesheet" href="css/app.css"> -->
-
+    <script src="../../../js/jquery-1.2.3.pack.js" type="text/javascript"></script>
+    <script src="https://www.google.com/recaptcha/api.js?onload=captchaCallback&render=explicit" async defer></script>
+    <script>
+      var captchaCallback = function() {
+        $(document).ready(function() {
+          $('.enkCaptcha').each(function() {
+            grecaptcha.render($(this).attr('id'), {
+              'sitekey' : '6LfnCQgTAAAAAO6APlJyI2q9z7ADVkusKSEaZban', //Replace this with your Site key
+              'theme' : 'light'
+            });          
+          });
+        });
+      };
+    </script>  
     
 </head>

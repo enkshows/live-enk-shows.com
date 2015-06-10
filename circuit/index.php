@@ -2,7 +2,6 @@
 $name     = "Accessorie Circuit";
 $content  = "Established in 1987, CIRCUIT is a comprehensive women’s accessory and footwear exhibition featuring fashion and fine jewelry, handbags, footwear, scarves, belts and gift items.";
 $keyword  = "ACIC, fashion, tradeshow, accessory tradeshow, accessories tradeshow, accessorie circuit, intermezzo collections, intermezzo, circuit, fashion tradeshow";
-require('../bin/ClassMathGuard.php');
 include('../includes/variables.php');
 include($root . '/includes/ac/2015/ac-aug2015-vars.php'); 
 include($root . '/includes/show-header.php');

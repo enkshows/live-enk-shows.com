@@ -1,4 +1,4 @@
-<?php require('../../../bin/ClassMathGuard.php');?>
+
 <?php include("../../../includes/variables.php");?>
 
 <!doctype html>
@@ -22,7 +22,20 @@
 	<link rel="stylesheet" href="http://enkshows.com/css/style.css">
     <link rel="stylesheet" href="http://enkshows.com/css/form.css">
     
-    	
+    <script src="../../../js/jquery-1.2.3.pack.js" type="text/javascript"></script>
+    <script src="https://www.google.com/recaptcha/api.js?onload=captchaCallback&render=explicit" async defer></script>
+    <script>
+      var captchaCallback = function() {
+        $(document).ready(function() {
+          $('.enkCaptcha').each(function() {
+            grecaptcha.render($(this).attr('id'), {
+              'sitekey' : '6LfnCQgTAAAAAO6APlJyI2q9z7ADVkusKSEaZban', //Replace this with your Site key
+              'theme' : 'light'
+            });          
+          });
+        });
+      };
+    </script>      	
 </head>
 <body class="childrensClub showPage">
 	
@@ -267,7 +280,7 @@
                                         </div>
                                         <input type="submit" name="submit" class="button" id="showApplyForm_button" value="Submit" tabindex="422">
                                         <div class="captcha">
-                                          <?php MathGuard::insertQuestion(); ?>
+                                          <div class="enkCaptcha" id="ccC1FormCaptcha"></div>
                                         </div>
                                     </fieldset>
                                     <div class="form_message"></div>
@@ -468,7 +481,7 @@
                                         </div>
                                         <input type="submit" name="submit" class="button" id="visitorForm_button" value="Submit" tabindex="524">
                                         <div class="captcha">
-                                          <?php MathGuard::insertQuestion(); ?>
+                                          <div class="enkCaptcha" id="ccC2FormCaptcha"></div>
                                         </div>
                                     </fieldset>
                                     <div class="form_message"></div>
@@ -524,7 +537,7 @@
                                         </div>
                                         <input type="submit" name="submit" class="button" id="contactForm_button" value="Submit" tabindex="607">
                                         <div class="captcha">
-                                          <?php MathGuard::insertQuestion(); ?>
+                                          <div class="enkCaptcha" id="ccC3FormCaptcha"></div>
                                         </div>
                                     
                                     </fieldset>

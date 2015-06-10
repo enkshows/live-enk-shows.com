@@ -1,4 +1,3 @@
-<?php require('../../../bin/ClassMathGuard.php'); ?>
 
 <?php include("../../../includes/variables.php"); ?>
 

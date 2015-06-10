@@ -2,7 +2,6 @@
 $name     = "Intermezzo Collections";
 $content  = "The perfect opportunity between the major women’s fashion markets for retailers to replenish all classifications of their ready-to-wear inventory -- contemporary, denim, bridge and evening.";
 $keyword  = "IC, fashion, tradeshow, intermezzo collections, intermezzo, circuit, fashion tradeshow";
-require('../bin/ClassMathGuard.php');
 include('../includes/variables.php');
 include($root . '/includes/ic/2015/ic-aug2015-vars.php'); 
 include($root . '/includes/show-header.php');

@@ -1,5 +1,4 @@
-<?php require('bin/ClassMathGuard.php');?>
-<?php include("includes/variables.php"); ?>
+<?php include_once("includes/variables.php"); ?>
 <?php include("includes/_v2/main-header-speed-test.php"); ?>
 
  

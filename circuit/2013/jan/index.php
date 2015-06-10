@@ -1,7 +1,3 @@
-<?php 
-require('../../../bin/ClassMathGuard.php');
-?>
-
 
 <!doctype html>
 <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
@@ -274,7 +270,7 @@ require('../../../bin/ClassMathGuard.php');
                                         </div>
                                         <input type="submit" name="submit" class="button" id="showApplyForm_button" value="Submit" tabindex="422">
                                         <div class="captcha">
-                                          <?php MathGuard::insertQuestion(); ?>
+                                          <div class="enkCaptcha" id="cch1FormCaptcha"></div>
                                         </div>
                                     </fieldset>
                                     <div class="form_message"></div>
@@ -472,7 +468,7 @@ require('../../../bin/ClassMathGuard.php');
                                         </div>
                                         <input type="submit" name="submit" class="button" id="visitorForm_button" value="Submit" tabindex="524">
                                         <div class="captcha">
-                                          <?php MathGuard::insertQuestion(); ?>
+                                          <div class="enkCaptcha" id="cch2FormCaptcha"></div>
                                         </div>
                                     </fieldset>
                                     <div class="form_message"></div>
@@ -528,7 +524,7 @@ require('../../../bin/ClassMathGuard.php');
                                         </div>
                                         <input type="submit" name="submit" class="button" id="contactForm_button" value="Submit" tabindex="607">
                                         <div class="captcha">
-                                          <?php MathGuard::insertQuestion(); ?>
+                                          <div class="enkCaptcha" id="cch3FormCaptcha"></div>
                                         </div>
                                     
                                     </fieldset>
