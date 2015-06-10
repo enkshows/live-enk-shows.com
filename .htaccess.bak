@@ -1,0 +1,29 @@
+
+RewriteEngine on
+
+IndexIgnore .htaccess */.??* *~ *# */HEADER* */README* */_vti*
+Options All -Indexes
+
+<Limit GET POST>
+order deny,allow
+allow from 207.239.96.10
+</Limit>
+<Limit PUT DELETE>
+order deny,allow
+allow from 207.239.96.10
+</Limit>
+
+
+AuthName enkshows.com
+AddHandler video-ogg .ogv
+AddHandler video-webm .webm
+AddHandler video-ogg .ogg
+ErrorDocument 404 /404.html
+RewriteCond %{HTTP_HOST} ^enkshows\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.enkshows\.com$
+RewriteRule ^enkvegas\/?$ "http\:\/\/www\.magiconline\.com\/project\-womens" [R=301,L]
+
+<FilesMatch ".(eot|ttf|otf|woff)">
+  Header set Access-Control-Allow-Origin "*"
+</FilesMatch>
+

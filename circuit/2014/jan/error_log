@@ -1,0 +1,3 @@
+[20-Jan-2014 11:43:45] PHP Warning:  require(../bin/ClassMathGuard.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/enkshows/public_html/circuit/2014/jan/index.php on line 2
+[20-Jan-2014 11:43:45] PHP Warning:  require(../bin/ClassMathGuard.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/enkshows/public_html/circuit/2014/jan/index.php on line 2
+[20-Jan-2014 11:43:45] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required '../bin/ClassMathGuard.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/enkshows/public_html/circuit/2014/jan/index.php on line 2
