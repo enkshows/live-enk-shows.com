@@ -80,7 +80,7 @@ $another_address = $recepient;
 
 $toName = "ENK Forms";
 $toEmail = "enkforms@gmail.com";
-$toEmail = "alvarez.peter.14@gmail.com";
+$toEmail = "jcibrone@advanstar.com";
 $fromName = "Contact Form";
 $fromEmail = "noreply@localhost.com";
 $headers = 'From: enkforms@gmail.com' . "\r\n" .

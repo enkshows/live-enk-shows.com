@@ -55,7 +55,7 @@ $body = ENK_get_email_notification_body($_POST);
 $toName = "ENK Forms";
 
 $toEmail = "enkforms@gmail.com";
-$toEmail = "alvarez.peter.14@gmail.com";
+$toEmail = "jcibrone@advanstar.com";
 $fromName = "Press Form";
 
 $fromEmail = "noreply@localhost.com";
