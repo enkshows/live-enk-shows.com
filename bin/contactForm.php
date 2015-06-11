@@ -4,7 +4,7 @@ require_once(dirname(__FILE__) . DIRECTORY_SEPARATOR .  "recaptcha-master/src/Re
 
 //ReCaptcha Captcha Check
 $captcha_secret = "6LfnCQgTAAAAAKEt00Y3qk4YjkoUVsC0VQDPA6h-";
-$recaptcha = new \ReCaptcha\ReCaptcha($captcha_secret);
+$recaptcha = new ReCaptcha($captcha_secret);
 $resp = $recaptcha->verify($_REQUEST['g-recaptcha-response'], $_SERVER['REMOTE_ADDR']);
 if(!$resp->isSuccess()) {
     $response = array(
@@ -80,7 +80,7 @@ $another_address = $recepient;
 
 $toName = "ENK Forms";
 $toEmail = "enkforms@gmail.com";
-$toEmail = "alvarez.peter.14@gmail.com";
+//$toEmail = "alvarez.peter.14@gmail.com";
 $fromName = "Contact Form";
 $fromEmail = "noreply@localhost.com";
 $headers = 'From: enkforms@gmail.com' . "\r\n" .
