@@ -24,10 +24,15 @@
  * THE SOFTWARE.
  */
 
-namespace ReCaptcha\RequestMethod;
+//namespace ReCaptcha\RequestMethod;
 
-use ReCaptcha\RequestMethod;
-use ReCaptcha\RequestParameters;
+//use ReCaptcha\RequestMethod;
+//use ReCaptcha\RequestParameters;
+
+include_once dirname(__FILE__) . DIRECTORY_SEPARATOR . '../RequestMethod.php';
+include_once dirname(__FILE__) . DIRECTORY_SEPARATOR . '../RequestParameters.php';
+//require(dirname(__FILE__) . DIRECTORY_SEPARATOR . '../RequestMethod.php');
+//require(dirname(__FILE__) . DIRECTORY_SEPARATOR . '../RequestParameters.php');
 
 /**
  * Sends POST requests to the reCAPTCHA service.

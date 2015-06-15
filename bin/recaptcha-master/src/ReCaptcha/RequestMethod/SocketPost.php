@@ -24,10 +24,18 @@
  * THE SOFTWARE.
  */
 
-namespace ReCaptcha\RequestMethod;
+//namespace ReCaptcha\RequestMethod;
 
-use ReCaptcha\RequestMethod;
-use ReCaptcha\RequestParameters;
+//use ReCaptcha\RequestMethod;
+//use ReCaptcha\RequestParameters;
+
+include_once 'Socket.php';
+include_once dirname(__FILE__) . DIRECTORY_SEPARATOR . '../RequestMethod.php';
+include_once dirname(__FILE__) . DIRECTORY_SEPARATOR . '../RequestParameters.php';
+
+//require(dirname(__FILE__) . DIRECTORY_SEPARATOR . 'Socket.php');
+//require(dirname(__FILE__) . DIRECTORY_SEPARATOR . '../RequestMethod.php');
+//require(dirname(__FILE__) . DIRECTORY_SEPARATOR . '../RequestParameters.php');
 
 /**
  * Sends a POST request to the reCAPTCHA service, but makes use of fsockopen() 

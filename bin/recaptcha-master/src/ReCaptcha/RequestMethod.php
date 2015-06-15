@@ -24,7 +24,7 @@
  * THE SOFTWARE.
  */
 
-namespace ReCaptcha;
+//namespace ReCaptcha;
 
 include_once "RequestParameters.php";
 

@@ -24,7 +24,7 @@
  * THE SOFTWARE.
  */
 
-namespace ReCaptcha;
+//namespace ReCaptcha;
 
 /**
  * The response returned from the service.
