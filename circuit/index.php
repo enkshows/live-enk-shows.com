@@ -46,7 +46,7 @@ include($root . '/includes/show-header.php');
     <!-- Highlights -->     
     <?php include($root . '/includes/ac/2015/ac-aug2015-highlights.php'); ?> 
 
-    <!-- Floorplans -->     
+    <!-- Roster -->     
     <?php include($root . '/includes/ac/2015/ac-aug2015-roster.php'); ?> 
     
     <!-- Floorplans -->     

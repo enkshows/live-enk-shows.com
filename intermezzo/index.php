@@ -40,10 +40,10 @@ include($root . '/includes/show-header.php');
     <!-- ic Forms -->
     <?php include($root . '/includes/ic/2015/ic-2015-forms.php'); ?>  
     
-    <!-- Floorplans -->     
+    <!-- Highlights -->     
     <?php include($root . '/includes/ic/2015/ic-aug2015-highlights.php'); ?> 
 
-    <!-- Floorplans -->     
+    <!-- Roster -->     
     <?php include($root . '/includes/ic/2015/ic-aug2015-roster.php'); ?> 
 
     <!-- Floorplans -->     
