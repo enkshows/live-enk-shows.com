@@ -43,7 +43,7 @@
         <?php include($root . '/includes/fc/2015/fc-sep2015-soundcloud.php'); ?> 
 
         <!-- Roster Module --> 
-      <?php include($root . '/includes/sc/2015/sc-feb2015-roster-post.php'); ?>
+      <?php include($root . '/includes/sc/2015/sep/sc-sep2015-roster-post.php'); ?>
 
         <!-- Floorplan -->
         <?php include($root . '/includes/fc/2015/fc-sep2015-floorplan.php'); ?> 

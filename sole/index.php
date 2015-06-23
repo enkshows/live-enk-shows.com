@@ -37,7 +37,7 @@ $keyword  = "Sole Commerce, Mens Tradeshow, Womens fashion tradeshow, New york t
       <?php include($root . '/includes/sc/2015/sc-2015-forms.php'); ?>  
 
       <!-- Roster Module --> 
-      <?php include($root . '/includes/sc/2015/sc-feb2015-roster-post.php'); ?>
+      <?php include($root . '/includes/sc/2015/sep/sc-sep2015-roster-post.php'); ?>
 
       <!-- Floorplan Module --> 
       <?php include($root . '/includes/fc/2015/fc-sep2015-floorplan.php'); ?>      

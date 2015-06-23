@@ -11,7 +11,7 @@
       <div id="btn1" class="showcol-btn1"><a href="../coterie/#collections" class="showcol-link"><span class="red">Coterie</span></a></div>
       <div id="btn1" class="showcol-btn1"><a href="../sole/#collections"  class="showcol-link">SOLE</span></a></div>
       <div id="btn1" class="showcol-btn1"><a href="../tmrw/#collections"  class="showcol-link">TMRW</a></div>
-      <div id="btn1" class="showcol-btn1"><a href="<?php echo PDF_FC;?>2015/feb/fc-feb2015-roster.pdf" target="_blank" class="showcol-link">Download Collections PDF</a></div> 
+      <div id="btn1" class="showcol-btn1"><a href="<?php echo PDF_FC;?>2015/sep/fc-sep2015-roster.pdf" target="_blank" class="showcol-link">Download Collections PDF</a></div> 
     </div>
 
     <div id="exhibitors-content">
