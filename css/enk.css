@@ -893,9 +893,11 @@ svg:not(:root) { overflow: hidden; }
   .coterieHomeImg{ background:url(../img/shows/coterie/coterieHome.jpg) top center no-repeat; } 
   .coterieHero{ background:url(../img/shows/coterie/2014/feb/coterieHero.jpg) top center no-repeat; z-index: 5 } 
   /*.coterieHomeImg2{ background:url(../img/shows/coterie/coterieHome_sept.jpg) top center no-repeat; z-index: 5 }*/ 
+  
   .soleHomeImg{ background:url(../img/shows/coterie/soleHome.jpg) top center no-repeat; } 
   .soleHero{ background:url(../img/shows/coterie/2014/feb/soleHero.jpg) top center no-repeat; z-index: 5 } 
   .soleHomeImg2{ background:url(../img/shows/sole/coterieHome_sept.jpg) top center no-repeat; } 
+  
   .vegasHomeImg{ background:url(../img/shows/vegas/vegasHome.jpg) top center no-repeat; } 
   .vegasHomeImg2{ background:url(../img/shows/vegas/vegasHome_aug.jpg) top center no-repeat; } 
   .vegasHomeImg_feb14{ background:url(../img/shows/vegas/2014/feb/enkvegasfeb14_hero_creative.jpg) top center no-repeat; }
@@ -915,6 +917,7 @@ svg:not(:root) { overflow: hidden; }
 
   .coterieHero  { background:url(../img/shows/coterie/2014/feb/coterieHero.jpg) top center no-repeat; z-index: 5 }  
   .devCoterie   { background:url(../img/shows/coterie/2014/feb/coteriedev.jpg) top center no-repeat; z-index: 5; } 
+  
   .devSole      { background:url(../img/shows/coterie/2014/feb/soledev.jpg) top center no-repeat; z-index: 5; } 
       
   .flower, 

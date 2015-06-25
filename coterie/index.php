@@ -9,15 +9,15 @@
 <body class="coteriePage fc showPage" id="showPage">
 <?php if ($hero) : ?>
     <span id="top" class="<?php echo $hero; ?>"></span>
-  <?php endif; ?>
+<?php endif; ?>
 <div id="wrapper">
-    <!-- Navigation-->  
-    <div id="nav-col">
-      <div id="nav">
-        <?php include($root . "/includes/main-nav.php"); ?>
-        <?php include($root . "/includes/main-nav-social.php"); ?>
-      </div>
-    </div> <!-- End Navigation --> 
+  <!-- Navigation-->  
+  <div id="nav-col">
+    <div id="nav">
+      <?php include($root . "/includes/main-nav.php"); ?>
+      <?php include($root . "/includes/main-nav-social.php"); ?>
+    </div>
+  </div> <!-- End Navigation --> 
   
     <!-- Content--> 
     <div id="main-col">

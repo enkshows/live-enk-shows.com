@@ -8,6 +8,7 @@ $long       =   '-74.002561';
 $dates      =   'February 23.24.25';
 $month      =   'February';
 $year       =   '2015';
+$showspan   =   'Saturday/Sunday, 9am - 6pm • Monday, 9am - 5pm';
 $location   =   'February 23.24.25 @ Javits Center . NYC';
 $dayone     =   'Monday, February 23 / 9am-6pm';
 $daytwo     =   'Tuesday, February 24 / 9am-6pm';

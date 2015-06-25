@@ -1,4 +1,4 @@
-<div id="info-container" class="fc-feb2015-header">
+<div id="info-container" class="fc-sep2015-header">
   <div class="info-top-box">
     <h1><?php echo $showname; ?></h1>
   </div>

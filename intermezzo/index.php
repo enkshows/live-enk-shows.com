@@ -1,25 +1,22 @@
 <?php 
-$name     = "Intermezzo Collections";
-$content  = "The perfect opportunity between the major women’s fashion markets for retailers to replenish all classifications of their ready-to-wear inventory -- contemporary, denim, bridge and evening.";
-$keyword  = "IC, fashion, tradeshow, intermezzo collections, intermezzo, circuit, fashion tradeshow";
-include('../includes/variables.php');
-include($root . '/includes/ic/2015/ic-aug2015-vars.php'); 
-include($root . '/includes/show-header.php');
+  $name     = "Intermezzo Collections";
+  $content  = "The perfect opportunity between the major women’s fashion markets for retailers to replenish all classifications of their ready-to-wear inventory -- contemporary, denim, bridge and evening.";
+  $keyword  = "IC, fashion, tradeshow, intermezzo collections, intermezzo, circuit, fashion tradeshow";
+  include('../includes/variables.php');
+  include($root . '/includes/ic/2015/ic-aug2015-vars.php'); 
+  include($root . '/includes/show-header.php');
 ?> 
-
-
 <body class="ic showPage" id="showPage">
 <?php if ($hero) : ?>
     <span id="top" class="<?php echo $hero; ?>"></span>
 <?php endif; ?>
 <div id="wrapper">
-
- <!-- Navigation--> 
+  <!-- Navigation--> 
   <div id="nav-col">
     <div id="nav">
       <?php include($root . "/includes/main-nav.php"); ?>
       <?php include($root . "/includes/main-nav-social.php"); ?>
-      </div>
+    </div>
   </div> <!-- End Navigation -->
     
    <!-- Content --> 

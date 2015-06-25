@@ -10,7 +10,7 @@
       Coterie is a platform for generating revenue and inspiring trends.</p>
           <p><a href="http://enkshows.com/tmrw"><strong>TMRW</strong></a>: A select portfolio of contemporary designers in a unique and intimate setting within Coterie, held twice a year in NYC.
       The future marketplace, highlighting fresh talent, exceptional quality and showcasing tomorrow’s premiere brands.</p>
-          <p><a href="/tmrw"><strong>Sole Commerce</strong></a>: A trade show within Coterie dedicated exclusively to footwear and handbags with the best domestic and international retailers.</p>
+          <p><a href="/sole"><strong>Sole Commerce</strong></a>: A trade show within Coterie dedicated exclusively to footwear and handbags with the best domestic and international retailers.</p>
     </div>
   </div>
 </div>

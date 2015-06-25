@@ -18,7 +18,7 @@ $parking    =   'https://mpsparking.com/view_special_coupon?coupon=88';
 // $hotel      =   'https://compass.onpeak.com/e/71cof15';
 $gallery    =   IMG_SC . '2015/sep/sc-sep2015-gallery';
 $header     =   'sc-sep2015-header';
-// $hero     =   'sc-feb2015-hero';
+$hero     =   'sc-sep2015-hero';
 // $postano    =   true;
 $address    = array(
   '11th Ave @ 37th St.',
