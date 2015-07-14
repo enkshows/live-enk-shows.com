@@ -13,7 +13,7 @@ $location   =   $dates . ' @ ' . $venue . '.' . $city;
 $dayone     =   'Sunday, August 2 / 9am-6pm';
 $daytwo     =   'Monday, August 3 / 9am-6pm';
 $daythree   =   'Tuesday, August 4 / 9am-5pm';
-$parking    =   'https://mpsparking.com/view_special_coupon?coupon=88';
+$parking    =   'https://mpsparking.com/view_special_coupon?coupon=101';
 $coupon     =   'https://www.morganshotelgroup.com/special/ChildrensClub-Intermezzo';
 $hotel      =   'https://compass.onpeak.com/e/71cac15/';
 // $postano    =   true;

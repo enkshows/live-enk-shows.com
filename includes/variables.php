@@ -50,5 +50,4 @@ define('PDF_TMRW_DEV', PDF_BASE_DEV . '/tmrw/');
 define('PDF_EV_DEV', PDF_BASE_DEV . '/enkvegas/');
 
 
-
 ?>

@@ -113,8 +113,8 @@ $shows = array(
       "name" => "Shop The Floor",
       "abbreviation" => "stf",
       "dates" => "24/7 . 365 Days",
-      "location" => "www.shopethefloor.com",
-      "link" => "http://www.shopethefloor.com"
+      "location" => "shopthefloor.com",
+      "link" => "https://www.shopthefloor.com/shop"
     ),
     
 );
