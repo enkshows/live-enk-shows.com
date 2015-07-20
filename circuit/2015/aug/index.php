@@ -43,7 +43,6 @@
     <!-- Floorplans -->     
     <?php include($root . '/includes/ac/2015/acic-aug2015-floorplan.php'); ?> 
 
-
     <!-- Hotel + Travel -->     
     <?php include($root . '/includes/_partials/partial-hotel.php'); ?>   
 

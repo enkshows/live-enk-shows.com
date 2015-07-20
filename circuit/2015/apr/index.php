@@ -9,9 +9,6 @@ include($root . '/includes/show-header.php');
 ?> 
 
 
-
-
-
 <body class="ac showPage" id="showPage">
 <?php if ($hero) : ?>
   <span id="top" class="<?php echo $hero; ?>"></span>
