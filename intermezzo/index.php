@@ -47,10 +47,10 @@
     <?php include($root . '/includes/ac/2015/acic-aug2015-floorplan.php'); ?> 
 
     <!-- Hotel + Travel -->     
-    <?php include($root . '/includes/_partials/partial-hotel.php'); ?> 
+    <div style="padding-left:180px"><?php include($root . '/includes/_partials/partial-hotel.php'); ?> </div>
 
     <!-- Gallery -->     
-    <?php include($root . '/includes/_partials/partial-gallery.php'); ?> 
+    <div style="padding-left:180px"><?php include($root . '/includes/_partials/partial-gallery.php'); ?> </div>
 
     <!-- BLANK SPicE-->
     <div style="float:left; clear:both; height:300px;" ></div>

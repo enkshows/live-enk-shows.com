@@ -1,4 +1,4 @@
-<div id="hotel-travel" class="module" >
+<div id="hotel-travel" class="module" style="padding-left:300px;border:1px solid #000" >
   <h1>Hotel + Amenities</h1>
   <div class="desc-lg">
   </div>
