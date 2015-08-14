@@ -8,23 +8,8 @@ then upload there
   <div class="module-content" style="margin-top:0;">
     <div class="imagePressBox sponsors-box">
       <div class="element fc-sponsor" >   
-        <a href="http://cfda.com/" target="_blank">
-        <img src="<?php echo VENDORS; ?>/CFDA.png">  
-        </a>
-      </div>
-      <div class="element fc-sponsor" >   
-        <a href="http://www.cornell.edu/" target="_blank">
-        <img src="<?php echo VENDORS; ?>/cornell.png">  
-        </a>
-      </div>
-      <div class="element fc-sponsor" >   
         <a href="http://europerfumes.com/" target="_blank">
         <img src="<?php echo VENDORS; ?>/EuroPerfumes.png">  
-        </a>
-      </div>
-      <div class="element fc-sponsor last" >   
-        <a href="http://www.fitnyc.edu/" target="_blank">
-        <img src="<?php echo VENDORS; ?>/fit-logo.png" height="100">  
         </a>
       </div>
       <div class="element fc-sponsor" >   
@@ -32,6 +17,19 @@ then upload there
         <img src="<?php echo VENDORS; ?>/JonathanAdler.png">  
         </a>
       </div>
+      <div class="element fc-sponsor" >   
+        <a href="http://www.swellbottle.com/" target="_blank">
+        <img src="<?php echo VENDORS; ?>/Swell.png">  
+        </a>
+      </div>
+
+      <!--
+      <div class="element fc-sponsor last" >   
+        <a href="http://www.fitnyc.edu/" target="_blank">
+        <img src="<?php echo VENDORS; ?>/fit-logo.png" height="100">  
+        </a>
+      </div>
+
       <div class="element fc-sponsor" >   
         <a href="https://www.shopthefloor.com/shop" target="_blank">
         <img src="<?php echo VENDORS; ?>/ShopTheFloor.png">  
@@ -47,6 +45,8 @@ then upload there
         <img src="<?php echo VENDORS; ?>/tylr.png" width="170" >  
         </a>
       </div>
+      -->
+
     </div>
   </div>
 </div>  

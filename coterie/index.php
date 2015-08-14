@@ -42,8 +42,14 @@
       <!-- Roster Module --> 
       <?php include($root . '/includes/fc/2015/fc-sep2015-roster-post.php'); ?>
 
+      <!-- Sponsors Module --> 
+      <?php include($root . '/includes/fc/2015/fc-sep2015-sponsors.php'); ?>
+
       <!-- Floorplan Module --> 
-      <?php include($root . '/includes/fc/2015/fc-sep2015-floorplan.php'); ?>      
+      <?php include($root . '/includes/fc/2015/fc-sep2015-floorplan.php'); ?>  
+
+      <!-- Sneak Peek Module --> 
+      <?php include($root . '/includes/fc/2015/fc-sep2015-sneak-peek.php'); ?>   
 
       <!-- Hotel + Travel Module --> 
       <?php include($root . '/includes/_partials/partial-hotel.php'); ?>  
