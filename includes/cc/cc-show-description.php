@@ -7,8 +7,8 @@
     footwear, toys and gifts. Introduced in 2000, exhibitors reflect an eclectic base of new designers bursting on to the scene and joining the established 
     collections. Children's Club is an excellent opportunity to be seen by the medium to better children's specialty retailers and boutiques. Children's Club is 
     held four times a year in NYC in
-    <a href="http://www.enkshows.com/childrensclub/2014/jan/">January</a>, 
-    <a href="http://www.enkshows.com/childrensclub/2014/mar/">March</a>, 
-    <a href="http://www.enkshows.com/childrensclub/2014/aug">August</a> and <a href="http://www.enkshows.com/childrensclub">October</a>.
+    <a href="/childrensclub/2015/jan/">January</a>, 
+    <a href="/childrensclub/2015/mar/">March</a>, 
+    <a href="/childrensclub/2015/aug">August</a> and <a href="/childrensclub">October</a>.
   </div>
 </div>

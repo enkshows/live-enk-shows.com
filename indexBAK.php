@@ -19,6 +19,7 @@
             <?php include("includes/_v2/v2-main-show-tiles.php"); ?>
         </div>
       
+
         <!-- Attend -->
         <?php include("includes/_v2/v2-main-attend.php"); ?>
     

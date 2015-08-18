@@ -11,11 +11,16 @@ then upload there
       A hand selected trend board highlighting <b>Coterie</b> designers.
     </div>
     <div class="descbox3" >      
-      <div id="news1" >
+      
+      <!--<div id="news1" >-->
+
+      <a href="https://www.advanstarregistrations.com/utility/landing.aspx?type=reg&show=COT152&promocode=COT152-4-2" target="_blank">
       <img src="../../../img/shows/coterie/news/sneakpeek/150811_FC_Modern_Bohemian2.jpg"/>
-      </div>
+      </a>
+      
+      <!--</div>-->
     </div> 
-    <div class="text-foot"><a href="#" data-hide="news1" class="more linkhide">more</a></div>  
+    <!--<div class="text-foot"><a href="#" data-hide="news1" class="more linkhide">more</a></div> -->
 
   </div>
 </div>  

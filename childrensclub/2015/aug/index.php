@@ -8,8 +8,11 @@ include($root . '/includes/show-header.php');
 ?>
 
 <body class="showPage cc" id="showPage">
+<?php if ($hero) : ?>
+  <span id="top" class="<?php echo $hero; ?>"></span>
+<?php endif; ?>
   <div id="wrapper">
-
+  
    <!-- Navigation--> 
    <div id="nav-col">
     <div id="nav">
@@ -33,11 +36,17 @@ include($root . '/includes/show-header.php');
     <?php include($root . '/includes/cc/2015/cc-2015-show-description.php'); ?>
 
     <!-- CC Forms -->
-    <?php include($root . '/includes/cc/2015/cc-2015-forms.php'); ?>   
-
-    <!-- Highlights -->
+    <?php include($root . '/includes/cc/2015/cc-2015-forms.php'); ?> 
+    
+    <!-- CC Highlights -->
     <?php include($root . '/includes/cc/2015/cc-aug2015-highlights.php'); ?>
 
+    <!-- CC Roster -->
+    <?php include($root . '/includes/cc/2015/cc-oct2015-roster.php'); ?>    
+
+    <!-- CC Floorplan -->
+    <?php include($root . '/includes/cc/2015/cc-aug2015-floorplan.php'); ?>
+    
     <!-- Hotel + Travel -->       
     <?php include($root . '/includes/_partials/partial-hotel.php'); ?>
     
@@ -45,7 +54,7 @@ include($root . '/includes/show-header.php');
     <?php include($root . '/includes/cc/2015/cc-aug2015-video.php'); ?> 
 
     <!-- Gallery -->     
-    <?php include($root . '/includes/_partials/partial-gallery.php'); ?> 
+    <?php include($root . '/includes/cc/2015/cc-aug2015-gallery-rewrite.php'); ?> 
 
     <!-- BLANK SPACE-->
     <div style="float:left; clear:both; height:300px;" ></div>

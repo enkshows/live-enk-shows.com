@@ -11,7 +11,7 @@
           <a href="<?php echo PDF_CHILDRENS; ?>2015/aug/cc-aug2015-exhibitor-map.pdf" target="_blank" class="showcol-link">Detailed Floor Plan</a>
         </li>
       </ul>
-    </nav>
+    </nav> 
     <div class="row-item item-two-third">
       <img src="<?php echo IMG_CHILDRENS; ?>2015/aug/cc-aug2015-level2.png" width="520" border="0">
       <a href="<?php echo PDF_CHILDRENS; ?>2015/aug/cc-aug2015-exhibitor-map.pdf" target="_blank">

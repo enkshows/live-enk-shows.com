@@ -1650,6 +1650,9 @@ h5.who {
 .coterieHero {background: url(../img/shows/coterie/2014/feb/coterieHero.jpg) top center no-repeat;z-index: 5;}
 /*.coterieHomeImg2{ background:url(../img/shows/coterie/coterieHome_sept.jpg) top center no-repeat; z-index: 5 }*/
 
+.cc-oct2015-hero {background: url(../img/shows/cc/2015/oct/cc-oct2015-hero.jpg) top center no-repeat;}
+
+
 .soleHomeImg {
 	background: url(../img/shows/coterie/soleHome.jpg) top center no-repeat;
 }
@@ -1695,12 +1698,14 @@ h5.who {
 .fc-show-header {
 	background: url(../img/shows/coterie/fc-show-header.jpg) top center no-repeat;
 }
+
 .cc-aug2014-hero {background: url(../img/shows/childrensclub/2014/aug/cc-aug2014-hero.jpg) top center no-repeat;}
 .cc-oct2014-hero {background: url(../img/shows/childrensclub/2014/oct/cc-oct2014-hero_alt.jpg) top center no-repeat;}
 
 .acHomeImg {
 	background: url(../img/shows/acic/acHome.png) top center no-repeat;
 }
+
 .acHomeImg2 {
 	background: url(../img/shows/acic/ac_home_5.jpg) top center no-repeat;
 }
@@ -1717,22 +1722,19 @@ h5.who {
 	background: url(../img/shows/acic/2014/jan/icjan14_hero_creative.jpg) top center no-repeat;
 }
 
-
-
 /*.tmrwHomeImg{ background:url(../img/shows/tmrw/tmrw_home_oct_sm.jpg) top center no-repeat; }*/
-
 .ic-aug2014-hero 		{background: url(../img/shows/acic/2014/aug/ic-aug2014-hero.jpg) top center no-repeat;}
 .ac-aug2014-hero 		{background: url(../img/shows/acic/2014/aug/ac-aug2014-hero.jpg) top center no-repeat;}
-.ac-jan2015-header 	{background: url(../img/shows/acic/2015/jan/ac-jan2015-header.jpg) top center no-repeat;}
-.ic-jan2015-header 	{background: url(../img/shows/acic/2015/jan/ic-jan2015-header.jpg) top center no-repeat;}
-.ev-feb2015-header 	{background: url(../img/shows/vegas/2015/feb/ev-feb2015-header.jpg)no-repeat;}
+.ac-jan2015-header 	    {background: url(../img/shows/acic/2015/jan/ac-jan2015-header.jpg) top center no-repeat;}
+.ic-jan2015-header 		{background: url(../img/shows/acic/2015/jan/ic-jan2015-header.jpg) top center no-repeat;}
+.ev-feb2015-header 		{background: url(../img/shows/vegas/2015/feb/ev-feb2015-header.jpg)no-repeat;}
 .ic-jan2015-hero 		{background: url(../img/shows/acic/2015/jan/ic-jan2015-hero.jpg) top center no-repeat;}
 .ic-aug2015-hero 		{background: url(../img/shows/acic/2015/aug/ic-aug2015-hero.jpg) top center no-repeat;}
 .ac-jan2015-hero 		{background: url(../img/shows/acic/2015/jan/ac-jan2015-hero.jpg) top center no-repeat;}
 .ac-aug2015-hero 		{background: url(../img/shows/acic/2015/aug/ac-aug2015-hero.jpg) top center no-repeat;}
-
 .fwd-aug2015-hero 		{background: url(../img/shows/fwd/2015/aug/fwd-aug2015-hero.jpg) top center no-repeat;}
 
+.cc-oct2015-hero		{background: url(../img/shows/childrensclub/2015/oct/cc-oct2015-hero.jpg) top center no-repeat;}
 
 .flower, 
 .flower2, 

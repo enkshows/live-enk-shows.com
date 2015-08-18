@@ -7,17 +7,14 @@ include($root . '/includes/cc/2015/cc-oct2015-vars.php');
 include($root . '/includes/show-header.php');
 ?>
 
-<body class="cc showPage" id="showPage">
-<?php if ($hero) : ?>
-  <span id="top" class="<?php echo $hero; ?>"></span>
-<?php endif; ?>
+<body class="showPage cc" id="showPage">
   <div id="wrapper">
 
    <!-- Navigation--> 
    <div id="nav-col">
     <div id="nav">
       <?php include($root . '/includes/main-nav.php'); ?>
-      <?php include($root . '/includes/main-nav-cc-social.php'); ?>
+      <?php include($root . '/includes/main-nav-social.php'); ?>
     </div>
   </div> <!-- End Navigation -->
 
@@ -25,7 +22,7 @@ include($root . '/includes/show-header.php');
   <div id="main-col">
     <!-- Show Hero / Info Container -->
     <?php if ( $postano) : ?>
-      <?php include($root . '/includes/cc/2015/cc-oct2015-postano.php'); ?>
+      <?php include($root . '/includes/cc/2015/cc-aug2015-postano.php'); ?>
     <?php elseif ($hero) : ?>
       <?php include($root . '/includes/main-hero-container.php'); ?>
     <?php else : ?>
@@ -39,10 +36,7 @@ include($root . '/includes/show-header.php');
     <?php include($root . '/includes/cc/2015/cc-2015-archive-forms.php'); ?>   
 
     <!-- Highlights -->
-    <?php include($root . '/includes/cc/2015/cc-oct2015-highlights.php'); ?> 
-
-    <!-- CC Floorplan -->
-    <?php include($root . '/includes/cc/2015/cc-oct2015-floorplan.php'); ?>    
+    <?php include($root . '/includes/cc/2015/cc-oct2015-highlights.php'); ?>
 
     <!-- Hotel + Travel -->       
     <?php include($root . '/includes/_partials/partial-hotel.php'); ?>

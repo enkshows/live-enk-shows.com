@@ -14,8 +14,7 @@
   <?php include('../../../includes/cc/cc-form-visit.php'); ?>
 
   <?php include('../../../includes/cc/cc-form-contact.php'); ?>
-  <?php include('../../../includes/cc/2015/cc-2015-shows.php'); ?>
 
-  
+  <?php include('../../../includes/cc/2015/cc-2015-shows.php'); ?>
 
 </div> <!-- End Info Links/forms -->   

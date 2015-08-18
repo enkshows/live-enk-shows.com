@@ -1,31 +1,24 @@
-<div id="floorplans" class="module">
+<div class="module" id="floorplans">
   <h1>Floor Plans</h1>
-  <h2>Javits Center</h2>
-  <div class="desc-lg">
-    To view and/or download a detailed floor plan, click the links on the left or on the desired venue or venue level from the image.  
-    Detailed floor plans are typically available 4-6 weeks prior to the Show opening.
+  <h2><?php echo $venue; ?></h2>
+  <p> To view and/or download a detailed floor plan, click the links on the left or on the desired venue or venue level from the image.  
+    Detailed floor plans are typically available 4-6 weeks prior to the Show opening.</p>
+  <div class="row">
+    <nav class="row-item item-one-third page-inner-nav">
+      <ul>
+        <li>3D Overview</li>
+        <li>
+          <!--<a href="<?php echo PDF_CHILDRENS; ?>2015/oct/cc-oct2015-exhibitor-map.pdf" target="_blank" class="showcol-link">-->
+
+          <a href="<?php echo PDF_CHILDRENS; ?>2015/oct/cc-oct2015-exhibitor-map.pdf" target="_blank">Detailed Floor Plan</a>
+        </li>
+      </ul>
+    </nav>
+    <div class="row-item item-two-third">
+      <img src="<?php echo IMG_CHILDRENS; ?>2015/aug/cc-aug2015-level2.png" width="520" border="0">
+      <a href="<?php echo PDF_CHILDRENS; ?>2015/oct/cc-oct2015-exhibitor-map.pdf" target="_blank">
+        <img src="<?php echo IMG_CHILDRENS; ?>2015/oct/cc-oct2015-level1.png" width="520" border="0">
+      </a>
+    </div> 
   </div>
-  <div class="module-content">
-
-    <div class="showcol-l">
-      <div id="btn1" class="showcol-btn2 active">
-      3D Overview
-      </div>
-
-      <div id="btn1" class="showcol-btn2">
-        <a href="<?php echo PDF_CHILDRENS; ?>2014/oct/cc-oct2014-exhibitor_map.pdf" target="_blank" class="showcol-link">Detailed Floor Plan</a>
-      </div>
-    </div>
-
-    <div id="floorplans-content">
-      <div id="floorplans-content1" class="showcol-content">
-        <img src="<?php echo IMG_CHILDRENS; ?>2014/mar/cc-mar2014-level2.png" width="520" border="0">
-        <a href="<?php echo PDF_CHILDRENS; ?>2014/oct/cc-oct2014-exhibitor_map.pdf" target="_blank">
-          <img src="<?php echo IMG_CHILDRENS; ?>2014/oct/cc-oct2014-level1.png" width="520" border="0">
-        </a>
-      </div>
-      <div id="floorplans-content1" class="floorplans-download">
-      </div> 
-    </div>
-  </div>
-</div><!-- Floorplan Module -->
+</div>

@@ -19,36 +19,6 @@ $shows = array(
 
     array(
       // show information
-      "name" => "Children's Club",
-      "abbreviation" => "cc",
-      "dates" => "August 2.3.4",
-      "location" => "Javits.NYC",
-      "year" => "2015",
-      "attend" => true,
-      "link" => "http://www.enkshows.com/childrensclub"
-    ),
-    array(
-      // show information
-      "name" => "Accessorie Circuit",
-      "abbreviation" => "ac",
-      "dates" => "August 2.3.4",
-      "location" => "Javits.NYC",
-      "year" => "2015",
-      "attend" => true,
-      "link" => "http://www.enkshows.com/circuit"
-    ),
-    array(
-      // show information
-      "name" => "Intermezzo Collections",
-      "abbreviation" => "ic",
-      "dates" => "August 2.3.4",
-      "location" => "Javits.NYC",
-      "year" => "2015",
-      "attend" => true,
-      "link" => "http://www.enkshows.com/intermezzo"
-    ),
-    array(
-      // show information
       "name" => "FWD",
       "abbreviation" => "fwd",
       "dates" => "August 2.3.4",
@@ -105,7 +75,7 @@ $shows = array(
       "location" => "Javits.NYC",
       "year" => "2015",
       "attend" => true,
-      "link" => "http://www.enkshows.com/childrensclub/2015/oct"
+      "link" => "http://www.enkshows.com/childrensclub/"
     ),
     array(
       // show information

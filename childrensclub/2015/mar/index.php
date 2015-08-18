@@ -23,6 +23,7 @@ include($root . '/includes/show-header.php');
 
   <!-- Content --> 
   <div id="main-col">
+    <!-- Show Hero / Info Container -->
     <?php if ( $postano ) : ?>
       <?php include($root . '/includes/cc/2015/cc-mar2015-postano.php'); ?>
     <?php elseif ( $hero ) : ?>

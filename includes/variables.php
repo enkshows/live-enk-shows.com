@@ -7,8 +7,7 @@ define('BASE', 'http://www.enkshows.com');
 define ("DEV_BASE", 'http://dev.enkshows.com/');
 define('IMG', 'http://www.enkshows.com/img/');
 define('IMG_BASE', 'http://www.enkshows.com/img/shows');
-define('VENDORS', 'http://www.enkshows.com/img/vendors');
-//define('SNEAKPEEK', 'http://www.enkshows.com/img/sneakpeek');
+define('VENDORS', 'http://www.enkshows.com/img/vendors'); 
 define('PRESS', 'http://www.enkshows.com/img/press');
 
 
