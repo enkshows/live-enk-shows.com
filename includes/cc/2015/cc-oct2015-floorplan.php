@@ -16,9 +16,11 @@
     </nav>
     <div class="row-item item-two-third">
       <img src="<?php echo IMG_CHILDRENS; ?>2015/aug/cc-aug2015-level2.png" width="520" border="0">
+      
       <a href="<?php echo PDF_CHILDRENS; ?>2015/oct/cc-oct2015-exhibitor-map.pdf" target="_blank">
-        <img src="<?php echo IMG_CHILDRENS; ?>2015/oct/cc-oct2015-level1.png" width="520" border="0">
+      <img src="<?php echo IMG_CHILDRENS; ?>2015/oct/cc-oct2015-level1.png" width="520" border="0">
       </a>
+      
     </div> 
   </div>
 </div>

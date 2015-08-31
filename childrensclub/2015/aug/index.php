@@ -1,20 +1,19 @@
 <?php 
-$name     = "Children's Club";
-$content  = "Children's Club is an international exhibition featuring every category of children's clothing from newborn to age 12, layette items, fashion accessories, footwear and gifts.";
-$keyword  = "Children's Club, Childrens club, cc nyc, cc enk, childrens trade show, childrens fashion, New york trade show, international trade show, ENK, fashion trade events";
-include('../../../includes/variables.php');
-include($root . '/includes/cc/2015/cc-aug2015-vars.php'); 
-include($root . '/includes/show-header.php');
+  $name     = "Children's Club";
+  $content  = "Children's Club is an international exhibition featuring every category of children's clothing from newborn to age 12, layette items, fashion accessories, footwear and gifts.";
+  $keyword  = "Children's Club, Childrens club, cc nyc, cc enk, childrens trade show, childrens fashion, New york trade show, international trade show, ENK, fashion trade events";
+  
+  include('../../../includes/variables.php');
+  include($root . '/includes/cc/2015/cc-aug2015-vars.php'); 
+  include($root . '/includes/show-header.php');
 ?>
-
 <body class="showPage cc" id="showPage">
 <?php if ($hero) : ?>
-  <span id="top" class="<?php echo $hero; ?>"></span>
+    <span id="top" class="<?php echo $hero; ?>"></span>
 <?php endif; ?>
-  <div id="wrapper">
-  
-   <!-- Navigation--> 
-   <div id="nav-col">
+<div id="wrapper">  
+  <!-- Navigation--> 
+  <div id="nav-col">
     <div id="nav">
       <?php include($root . '/includes/main-nav.php'); ?>
       <?php include($root . '/includes/main-nav-social.php'); ?>
@@ -26,7 +25,7 @@ include($root . '/includes/show-header.php');
     <!-- Show Hero / Info Container -->
     <?php if ( $postano) : ?>
       <?php include($root . '/includes/cc/2015/cc-aug2015-postano.php'); ?>
-    <?php elseif ($hero) : ?>
+    <?php elseif ( $hero) : ?>
       <?php include($root . '/includes/main-hero-container.php'); ?>
     <?php else : ?>
       <?php include($root . '/includes/new-template-show-header.php'); ?>

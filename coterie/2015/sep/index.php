@@ -37,6 +37,9 @@
       <!-- Info Links/forms -->  
       <?php include($root . '/includes/fc/2015/fc-2015-forms.php'); ?>  
 
+      <!-- Highlights -->     
+      <?php include($root . '/includes/ac/2015/fc-sep2015-highlights.php'); ?> 
+      
       <!-- Soundcloud Module --> 
       <?php include($root . '/includes/fc/2015/fc-sep2015-soundcloud.php'); ?>
 

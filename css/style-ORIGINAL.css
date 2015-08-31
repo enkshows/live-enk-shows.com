@@ -1638,8 +1638,8 @@ h5.who {
 /* FOR FULL BLEED IMAGES */
 
 /* 2014 */
-.fc-sep2014-hero { background:url(../img/shows/coterie/2014/sep/fc-sep2014-hero.jpg) top center no-repeat; } 
-.fc-sep2014-hero2 { background:url(../img/shows/coterie/2014/sep/fc-sep2014-hero2.jpg) top center no-repeat; } 
+.fc-sep2014-hero { background:url(../img/shows/coterie/2015/sep/fc-sep2015-hero.jpg) top center no-repeat; } 
+.fc-sep2014-hero2 { background:url(../img/shows/coterie/2015/sep/fc-sep2015-hero.jpg) top center no-repeat; } 
 .sc-sep2014-hero { background:url(../img/shows/sole/2014/sep/sc-sep2014-hero.jpg) top center no-repeat; }
 
 /* 2015 */
@@ -1695,14 +1695,12 @@ h5.who {
 .fc-show-header {
 	background: url(../img/shows/coterie/fc-show-header.jpg) top center no-repeat;
 }
-
 .cc-aug2014-hero {background: url(../img/shows/childrensclub/2014/aug/cc-aug2014-hero.jpg) top center no-repeat;}
 .cc-oct2014-hero {background: url(../img/shows/childrensclub/2014/oct/cc-oct2014-hero_alt.jpg) top center no-repeat;}
 
 .acHomeImg {
 	background: url(../img/shows/acic/acHome.png) top center no-repeat;
 }
-
 .acHomeImg2 {
 	background: url(../img/shows/acic/ac_home_5.jpg) top center no-repeat;
 }
@@ -1719,20 +1717,22 @@ h5.who {
 	background: url(../img/shows/acic/2014/jan/icjan14_hero_creative.jpg) top center no-repeat;
 }
 
-/*.tmrwHomeImg			{background: url(../img/shows/tmrw/tmrw_home_oct_sm.jpg) top center no-repeat; }*/
+
+
+/*.tmrwHomeImg{ background:url(../img/shows/tmrw/tmrw_home_oct_sm.jpg) top center no-repeat; }*/
+
 .ic-aug2014-hero 		{background: url(../img/shows/acic/2014/aug/ic-aug2014-hero.jpg) top center no-repeat;}
 .ac-aug2014-hero 		{background: url(../img/shows/acic/2014/aug/ac-aug2014-hero.jpg) top center no-repeat;}
-.ac-jan2015-header 	    {background: url(../img/shows/acic/2015/jan/ac-jan2015-header.jpg) top center no-repeat;}
-.ic-jan2015-header 		{background: url(../img/shows/acic/2015/jan/ic-jan2015-header.jpg) top center no-repeat;}
-.ev-feb2015-header 		{background: url(../img/shows/vegas/2015/feb/ev-feb2015-header.jpg) no-repeat;}
+.ac-jan2015-header 	{background: url(../img/shows/acic/2015/jan/ac-jan2015-header.jpg) top center no-repeat;}
+.ic-jan2015-header 	{background: url(../img/shows/acic/2015/jan/ic-jan2015-header.jpg) top center no-repeat;}
+.ev-feb2015-header 	{background: url(../img/shows/vegas/2015/feb/ev-feb2015-header.jpg)no-repeat;}
 .ic-jan2015-hero 		{background: url(../img/shows/acic/2015/jan/ic-jan2015-hero.jpg) top center no-repeat;}
 .ic-aug2015-hero 		{background: url(../img/shows/acic/2015/aug/ic-aug2015-hero.jpg) top center no-repeat;}
 .ac-jan2015-hero 		{background: url(../img/shows/acic/2015/jan/ac-jan2015-hero.jpg) top center no-repeat;}
 .ac-aug2015-hero 		{background: url(../img/shows/acic/2015/aug/ac-aug2015-hero.jpg) top center no-repeat;}
+
 .fwd-aug2015-hero 		{background: url(../img/shows/fwd/2015/aug/fwd-aug2015-hero.jpg) top center no-repeat;}
-.fwd-sep2015-hero 		{background: url(../img/shows/fwd/2015/sep/fwd-sept2015-hero.jpg) top center no-repeat;}
-.cc-oct2015-hero 		{background: url(../img/shows/childrensclub/2015/oct/cc-oct2015-hero.jpg) top center no-repeat;}
-.tmrw-sep2015-hero 		{background: url(../img/shows/tmrw/2015/sep/tmrw-sep2015-hero.jpg) top center no-repeat;}
+
 
 .flower, 
 .flower2, 
@@ -1884,11 +1884,13 @@ h5.who {
 	background: url(../img/shows/enkwsa/wsa_hero_2.jpg);
 }
 
+
+
 .ev-aug2014-header	{ background:url(../img/shows/vegas/2014/aug/ev-aug2014-header.jpg);}
 .ev-aug2014-hero  	{ background:url(../img/shows/vegas/2014/aug/ev-aug2014-hero.jpg) top center no-repeat; }
-.ac-may2014-hero 	{ background:url(../img/shows/acic/2014/may/ac-may2014-hero.jpg) top center no-repeat; }
-.ic-may2014-hero 	{ background:url(../img/shows/acic/2014/may/ic-may2014-hero.jpg) top center no-repeat;	}
-.tmrw-sep2014		{ background:url(../img/shows/tmrw/2014/sep/TMRW_sep14_hero_creative_v3toRoute.png) top center no-repeat; }
+.ac-may2014-hero 		{ background:url(../img/shows/acic/2014/may/ac-may2014-hero.jpg) 	top center no-repeat; }
+.ic-may2014-hero 		{ background:url(../img/shows/acic/2014/may/ic-may2014-hero.jpg) 	top center no-repeat;	}
+.tmrw-sep2014			 	{ background:url(../img/shows/tmrw/2014/sep/TMRW_sep14_hero_creative_v3toRoute.png) top center no-repeat; }
 
 .info-top-box {
 	width: 740px;

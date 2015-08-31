@@ -18,12 +18,11 @@ $coupon     =   'https://www.morganshotelgroup.com/special/COTERIE-September2015
 $video      =   '//player.vimeo.com/video/112817268';
 // $hotel      =   'https://compass.onpeak.com/e/71cof15';
 $gallery    =   IMG_TMRW . '2015/sep/tmrw-sep2015-gallery';
-$header     =   'tmrw-sep2015-header';
-// $hero     =   'tmrw-feb2015-hero';
-// $postano    =   true;
+//$header     =   'tmrw-sep2015-header';
+$hero     =   'tmrw-sep2015-hero';
+//$postano    =   true;
 $address    = array(
   '11th Ave @ 37th St.',
   'NYC 10019'
   );
-
 ?>

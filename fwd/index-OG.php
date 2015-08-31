@@ -14,7 +14,7 @@
   require($root . '/bin/ClassMathGuard.php');
 
   // Show specific variables
-  include($root . '/includes/fwd/2015/fwd-sep2015-vars.php');
+  include($root . '/includes/fwd/2015/fwd-aug2015-vars.php');
 
   // General show header with all relevant script/link tags
   include($root . '/includes/show-header.php');
@@ -53,19 +53,14 @@ into the span tag and creatse the hero image for the background.
         <?php include($root . '/includes/new-template-show-header.php'); ?>
       <?php endif; ?>
 
-      <!-- Show Descriptions -->
-      <?php include($root . '/includes/fwd/2015/fwd-2015-show-description.php'); ?>
+      <?php include($root . '/includes/_v2/v2-show-description.php'); ?>
 
-      <!-- Forms -->
       <?php include($root . '/includes/fwd/2015/fwd-forms.php'); ?>  
 
-      <!-- Floorplans -->
-      <?php include($root . '/includes/fwd/2015/fwd-sep2015-floorplan.php'); ?>      
+      <?php include($root . '/includes/fwd/2015/fwd-aug2015-floorplan.php'); ?>      
 
-      <!-- Hotel + Travel -->
       <?php include($root . '/includes/_partials/partial-hotel.php'); ?>  
 
-      <!-- Gallery -->
       <?php include($root . '/includes/_partials/partial-gallery.php'); ?>  
     
       <!-- BLANK SPACE-->

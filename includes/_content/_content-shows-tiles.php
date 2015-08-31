@@ -21,7 +21,7 @@ $shows = array(
       // show information
       "name" => "FWD",
       "abbreviation" => "fwd",
-      "dates" => "August 2.3.4",
+      "dates" => "September 19.20.21",
       "location" => "Javits.NYC",
       "year" => "2015",
       "attend" => true,

@@ -18,7 +18,7 @@
   <link rel="stylesheet" type="text/css" href="//cloud.typography.com/7565072/775922/css/fonts.css" />
   <link href="<?php echo BASE; ?>/css/webfonts/ss-social-regular.css" rel="stylesheet" />
   
-  <link rel="stylesheet" href="<?php echo BASE; ?>/css/style.css">
+  <link rel="stylesheet" href="<?php echo BASE; ?>/css/style.css"> 
   
   <link rel="stylesheet" href="<?php echo BASE; ?>/css/form.css">
   <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?v=3.exp&amp;sensor=false"></script>

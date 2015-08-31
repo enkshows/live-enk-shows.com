@@ -22,7 +22,21 @@ then upload there
         <img src="<?php echo VENDORS; ?>/Swell.png">  
         </a>
       </div>
-
+      <div class="element fc-sponsor" >   
+        <a href="http://cfda.com/" target="_blank">
+        <img src="<?php echo VENDORS; ?>/CFDA.png">  
+        </a>
+      </div>
+      <div class="element fc-sponsor" >   
+        <a href="https://www.cornell.edu/" target="_blank">
+        <img src="<?php echo VENDORS; ?>/cornell.png">  
+        </a>
+      </div>   
+      <div class="element fc-sponsor" >   
+        <a href="http://www.isko.com.tr/" target="_blank">
+        <img src="<?php echo VENDORS; ?>/isko.png">  
+        </a>
+      </div>   
       <!--
       <div class="element fc-sponsor last" >   
         <a href="http://www.fitnyc.edu/" target="_blank">

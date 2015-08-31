@@ -1,6 +1,11 @@
 <div id="highlights" class="module">
-  <h1>Highlights</h1>  
+	<h1>Highlights</h1>  
+	<!-- Postano -->
+	<?php include($root. "/includes/fc/2015/fc-sep2015-postano.php"); ?>
 
-  <?php include($root . '/includes/fc/2015/fc-feb2015-newnoteworthy.php'); ?>
+	<!-- Lookbook -->
+	<?php include($root. "/includes/fc/2015/fc-sep2015-lookbook.php"); ?>
 
+	<!-- Sneak Peek Module --> 
+	<?php include($root. "/includes/fc/2015/fc-sep2015-sneak-peek.php"); ?> 
 </div>

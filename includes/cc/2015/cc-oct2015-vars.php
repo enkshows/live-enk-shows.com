@@ -16,12 +16,12 @@ $daythree   =   'Tuesday, October 20 / 9am-5pm';
 // $coupon      =   'https://compass.onpeak.com/e/71ccm15';
 $hotel      =   'https://compass.onpeak.com/e/71oct15/';
 // $video      =   '//player.vimeo.com/video/112816633?title=0&amp;byline=0&amp;portrait=0&amp;color=ff3333';
-//$postano    =   true;
+//$postano    =   false;
 $hero       =   'cc-oct2015-hero';
-//$header     =   'cc-show-header';
+//$header     =   'cc-oct2015-header';
 $gallery    =   IMG_CHILDRENS . '2015/oct/cc-oct2015-gallery';
 $address    = array(
-  '11th Ave @ 37th St.', 
+  '11th Ave @ 37th St.',
   'NYC 10019'
   );
 ?>

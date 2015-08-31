@@ -19,13 +19,13 @@
       </nav>
       <div class="row-item item-two-third">
         <a href="<?php echo PDF_FC; ?>2015/sep/fc-sep2015_exhibitormap_lv4.pdf" target="_blank">
-          <img width="320"  src="<?php echo IMG_FC; ?>javits/gen-javits-lv4.png" border="0">
+          <img width="320"  src="<?php echo IMG_FC; ?>2015/sep/fc-sep2015-level4.png" border="0">
         </a>
         <a href="<?php echo PDF_FC; ?>2015/sep/fc-sep2015_exhibitormap_lv3.pdf" target="_blank">
-          <img width="100%"  src="<?php echo IMG_FC; ?>/javits/gen-javits-lv3.png" border="0">
+          <img width="100%"  src="<?php echo IMG_FC; ?>2015/sep/fc-sep2015-level3.png" border="0">
         </a>
         <a href="<?php echo PDF_FC; ?>2015/sep/fc-sep2015_exhibitormap_lv1.pdf" target="_blank">
-          <img width="400"  src="<?php echo IMG_FC; ?>javits/gen-javits-lv1.png" border="0">
+          <img width="400"  src="<?php echo IMG_FC; ?>2015/sep/fc-sep2015-level1.png" border="0">
         </a>
       </div>  
     </div>

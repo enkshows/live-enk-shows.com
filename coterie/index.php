@@ -34,10 +34,13 @@
       <?php include($root . '/includes/fc/2015/fc-2015-show-description.php'); ?>
     
       <!-- Info Links/forms -->  
-      <?php include($root . '/includes/fc/2015/fc-2015-forms.php'); ?>  
+      <?php include($root . '/includes/fc/2015/fc-2015-forms.php'); ?>
 
       <!-- Soundcloud Module --> 
       <?php include($root . '/includes/fc/2015/fc-sep2015-soundcloud.php'); ?>
+
+      <!-- Highlights -->     
+      <?php include($root . '/includes/fc/2015/fc-sep2015-highlights.php'); ?>  
 
       <!-- Roster Module --> 
       <?php include($root . '/includes/fc/2015/fc-sep2015-roster-post.php'); ?>
@@ -47,9 +50,6 @@
 
       <!-- Floorplan Module --> 
       <?php include($root . '/includes/fc/2015/fc-sep2015-floorplan.php'); ?>  
-
-      <!-- Sneak Peek Module --> 
-      <?php include($root . '/includes/fc/2015/fc-sep2015-sneak-peek.php'); ?>   
 
       <!-- Hotel + Travel Module --> 
       <?php include($root . '/includes/_partials/partial-hotel.php'); ?>  
