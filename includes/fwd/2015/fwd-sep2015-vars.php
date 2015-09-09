@@ -20,7 +20,7 @@ $hotel      =   'https://compass.onpeak.com/e/71cac15/';
 // $postano    =   true;
 $hero       =   'fwd-sep2015-hero';
 //$header     =   'cc-show-header';
-$gallery    =   IMG_FWD . '2015/aug/fwd-aug2015-gallery';
+$gallery    =   IMG_FWD . '2015/sep/fwd-sept2015-gallery';
 $address    = array(
   '11th Ave @ 37th St.', 
   'NYC 10019'

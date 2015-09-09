@@ -2,7 +2,6 @@
   $name     = "Children's Club";
   $content  = "Children's Club is an international exhibition featuring every category of children's clothing from newborn to age 12, layette items, fashion accessories, footwear and gifts.";
   $keyword  = "Children's Club, Childrens club, cc nyc, cc enk, childrens trade show, childrens fashion, New york trade show, international trade show, ENK, fashion trade events";
-
   include('../includes/variables.php');
   include($root . '/includes/cc/2015/cc-oct2015-vars.php'); 
   include($root . '/includes/show-header.php'); 
@@ -36,7 +35,10 @@
     
     <!-- CC Highlights -->
     <?php include($root . '/includes/cc/2015/cc-oct2015-highlights.php'); ?>
- 
+     
+    <!-- CC Roster -->
+    <?php include($root . '/includes/cc/2015/cc-oct2015-roster.php'); ?>
+
     <!-- CC Floorplan -->
     <?php include($root . '/includes/cc/2015/cc-oct2015-floorplan.php'); ?>
     

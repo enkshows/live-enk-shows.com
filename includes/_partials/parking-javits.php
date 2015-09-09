@@ -1,6 +1,7 @@
 <h3>Javits Parking</h3>
 <?php if ($parking): ?>
-  <p><a class="alert" href="<?php echo $parking; ?>" target="_blank">Discounted Parking Coupon</a></p>
+  <p><a class="alert" href="https://mpsparking.com/view_special_coupon?coupon=105" target="_blank">Discounted Parking Coupon</a></p>
+  <!--<p><a class="alert" href="<?php //echo $parking; ?>" target="_blank">Discounted Parking Coupon</a></p>-->
 <?php endif; ?>
 <ul class="no-list">
   <li class="title">MP 41 LLC, 475 West 41st Street</li>
@@ -10,7 +11,7 @@
 </ul>
 <ul class="no-list">
   <li class="title">Edison</li>
-  <li>451 9th Avenue, between 35th & 36th Street</li>
+  <li>451 9th Avenue, between 35th &amp; 36th Street</li>
   <li>412-422 West 33rd @ 9th Avenue</li>
 </ul>
 <ul class="no-list">
@@ -26,25 +27,11 @@
 <ul class="no-list">
   <li class="title">PUBLIC PARKING</li>
   <li>493 10th Avenue @ 38th Street, 24 hours</li>
-  <li>484 10th Avenue, between 37th & 38th Streets, 24 hours</li>
+  <li>484 10th Avenue, between 37th &amp; 38th Streets, 24 hours</li>
   <li>330 10th Avenue @ 30th Street, 24 hours</li>
-  <li>518 30th Street, between 10th & 11th Avenue, 24 hours</li>
+  <li>518 30th Street, between 10th &amp; 11th Avenue, 24 hours</li>
   <li>519 9th Avenue @ 37th Street, 24 hours</li>
   <li>475 9th Avenue @ 37th Street, 24 hours</li>
   <li>451 10th Avenue @ 37th Street, 24 hours</li>
-  <li>550 W 37th Street, between 10th & 11th Avenue, 24 hours</li>
+  <li>550 W 37th Street, between 10th &amp; 11th Avenue, 24 hours</li>
 </ul>
-
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -39,12 +39,12 @@
         <!-- Forms -->
         <?php include($root . '/includes/tmrw/2015/tmrw-2015-forms.php'); ?>
 
-        <!-- Music -->
-        <?php include($root . '/includes/tmrw/2015/tmrw-sep2015-soundcloud.php'); ?>
-
         <!-- Highlights -->
         <?php include($root . '/includes/tmrw/2015/tmrw-sep2015-highlights.php'); ?> 
 
+        <!-- Music -->
+        <?php include($root . '/includes/tmrw/2015/tmrw-sep2015-soundcloud.php'); ?>
+        
         <!-- Roster Module --> 
         <?php include($root . '/includes/tmrw/2015/tmrw-sep2015-roster-post.php'); ?>
 
