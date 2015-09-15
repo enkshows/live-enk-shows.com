@@ -6,7 +6,11 @@
   include($root . '/includes/cc/2015/cc-oct2015-vars.php'); 
   include($root . '/includes/show-header.php'); 
 ?> 
+
 <body class="showPage cc" id="showPage">
+<?php if ($hero) : ?>
+  <span id="top" class="<?php echo $hero; ?>"></span>
+<?php endif; ?>
 <div id="wrapper">
   <!-- Navigation-->  
   <div id="nav-col">

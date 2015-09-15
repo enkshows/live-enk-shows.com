@@ -6,6 +6,6 @@
 	<!-- Lookbook -->
 	<?php include($root. "/includes/fc/2015/fc-sep2015-lookbook.php"); ?>
 
-	<!-- Sneak Peek Module --> 
+	<!-- Sneak Peek --> 
 	<?php include($root. "/includes/fc/2015/fc-sep2015-sneak-peek.php"); ?> 
 </div>
