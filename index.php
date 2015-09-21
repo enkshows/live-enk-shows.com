@@ -43,6 +43,4 @@
 </div><!-- end wrapper-->
 
 
-
-
 <?php include("includes/_v2/v2-footer.php"); ?>

@@ -7,15 +7,12 @@
       <nav class="row-item item-one-third">
         <ul class="page-inner-nav">
           <li>3D Overview</li>
-          <!-- <li>
-            Detailed Floor Plan</a>
-            <ul class="inner-nav--sub-nav">
-              <li><a href="<?php //echo PDF_FC; ?>2015/feb/fc-feb2015_exhibitormap_lv4.pdf">Level 4 (100 - 800)</a></li>
-              <li><a href="<?php //echo PDF_FC; ?>2015/feb/fc-feb2015_exhibitormap_lv3.pdf">Level 3 (1500 - 8000)</a></li>
-              <li><a href="<?php //echo PDF_FC; ?>2015/feb/fc-feb2015_exhibitormap_lv1.pdf">Level 1 (8300 - 10,000)</a></li>
-            </ul>
-          </li> -->
         </ul>
+        <div id="btn1" class="showcol-btn1">
+        <a onClick=" OpenMapYourShowMax(this.href,this.target);return false" class="showcol-link" target="floorplan" 
+        href="http://www.mapyourshow.com/shows/index.cfm?Show_ID=COTERIE15">Show Planner</a>
+        <!--<a href="http://www.mapyourshow.com/shows/index.cfm?show_id=coterie15" target="_blank" class="showcol-link">SHOW PLANNER</a>-->
+        </div>     
       </nav>
       <div class="row-item item-two-third">
         <a href="<?php echo PDF_FC; ?>2015/sep/fc-sep2015_exhibitormap_lv4.pdf" target="_blank">
@@ -30,3 +27,11 @@
       </div>  
     </div>
 </div>
+<!-- <li>
+  Detailed Floor Plan</a>
+  <ul class="inner-nav--sub-nav">
+    <li><a href="<?php //echo PDF_FC; ?>2015/feb/fc-feb2015_exhibitormap_lv4.pdf">Level 4 (100 - 800)</a></li>
+    <li><a href="<?php //echo PDF_FC; ?>2015/feb/fc-feb2015_exhibitormap_lv3.pdf">Level 3 (1500 - 8000)</a></li>
+    <li><a href="<?php //echo PDF_FC; ?>2015/feb/fc-feb2015_exhibitormap_lv1.pdf">Level 1 (8300 - 10,000)</a></li>
+  </ul>
+</li> -->

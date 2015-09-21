@@ -11,10 +11,9 @@
       <p><a href="2015/sep/fc-sep2015-lookbook-1.html" target="_blank">The Modern Bohemian</a><br/>
       <a href="2015/sep/fc-sep2015-lookbook-2.html" target="_blank">Luxe/lineup</a><br/>
       <a href="2015/sep/fc-sep2015-lookbook-4.html" target="_blank">Envisioning TMRW @ Coterie</a><br/>
-      <a href="2015/sep/fc-sep2015-lookbook-3.html" target="_blank">The New. The Now.</a>
+      <a href="2015/sep/fc-sep2015-lookbook-3.html" target="_blank">The New. The Now.</a><br/>
+      <a href="2015/sep/fc-sep2015-lookbook-5.html" target="_blank">Everything You Want @ Coterie</a>
       </p>
-    </div>
-    
+    </div>    
   </div>
-
 </div>
