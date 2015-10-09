@@ -10,6 +10,7 @@ The future marketplace, highlighting fresh talent, exceptional quality and showc
   </div> 
 </div>
 
+<!--
 <div class="info-description-box">
   <div class="info-description-l">
     <a href="http://enkshows.com//coterie"><img src="<?php echo IMG_FC; ?>logo-coterie.png" /></a>
@@ -28,5 +29,6 @@ Coterie is a platform for generating revenue and inspiring trends.
   </div>
   <div class="info-description-r">
     A trade show dedicated exclusively to upscale footwear and handbags with the best domestic and international retailers.
-  </div> 
-</div>
+  </div>
+
+</div>-->

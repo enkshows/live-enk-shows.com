@@ -16,57 +16,6 @@ $shows = array(
     // attend: set to true to display a tile in the 'attend' section 
           // NOTE: the only tile that should not be set is the Shop The Floor tile
     // link: links the showtile to its respective show
-
-    array(
-      // show information
-      "name" => "FWD",
-      "abbreviation" => "fwd",
-      "dates" => "September 19.20.21",
-      "location" => "Javits.NYC",
-      "year" => "2015",
-      "attend" => true,
-      "link" => "http://www.enkshows.com/fwd"
-    ),   
-    array(
-      // show information
-      "name" => "Project Womens",
-      "abbreviation" => "ev",
-      "dates" => "August 17.18.19",
-      "location" => "Mandalay Bay.LV",
-      "year" => "2015",
-      "attend" => true,
-      "link" => "http://www.enkshows.com/enkvegas"
-    ),
-    array(
-      // show information
-      "name" => "Coterie",
-      "abbreviation" => "fc",
-      "dates" => "September 19.20.21",
-      "location" => "Javits.NYC",
-      "year" => "2015",
-      "attend" => true,
-      "link" => "http://www.enkshows.com/coterie"
-    ),
-    array(
-      // show information
-      "name" => "TMRW",
-      "abbreviation" => "tmrw",
-      "dates" => "September 19.20.21",
-      "location" => "Javits.NYC",
-      "year" => "2015",
-      "attend" => true,
-      "link" => "http://www.enkshows.com/tmrw"
-    ),
-    array(
-      // show information
-      "name" => "Sole Commerce",
-      "abbreviation" => "sc",
-      "dates" => "September 19.20.21",
-      "location" => "Javits.NYC",
-      "year" => "2015",
-      "attend" => true,
-      "link" => "http://www.enkshows.com/sole"
-    ),
     array(
       // show information
       "name" => "Children's Club",
@@ -76,6 +25,38 @@ $shows = array(
       "year" => "2015",
       "attend" => true,
       "link" => "http://www.enkshows.com/childrensclub/"
+    ),
+
+    array(
+      // show information
+      "name" => "Accessorie Circuit",
+      "abbreviation" => "ac",
+      "dates" => "January 10.11.12",
+      "location" => "Pier 94.NYC",
+      "year" => "2015",
+      "attend" => true,
+      "link" => "http://www.enkshows.com/circuit"
+    ),  
+
+    array(
+      // show information
+      "name" => "Intermezzo Collections",
+      "abbreviation" => "ic",
+      "dates" => "January 10.11.12",
+      "location" => "Pier 94.NYC",
+      "year" => "2015",
+      "attend" => true,
+      "link" => "http://www.enkshows.com/intermezzo"
+    ),   
+    array(
+      // show information
+      "name" => "Coterie",
+      "abbreviation" => "fc",
+      "dates" => "February 22.23.24",
+      "location" => "Javits.NYC",
+      "year" => "2015",
+      "attend" => true,
+      "link" => "http://www.enkshows.com/coterie"
     ),
     array(
       // show information

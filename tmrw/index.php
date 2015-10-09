@@ -4,7 +4,7 @@
   $keyword  = "tmrw, Mens Tradeshow, Womens fashion tradeshow, New york trade show, international trade show, fashion coterie, ENK, Accessories tradeshow, Shoes Tradeshow, sole commerce, fashion trade events";
 
   include('../includes/variables.php'); 
-  include($root . '/includes/tmrw/2015/tmrw-sep2015-vars.php');
+  include($root . '/includes/tmrw/2016/feb/tmrw-feb2016-vars.php');
   include($root . '/includes/show-header.php');
 ?>
 
@@ -26,7 +26,7 @@
   <div id="main-col">
 
         <?php if ( $postano) : ?>
-          <?php include($root . '/includes/tmrw/2015/tmrw-sep2015-postano.php'); ?>
+          <?php include($root . '/includes/tmrw/2016/feb/tmrw-feb2016-postano.php'); ?>
         <?php elseif ( $hero) : ?>
           <?php include($root . '/includes/main-hero-container.php'); ?>
         <?php else : ?>
@@ -34,22 +34,22 @@
         <?php endif; ?>
         
         <!-- Show Description -->
-        <?php include($root . '/includes/tmrw/2015/tmrw-2015-show-description.php'); ?>
+        <?php include($root . '/includes/tmrw/2016/feb/tmrw-2016-show-description.php'); ?>
         
         <!-- Forms -->
-        <?php include($root . '/includes/tmrw/2015/tmrw-2015-forms.php'); ?>
+        <?php include($root . '/includes/tmrw/2016/feb/tmrw-feb2016-forms.php'); ?>
 
         <!-- Highlights -->
-        <?php include($root . '/includes/tmrw/2015/tmrw-sep2015-highlights.php'); ?> 
+        <?php include($root . '/includes/tmrw/2016/feb/tmrw-feb2016-highlights.php'); ?> 
 
         <!-- Music -->
-        <?php include($root . '/includes/tmrw/2015/tmrw-sep2015-soundcloud.php'); ?>
+        <?php include($root . '/includes/tmrw/2016/feb/tmrw-feb2016-soundcloud.php'); ?>
         
         <!-- Roster Module --> 
-        <?php include($root . '/includes/tmrw/2015/tmrw-sep2015-roster-post.php'); ?>
+        <?php include($root . '/includes/tmrw/2016/feb/tmrw-feb2016-roster-post.php'); ?>
 
         <!-- Floorplan -->
-        <?php include($root . '/includes/fc/2015/fc-sep2015-floorplan.php'); ?> 
+        <?php include($root . '/includes/tmrw/2016/feb/tmrw-feb2016-floorplan.php'); ?> 
 
         <!-- Hotel + Travel -->
         <?php include($root . '/includes/_partials/partial-hotel.php'); ?> 

@@ -1,6 +1,5 @@
 <h3>Javits Parking</h3>
 <?php if ($parking): ?>
-  <p><a class="alert" href="https://mpsparking.com/view_special_coupon?coupon=105" target="_blank">Discounted Parking Coupon</a></p>
   <!--<p><a class="alert" href="<?php //echo $parking; ?>" target="_blank">Discounted Parking Coupon</a></p>-->
 <?php endif; ?>
 <ul class="no-list">

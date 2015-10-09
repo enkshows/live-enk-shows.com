@@ -23,10 +23,5 @@
 
   <div class="row-item" id="map-canvas" data-lat="<?php echo $lat; ?>" data-lng="<?php echo $long; ?>"></div>
 
-
-
-
-
-
   
 </div>

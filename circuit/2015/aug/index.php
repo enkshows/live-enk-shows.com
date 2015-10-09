@@ -2,13 +2,14 @@
   $name     = "Accessorie Circuit";
   $content  = "Established in 1987, CIRCUIT is a comprehensive women’s accessory and footwear exhibition featuring fashion and fine jewelry, handbags, footwear, scarves, belts and gift items.";
   $keyword  = "ACIC, fashion, tradeshow, accessory tradeshow, accessories tradeshow, accessorie circuit, intermezzo collections, intermezzo, circuit, fashion tradeshow";
-  require('../../../bin/ClassMathGuard.php');
   include('../../../includes/variables.php');
   include($root . '/includes/ac/2015/ac-aug2015-vars.php'); 
   include($root . '/includes/show-header.php');
 ?> 
-<body class="ac-08-15 showPage" id="showPage">
-<!-- <span id="top" class="ac-aug2014-hero"></span> -->
+<body class="ac showPage" id="showPage">
+<?php if ($hero) : ?>
+    <span id="top" class="<?php echo $hero; ?>"></span>
+  <?php endif; ?>
 <div id="wrapper">
 
  <!-- Navigation--> 
@@ -40,17 +41,21 @@
     <!-- Highlights -->     
     <?php include($root . '/includes/ac/2015/ac-aug2015-highlights.php'); ?> 
 
+    <!-- Roster -->     
+    <?php include($root . '/includes/ac/2015/ac-aug2015-roster.php'); ?> 
+    
     <!-- Floorplans -->     
     <?php include($root . '/includes/ac/2015/acic-aug2015-floorplan.php'); ?> 
 
     <!-- Hotel + Travel -->     
-    <?php include($root . '/includes/_partials/partial-hotel.php'); ?>   
+    <div style="padding-left:180px"><?php include($root . '/includes/_partials/partial-hotel.php'); ?> </div>
 
     <!-- Video -->     
-    <?php include($root . '/includes/ac/2015/ac-aug2015-video.php'); ?> 
+    <div style="padding-left:180px"><?php include($root . '/includes/ac/2015/ac-aug2015-video.php'); ?> </div>
 
-    <!-- Gallery -->     
-    <?php include($root . '/includes/ac/2015/ac-aug2015-gallery.php'); ?> 
+    <!-- Gallery -->
+    <div style="padding-left:180px"><?php include($root . '/includes/_partials/partial-gallery.php'); ?> </div>
+
 
     <!-- BLANK SPACE-->
     <div style="float:left; clear:both; height:300px;" ></div>

@@ -8,11 +8,11 @@
   include($root . '/includes/show-header.php');
 ?>
 
-<body class="tmrwPage tmrw showPage" id="showPage">
- <?php if ($hero) : ?>
+<body class="showPage tmrw" id="showPage">
+  <?php if ($hero) : ?>
     <span id="top" class="<?php echo $hero; ?>"></span>
   <?php endif; ?>
-<div id="wrapper">
+  <div id="wrapper">
 
       <!-- Navigation-->  
     <div id="nav-col">
@@ -38,12 +38,15 @@
         
         <!-- Forms -->
         <?php include($root . '/includes/tmrw/2015/tmrw-2015-forms.php'); ?>
-        
-        <!-- Floorplan -->
-        <?php include($root . '/includes/fc/2015/fc-sep2015-soundcloud.php'); ?> 
 
+        <!-- Highlights -->
+        <?php include($root . '/includes/tmrw/2015/tmrw-sep2015-highlights.php'); ?> 
+
+        <!-- Music -->
+        <?php include($root . '/includes/tmrw/2015/tmrw-sep2015-soundcloud.php'); ?>
+        
         <!-- Roster Module --> 
-      <?php include($root . '/includes/sc/2015/sep/sc-sep2015-roster-post.php'); ?>
+        <?php include($root . '/includes/tmrw/2015/tmrw-sep2015-roster-post.php'); ?>
 
         <!-- Floorplan -->
         <?php include($root . '/includes/fc/2015/fc-sep2015-floorplan.php'); ?> 
