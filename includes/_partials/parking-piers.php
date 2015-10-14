@@ -6,13 +6,13 @@
 
 <ul class="no-list">
   <li class="title">Neighborhood Parking</li>
-  <li>he Piers complex will be busy with ENK Exhibitors as well as ship traffic. If you are driving to the Piers, you may wish to park in one of the nearby lots.</li>
+  <li>The Piers complex will be busy with ENK Exhibitors as well as ship traffic. If you are driving to the Piers, you may wish to park in one of the nearby lots.</li>
   <li>Note: parking costs vary; you should ask the cost before parking.</li>
 </ul>
 
 <ul class="no-list">
   <li class="title">Rapid Park</li>
-  <li>West 55th Street btwn 9th &amp; 10th Ave, 6am-1am daily, Cash/Credit Card (no trucks or SUV’s)</li>
+  <li>West 55th Street btwn 9th &amp; 10th Ave, 6am-1am daily, Cash/Credit Card (no trucks or SUV's)</li>
 </ul>
 
 <ul class="no-list">

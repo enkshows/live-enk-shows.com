@@ -24,7 +24,7 @@ $shows = array(
       "location" => "Javits.NYC",
       "year" => "2015",
       "attend" => true,
-      "link" => "http://www.enkshows.com/childrensclub/"
+      "link" => "http://www.enkshows.com/childrensclub/2015/oct"
     ),
 
     array(
@@ -33,7 +33,7 @@ $shows = array(
       "abbreviation" => "ac",
       "dates" => "January 10.11.12",
       "location" => "Pier 94.NYC",
-      "year" => "2015",
+      "year" => "2016",
       "attend" => true,
       "link" => "http://www.enkshows.com/circuit"
     ),  
@@ -44,20 +44,40 @@ $shows = array(
       "abbreviation" => "ic",
       "dates" => "January 10.11.12",
       "location" => "Pier 94.NYC",
-      "year" => "2015",
+      "year" => "2016",
       "attend" => true,
       "link" => "http://www.enkshows.com/intermezzo"
     ),   
+    array(
+      // show information
+      "name" => "Children's Club",
+      "abbreviation" => "cc",
+      "dates" => "January 10.11.12",
+      "location" => "Pier 92.NYC",
+      "year" => "2016",
+      "attend" => true,
+      "link" => "http://www.enkshows.com/childrensclub"
+    ),
     array(
       // show information
       "name" => "Coterie",
       "abbreviation" => "fc",
       "dates" => "February 22.23.24",
       "location" => "Javits.NYC",
-      "year" => "2015",
+      "year" => "2016",
       "attend" => true,
       "link" => "http://www.enkshows.com/coterie"
-    ),
+    ), 
+    array(
+      // show information
+      "name" => "TMRW",
+      "abbreviation" => "tmrw",
+      "dates" => "February 22.23.24",
+      "location" => "Javits.NYC",
+      "year" => "2016",
+      "attend" => true,
+      "link" => "http://www.enkshows.com/coterie"
+    ), 
     array(
       // show information
       // this should never have the "attend" value

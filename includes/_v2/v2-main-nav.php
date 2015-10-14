@@ -18,7 +18,7 @@
             <a href="/intermezzo" title="Intermezzo Collections" class="ext">Intermezzo</a> 
               <ul class="nav_third ic-nav" id="navThirdic "> </ul> </li>
           <li>
-            <a href="/childrensclub" title="Childrens Club" class="ext">Childrens Club</a> 
+            <a href="/childrensclub/2015/oct" title="Childrens Club" class="ext">Childrens Club</a> 
               <ul class="nav_third  cc-nav" id="navThirdcc"> </ul> </li>
           <li>
             <a href="http://www.magiconline.com/project-womens" target="_blank" title="Project Womens" class="ext">Project Womens</a>

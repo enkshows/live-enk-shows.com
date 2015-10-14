@@ -3,7 +3,7 @@ $name     = "Sole Commerece";
 $content  = "A trade show dedicated exclusively to footwear and handbags with the best domestic and international retailers.";
 $keyword  = "Sole Commerce, Mens Tradeshow, Womens fashion tradeshow, New york trade show, international trade show, fashion coterie, ENK, Accessories tradeshow, Shoes Tradeshow, sole commerce, fashion trade events";
   include('../includes/variables.php'); 
-  include($root . '/includes/sc/2015/sep/sc-sep2015-vars.php');
+  include($root . '/includes/sc/2016/feb/sc-feb2016-vars.php');
   include($root . '/includes/show-header.php');
 ?> 
 <body class="coteriePage sc showPage" id="showPage">
@@ -23,7 +23,7 @@ $keyword  = "Sole Commerce, Mens Tradeshow, Womens fashion tradeshow, New york t
     <div id="main-col">
       <!-- Show Hero / Info Container -->
       <?php if ( $postano) : ?>
-        <?php include($root . '/includes/sc/2015/sep/sc-feb2015-postano.php'); ?>
+        <?php include($root . '/includes/sc/2016/feb/sc-feb2016-postano.php'); ?>
       <?php elseif ( $hero) : ?>
         <?php include($root . '/includes/main-hero-container.php'); ?>
       <?php else : ?>
@@ -31,16 +31,16 @@ $keyword  = "Sole Commerce, Mens Tradeshow, Womens fashion tradeshow, New york t
       <?php endif; ?>
 
       <!-- Show Descriptions -->
-      <?php include($root . '/includes/sc/2015/sc-2015-show-description.php'); ?>
+      <?php include($root . '/includes/sc/2016/feb/sc-2016-show-description.php'); ?>
     
       <!-- Info Links/forms -->  
-      <?php include($root . '/includes/sc/2015/sc-2015-forms.php'); ?>  
+      <?php include($root . '/includes/sc/2016/feb/sc-2016-forms.php'); ?>  
 
       <!-- Roster Module --> 
-      <?php include($root . '/includes/sc/2015/sep/sc-sep2015-roster-post.php'); ?>
+      <?php include($root . '/includes/sc/2016/feb/sc-feb2016-roster-post.php'); ?>
 
       <!-- Floorplan Module --> 
-      <?php include($root . '/includes/fc/2015/fc-sep2015-floorplan.php'); ?>      
+      <?php include($root . '/includes/sc/2016/feb/sc-feb2016-floorplan.php'); ?>      
 
       <!-- Hotel + Travel Module --> 
       <?php include($root . '/includes/_partials/partial-hotel.php'); ?>  
