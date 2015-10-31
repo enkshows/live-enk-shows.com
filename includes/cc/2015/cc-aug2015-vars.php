@@ -10,7 +10,7 @@ $year       =   '2015';
 $dates      =   $month . ' 2.3.4';
 $location   =   $dates . ' @ ' . $venue . '.' . $city;
 $showspan   =   'Sunday/Monday, 9am - 6pm • Tuesday, 9am - 5pm';
-$parking    =   'https://mpsparking.com/view_special_coupon?coupon=101';
+$parking    =   'https://mpsparking.com/view_special_coupon?coupon=106';
 $dayone     =   'Sunday, August 2 / 9am-6pm';
 $daytwo     =   'Monday, August 3 / 9am-6pm';
 $daythree   =   'Tuesday, August 4 / 9am-5pm';

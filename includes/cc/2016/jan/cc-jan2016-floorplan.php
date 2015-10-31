@@ -15,8 +15,15 @@
       </nav>
       <div class="row-item item-two-third">
         <a href="<?php echo PDF_CHILDRENS; ?>2016/jan/cc-jan2016-exhibitor-map.pdf" target="_blank" width="520" border="0">
-          <img width="320"  src="<?php echo IMG_CHILDRENS; ?>2016/jan/pier_92.png" width="620" width="363" border="0">
+          <img width="320"  src="<?php echo IMG_CHILDRENS; ?>2016/jan/javits_jan16-lv4.png" width="620" width="363" border="0">
         </a>
+        <a href="<?php echo PDF_CHILDRENS; ?>2016/jan/cc-jan2016-exhibitor-map.pdf" target="_blank" width="520" border="0">
+          <img width="320"  src="<?php echo IMG_CHILDRENS; ?>2016/jan/javits_jan16-lv3.png" width="620" width="363" border="0">
+        </a>
+        <a href="<?php echo PDF_CHILDRENS; ?>2016/jan/cc-jan2016-exhibitor-map.pdf" target="_blank" width="520" border="0">
+          <img width="320"  src="<?php echo IMG_CHILDRENS; ?>2016/jan/javits_jan16-lv1.png" width="620" width="363" border="0">
+        </a>
+
  
       </div>  
     </div>

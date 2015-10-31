@@ -16,26 +16,16 @@ $shows = array(
     // attend: set to true to display a tile in the 'attend' section 
           // NOTE: the only tile that should not be set is the Shop The Floor tile
     // link: links the showtile to its respective show
-    array(
-      // show information
-      "name" => "Children's Club",
-      "abbreviation" => "cc",
-      "dates" => "October 18.19.20",
-      "location" => "Javits.NYC",
-      "year" => "2015",
-      "attend" => true,
-      "link" => "http://www.enkshows.com/childrensclub/2015/oct"
-    ),
 
     array(
       // show information
       "name" => "Accessorie Circuit",
       "abbreviation" => "ac",
       "dates" => "January 10.11.12",
-      "location" => "Pier 94.NYC",
+      "location" => "Show Piers 92/94.NYC",
       "year" => "2016",
       "attend" => true,
-      "link" => "http://www.enkshows.com/circuit"
+      "link" => "/circuit"
     ),  
 
     array(
@@ -43,21 +33,31 @@ $shows = array(
       "name" => "Intermezzo Collections",
       "abbreviation" => "ic",
       "dates" => "January 10.11.12",
-      "location" => "Pier 94.NYC",
+      "location" => "Show Piers 92/94.NYC",
       "year" => "2016",
       "attend" => true,
-      "link" => "http://www.enkshows.com/intermezzo"
+      "link" => "/intermezzo"
     ),   
     array(
       // show information
       "name" => "Children's Club",
       "abbreviation" => "cc",
       "dates" => "January 10.11.12",
-      "location" => "Pier 92.NYC",
+      "location" => "Pier 94.NYC",
       "year" => "2016",
       "attend" => true,
-      "link" => "http://www.enkshows.com/childrensclub"
+      "link" => "/childrensclub/"
     ),
+    array(
+      // show information
+      "name" => "FWD",
+      "abbreviation" => "fwd",
+      "dates" => "January 10.11.12",
+      "location" => "Javits.NYC",
+      "year" => "2016",
+      "attend" => true,
+      "link" => "/fwd"
+    ),    
     array(
       // show information
       "name" => "Coterie",
@@ -66,8 +66,18 @@ $shows = array(
       "location" => "Javits.NYC",
       "year" => "2016",
       "attend" => true,
-      "link" => "http://www.enkshows.com/coterie"
+      "link" => "/coterie"
     ), 
+    array(
+      // show information
+      "name" => "Sole Commerce",
+      "abbreviation" => "sc",
+      "dates" => "February 22.23.24",
+      "location" => "Javits.NYC",
+      "year" => "2016",
+      "attend" => true,
+      "link" => "/sole"
+    ),     
     array(
       // show information
       "name" => "TMRW",
@@ -76,8 +86,18 @@ $shows = array(
       "location" => "Javits.NYC",
       "year" => "2016",
       "attend" => true,
-      "link" => "http://www.enkshows.com/coterie"
-    ), 
+      "link" => "/tmrw"
+    ),     
+    array(
+      // show information
+      "name" => "FWD",
+      "abbreviation" => "fwd",
+      "dates" => "February 22.23.24",
+      "location" => "Javits.NYC",
+      "year" => "2016",
+      "attend" => true,
+      "link" => "/fwd/2016/feb"
+    ),     
     array(
       // show information
       // this should never have the "attend" value

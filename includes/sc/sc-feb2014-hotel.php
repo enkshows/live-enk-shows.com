@@ -26,9 +26,9 @@
 
           <strong>HOURS</strong><br>
 
-          Sunday, February 23 / 9am - 6pm<br>
-          Monday, February 24 / 9am - 6pm<br>
-          Tuesday, February 25 / 9am - 5pm<br><br>
+          Sunday, February 21 / 9am - 6pm<br>
+          Monday, February 22 / 9am - 6pm<br>
+          Tuesday, February 23 / 9am - 5pm<br><br>
         </br>
 
       </div> <!-- End of Manual R-->

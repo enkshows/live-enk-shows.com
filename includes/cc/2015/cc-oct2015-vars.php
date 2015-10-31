@@ -13,6 +13,7 @@ $location   =   $dates . ' @ ' . $venue . '.' . $city;
 $dayone     =   'Sunday, October 18 / 9am-6pm';
 $daytwo     =   'Monday, October 19 / 9am-6pm';
 $daythree   =   'Tuesday, October 20 / 9am-5pm';
+$parking    =   'https://mpsparking.com/view_special_coupon?coupon=106';
 // $coupon      =   'https://compass.onpeak.com/e/71ccm15';
 $hotel      =   'https://compass.onpeak.com/e/71oct15/';
 //$video      =   '//player.vimeo.com/video/112816633?title=0&amp;byline=0&amp;portrait=0&amp;color=ff3333';

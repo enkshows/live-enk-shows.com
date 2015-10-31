@@ -1,6 +1,6 @@
 <?php 
 $showname   =   'Accessorie Circuit';
-$venue      =   ' Pier 94 ';
+$venue      =   ' Show Piers 92/94 ';
 $city       =   ' NYC . ';
 $map        =   'piers';
 $lat        =   '40.769339';

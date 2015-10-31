@@ -762,3 +762,34 @@ p {
       margin-right: 10px;
       color: #ee1c24;
     }
+
+/* =============================================================================
+ PRESS REGISTRATION MODULE
+ ========================================================================== */
+
+.press-reg-container {
+  border-top-style: inset;
+  width: 400px; 
+  margin: 10px 0 0 0;
+  padding: 12px 12px 15px 17px;
+  background-color: rgba(51,51,51,0.7);
+  font-family: 'GMedium', Arial, Helvetica, sans-serif;
+  color: #FFF;
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  display: inline-block;
+}
+a.regBtn  {
+  font-family: 'GMedium', Arial, Helvetica, sans-serif;
+  font-size: 11px;
+  color: #333;
+  width: 120px; 
+  padding: 2px 3px 2px 3px;
+  background-color: #FFF;
+  text-align: center;
+  display: inline-block;
+  letter-spacing: 1px;
+  font-weight: bold;
+} 
+  

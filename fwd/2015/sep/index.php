@@ -8,13 +8,13 @@
   // to help with file paths and URLS
   // directory path will change if this is a main show page or 
   // archived show page (EX: enkshows.com/coterie VS enkshows.com/coterie/2015/feb)
-  include('../includes/variables.php'); 
+  include('../../../includes/variables.php'); 
 
   // MathGaurd powers our form Captcha. Must be included
   require($root . '/bin/ClassMathGuard.php');
 
   // Show specific variables
-  include($root . '/includes/fwd/2015/fwd-aug2015-vars.php');
+  include($root . '/includes/fwd/2015/fwd-sep2015-vars.php');
 
   // General show header with all relevant script/link tags
   include($root . '/includes/show-header.php');
@@ -53,14 +53,19 @@ into the span tag and creatse the hero image for the background.
         <?php include($root . '/includes/new-template-show-header.php'); ?>
       <?php endif; ?>
 
-      <?php include($root . '/includes/_v2/v2-show-description.php'); ?>
+      <!-- Show Descriptions -->
+      <?php include($root . '/includes/fwd/2015/fwd-2015-show-description.php'); ?>
 
+      <!-- Forms -->
       <?php include($root . '/includes/fwd/2015/fwd-forms.php'); ?>  
 
-      <?php include($root . '/includes/fwd/2015/fwd-aug2015-floorplan.php'); ?>      
+      <!-- Floorplan -->
+      <?php include($root . '/includes/fwd/2015/fwd-sep2015-floorplan.php'); ?>      
 
+      <!-- Hotel + Travel -->
       <?php include($root . '/includes/_partials/partial-hotel.php'); ?>  
 
+      <!-- Gallery -->
       <?php include($root . '/includes/_partials/partial-gallery.php'); ?>  
     
       <!-- BLANK SPACE-->

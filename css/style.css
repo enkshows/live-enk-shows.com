@@ -1742,8 +1742,10 @@ h5.who {
 .ac-jan2016-header 	    {background: url(../img/shows/acic/2016/jan/ac-jan2016-header.jpg) top center no-repeat;}
 .fc-feb2016-header 	    {background: url(../img/shows/coterie/2016/feb/fc-feb2016-header.jpg) top center no-repeat;}
 .tmrw-feb2016-header 	{background: url(../img/shows/tmrw/2016/feb/tmrw-feb2016-header.jpg) top center no-repeat;}
-.sc-feb2016-header 	{background: url(../img/shows/sole/2016/feb/sc-feb2016-header.jpg) top center no-repeat;}
-.cc-jan2016-header 	{background: url(../img/shows/childrensclub/2016/jan/cc-jan2016-header.jpg) top center no-repeat;}
+.sc-feb2016-header 		{background: url(../img/shows/sole/2016/feb/sc-feb2016-header.jpg) top center no-repeat;}
+.cc-jan2016-header 		{background: url(../img/shows/childrensclub/2016/jan/cc-jan2016-header.jpg) top center no-repeat;}
+.fwd-jan2016-header 	{background: url(../img/shows/fwd/2016/jan/fwd-jan2016-header.jpg) top center no-repeat;}
+.fwd-feb2016-header 	{background: url(../img/shows/fwd/2016/feb/fwd-feb2016-header.jpg) top center no-repeat;}
 
 .flower, 
 .flower2, 
@@ -2091,6 +2093,7 @@ h5.who {
 	padding: 0;
 	text-decoration: underline;
 }
+
 
 /*Form that appears when you click visit show or exhibitor applications */
 .form-hide1 {
@@ -2777,6 +2780,7 @@ tr td {
 #exhibitors-content1 #content table tbody tr:nth-child(odd){
 	background: url(../img/stripe-light-bg1.png) repeat;
 }
+
 
 
 /* =============================================================================

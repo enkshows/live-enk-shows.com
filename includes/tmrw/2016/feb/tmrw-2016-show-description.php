@@ -4,7 +4,8 @@
       <a href="http://enkshows.com/tmrw"><img src="<?php echo IMG_FC; ?>logo-tmrw.png" /></a>
     </div>
     <div class="row-item">
-      <p>A select portfolio of contemporary designers in a unique and intimate setting within Coterie, held twice a year in NYC. The future marketplace, highlighting fresh talent, exceptional quality and showcasing tomorrow’s premiere brands.</p>
+      <p>A select portfolio of contemporary designers in a unique and intimate setting within Coterie, held twice a year in NYC. The future marketplace,
+      highlighting fresh talent, exceptional quality and showcasing tomorrow’s premiere brands.</p>
     </div>
   </div>
   

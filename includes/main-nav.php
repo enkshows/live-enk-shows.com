@@ -1,13 +1,13 @@
 <a class="nav_enk" title="ENK International" href="<?php echo BASE; ?>">ENK International</a>
 <ul class="nav_first">
-  <li><a href="../#show-dates" title="About">Show Dates</a></li>
-  <li><a href="../#about" title="About">About</a></li>
-  <li><a href="../#attend" title="Attendee/Press Registration">Attend</a></li>
-  <li><a href="../#exhibit" title="Exhibitor Application">Exhibit</a></li>
-  <li><a href="../#press" title="Press">Press</a></li>
-  <li><a href="../#travel" title="Travel">Travel</a></li>
-  <li><a href="../#contact" title="Contact">Contact</a></li>
-  <li><a href="../#home" title="Shows">Shows</a>
+  <li><a href="/#show-dates" title="About">Show Dates</a></li>
+  <li><a href="/#about" title="About">About</a></li>
+  <li><a href="/#attend" title="Attendee/Press Registration">Attend</a></li>
+  <li><a href="/#exhibit" title="Exhibitor Application">Exhibit</a></li>
+  <li><a href="/#press" title="Press">Press</a></li>
+  <li><a href="/#travel" title="Travel">Travel</a></li>
+  <li><a href="/#contact" title="Contact">Contact</a></li>
+  <li><a href="/#home" title="Shows">Shows</a>
   <ul class="nav_second" id="navSecondShow"> 
     <li>
       <a href="/circuit" title="Accessorie Circuit">Circuit</a> 
@@ -16,7 +16,7 @@
       <a href="/intermezzo" title="Intermezzo Collections" >Intermezzo</a> 
         <ul class="nav_third ic-nav" id="navThirdic "> </ul> </li>
     <li>
-      <a href="/childrensclub/2015/oct" title="Childrens Club">Childrens Club</a> 
+      <a href="/childrensclub/" title="Childrens Club">Childrens Club</a> 
         <ul class="nav_third  cc-nav" id="navThirdcc" > </ul> </li>
     <li>
       <a href="/enkvegas" title="PROJECT WOMENS" >PROJECT WOMENS</a>

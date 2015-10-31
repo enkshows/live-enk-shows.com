@@ -3,7 +3,8 @@
   <div class="desc-lg">
    <span class="info-2013-shows">
 
-      <a href="/coterie/"><strong>February 22.23.24, 2016 @ Javits Center.NYC</strong></a><br>
+      <strong>February 22.23.24, 2016 @ Javits Center . NYC</strong><br>
+      <!--<a href="/coterie/"><strong>February 22.23.24, 2016 @ Javits Center.NYC</strong></a><br>-->
       Monday/Tuesday, 9am - 6pm • Wednesday, 9am - 5pm<br><br>
       
 

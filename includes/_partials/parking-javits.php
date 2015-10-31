@@ -1,7 +1,10 @@
 <h3>Javits Parking</h3>
 <?php if ($parking): ?>
-  <!--<p><a class="alert" href="<?php //echo $parking; ?>" target="_blank">Discounted Parking Coupon</a></p>-->
+  <p><a class="alert" href="<?php echo $parking; ?>" target="_blank">Discounted Parking Coupon</a></p>
 <?php endif; ?>
+<!--<ul class="no-list">
+  <li class="title"><a href="https://mpsparking.com/view_special_coupon?coupon=106" target="_blank"><b>DISCOUNTED PARKING COUPON</b></a></li>
+</ul>-->
 <ul class="no-list">
   <li class="title">MP 41 LLC, 475 West 41st Street</li>
   <li>Up to 10 hrs - $12</li>

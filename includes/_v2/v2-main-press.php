@@ -108,7 +108,24 @@
 		</ul>
 	</div>
 	<div class="row">
-		<h2>Press Contact</h2>
+		<!--<h2>Press Registration</h2>
+
+			<div class="press-reg-container">
+				<p>To register as press for Circuit, Intermezzo, FWD January 10.11.12 2016</p>
+				<a href="http://advanstar.force.com/acic/webRegLookupPress" class="regBtn" target="_blank">CLICK HERE</a>
+			</div>
+
+			<div class="press-reg-container">
+				<p>To register as press for Children’s Club January 10.11.12 2016</p>
+				<a href="http://advanstar.force.com/childrensclub/webRegLookupPress" class="regBtn" target="_blank">CLICK HERE</a>
+			</div>	
+
+			<div class="press-reg-container">
+				<p>To register as press for Coterie, Sole, TMRW, FWD February 22.23.24 2016</p>
+				<a href="http://advanstar.force.com/coterie/webRegLookupPress" class="regBtn" target="_blank">CLICK HERE</a>
+			</div>-->					
+  
+		<!--
 		<p>For press inquiries please complete the form below. A representative will contact you within 24 business hours. For immediate assistance, please call 212.951.6600.</p>
 		<div id="press_form">
 			<form id="pressForm" method="post" action="bin/pressForm.php" class="form">
@@ -135,7 +152,7 @@
 				</fieldset>
 				<div class="form_message"></div>
 			</form>
-		</div>
+		</div>-->
 	</div>
 </div>
 

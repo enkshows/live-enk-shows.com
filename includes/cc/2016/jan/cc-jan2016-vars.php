@@ -1,10 +1,10 @@
 <?php 
 $showname   =   'Children\'s Club';
-$venue      =   'Pier 92 ';
-$city       =   ' NYC .';
+$venue      =   ' Pier 94 ';
+$city       =   ' NYC . ';
 $map        =   'piers';
 $lat        =   '40.769339';
-$long       =   '-73.996254'; 
+$long       =   '-73.996254';
 $month      =   'January';
 $year       =   '2016';
 $dates      =   $month . ' 10.11.12 - 2016';
@@ -21,7 +21,7 @@ $hotel      =   'https://compass.onpeak.com/e/71oct15/';
 $header     =   'cc-jan2016-header';
 $gallery    =   IMG_CHILDRENS . '2015/oct/cc-oct2015-gallery';
 $address    = array(
-  '55 st @ 12th Ave.',
+  '55 St @ 12th Ave',
   'NYC 10019'
   );
 ?>

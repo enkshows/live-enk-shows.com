@@ -9,9 +9,9 @@
           <li>3D Overview</li>
         </ul>
         <div id="btn1" class="showcol-btn1">
-        <a onClick=" OpenMapYourShowMax(this.href,this.target);return false" class="showcol-link" target="floorplan" 
-        href="http://www.mapyourshow.com/shows/index.cfm?Show_ID=COTERIE15">Show Planner</a>
-        <!--<a href="http://www.mapyourshow.com/shows/index.cfm?show_id=coterie15" target="_blank" class="showcol-link">SHOW PLANNER</a>-->
+        <!--<a onClick=" OpenMapYourShowMax(this.href,this.target);return false" class="showcol-link" target="floorplan" 
+        href="http://www.mapyourshow.com/shows/index.cfm?Show_ID=COTERIE15">Show Planner</a>-->
+        <a href="http://www.enkshows.com/pdf/coterie/2016/feb/fc-feb2016-exhibitor_map.pdf" target="_blank" class="showcol-link">SHOW PLANNER</a>
         </div>     
       </nav>
       <div class="row-item item-two-third">
