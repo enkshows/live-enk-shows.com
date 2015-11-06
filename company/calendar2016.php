@@ -65,13 +65,13 @@
         <br /> 
 
         <h3>CHILDREN’S CLUB</h3>
-        <a href="/childrensclub/2016/jan">January 10.11.12 @ Javits Center.NYC</a><br />
-        March 13.14.15 @ Javits Center.NYC
+        <a href="/childrensclub/">January 10.11.12 @ Pier 94.NYC</a><br />
+        March 13.14.15 @ Javits Center.NYC</a>
         <br /> 
         <br /> 
 
         <h3>FWD</h3>
-        <a href="/fwd/">January 10.11.12 @ Pier 94.NYC</a><br />
+        <a href="/fwd/">January 10.11.12 @ Javits Center.NYC</a><br />
         <a href="/fwd/2016/feb">February 22.23.24 @ Javits Center.NYC</a><br />
         May 2.3.4 @ Javits Center.NYC
         <br /> 

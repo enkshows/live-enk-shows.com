@@ -19,7 +19,7 @@
       <a href="/childrensclub/" title="Childrens Club">Childrens Club</a> 
         <ul class="nav_third  cc-nav" id="navThirdcc" > </ul> </li>
     <li>
-      <a href="/enkvegas" title="PROJECT WOMENS" >PROJECT WOMENS</a>
+      <a href="http://www.magiconline.com/project-womens" target="_blank"  title="PROJECT WOMENS" >PROJECT WOMENS</a>
         <ul class="nav_third ev-nav" id="navThirdvegas " > </ul> </li>
     <li>
       <a href="/coterie" title="Fashion Coterie" >Coterie</a>

@@ -25,7 +25,8 @@
 
 <!-- Fixed Footer -->
 <div id="footer">
-  <div id="lFoot"><img src="<?php echo VENDORS; ?>/UBM_Footer.png" alt="" height="30"><span class="foot_space">641 LEXINGTON AVENUE NEW YORK, NY 10022</span><span class="foot_space">T. 212.951.6600</span></div>
+  <div id="lFoot"><img src="<?php echo VENDORS; ?>/UBM_Footer.png" alt="" height="30"><span class="foot_space">2 PENN PLAZA - NEW YORK, NY 10121</span>
+  <span class="foot_space">T. 212.600.3000</span></div>
   <div id="rFoot"><a href="mailto:enkshows@enkshows.com" class="greyLink" target="_blank">ENKSHOWS@ENKSHOWS.COM</a></div>
 </div>
     

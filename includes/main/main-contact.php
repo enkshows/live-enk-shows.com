@@ -4,11 +4,11 @@
     <ul class="no-list one-third">
       <li>New York Offices</li>
       <li>ENK International LLC</li>
-      <li>641 Lexington Avenue</li>
-      <li>8th Floor</li>
-      <li>New York City 10022</li>
-      <li>Tel:  212.951.6600</li>
-      <li>Fax:  917.591.8578</li>
+      <li>2 Penn Plaza</li>
+      <li>15th Floor</li>
+      <li>New York, NY 10121</li>
+      <li>Tel: 212.600.3000</li>
+      <!--<li>Fax:  917.591.8578</li>-->
     </ul>
     <ul class="no-list one-third">
       <li>California Offices</li>

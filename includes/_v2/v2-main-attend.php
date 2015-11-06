@@ -33,42 +33,42 @@
 
 		<div class="module-content-attend"> 
 
-		<a class="page-tiles attend-tile" href="http://www.enkregistrations.com/shows.aspx" target="_blank">
+		<a class="page-tiles attend-tile" href="http://advanstar.force.com/acic?tag=ACIC161-0-5-103" target="_blank">
 			<h1>Accessorie Circuit</h1>
 			<p>JANUARY 10.11.12 @ PIERS 92/94.NYC</p>
 		</a>
 
-		<a class="page-tiles attend-tile" href="http://www.enkregistrations.com/shows.aspx" target="_blank">
+		<a class="page-tiles attend-tile" href="http://advanstar.force.com/acic?tag=ACIC161-0-5-103" target="_blank">
 			<h1>INTERMEZZO COLLECTIONS</h1>
 			<p>JANUARY 10.11.12 @ PIERS 92/94.NYC</p>
 		</a> 
 		
-		<a class="page-tiles attend-tile" href="http://www.enkregistrations.com/shows.aspx" target="_blank">
+		<a class="page-tiles attend-tile" href="http://advanstar.force.com/childrensclub?tag=CLB161-0-5-103" target="_blank">
 			<h1>CHILDREN'S CLUB</h1>
 			<p>JANUARY 10.11.12 @ PIER 94.NYC</p>
 		</a> 
 
-		<a class="page-tiles attend-tile" href="http://www.enkregistrations.com/shows.aspx" target="_blank">
+		<a class="page-tiles attend-tile" href="http://advanstar.force.com/acic?tag=ACIC161-0-5-103" target="_blank">
 			<h1>FWD</h1>
 			<p>JANUARY 10.11.12 @ JAVITS.NYC</p>
 		</a>
 
-		<a class="page-tiles attend-tile" href="http://www.enkregistrations.com/shows.aspx" target="_blank">
+		<a class="page-tiles attend-tile" href="http://advanstar.force.com/coterie?tag=COT161-0-5-103" target="_blank">
 			<h1>COTERIE</h1>
 			<p>FEBRUARY 22.23.24 @ JAVITS.NYC</p>
 		</a>
 
-		<a class="page-tiles attend-tile" href="http://www.enkregistrations.com/shows.aspx" target="_blank">
+		<a class="page-tiles attend-tile" href="http://advanstar.force.com/coterie?tag=COT161-0-5-103" target="_blank">
 			<h1>SOLE COMMERCE</h1>
 			<p>FEBRUARY 22.23.24 @ JAVITS.NYC</p>
 		</a>
 
-		<a class="page-tiles attend-tile" href="http://www.enkregistrations.com/shows.aspx" target="_blank">
+		<a class="page-tiles attend-tile" href="http://advanstar.force.com/coterie?tag=COT161-0-5-103" target="_blank">
 			<h1>TMRW</h1>
 			<p>FEBRUARY 22.23.24 @ JAVITS.NYC</p>
 		</a>
 
-		<a class="page-tiles attend-tile" href="http://www.enkregistrations.com/shows.aspx" target="_blank">
+		<a class="page-tiles attend-tile" href="http://advanstar.force.com/coterie?tag=COT161-0-5-103" target="_blank">
 			<h1>FWD</h1>
 			<p>FEBRUARY 22.23.24 @ JAVITS.NYC</p>
 		</a>		
