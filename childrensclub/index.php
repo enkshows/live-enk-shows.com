@@ -41,7 +41,7 @@
     <?php include($root . '/includes/cc/2016/jan/cc-jan2016-highlights.php'); ?>
      
     <!-- CC Roster -->
-    <!--<?php //include($root . '/includes/cc/2016/jan/cc-jan2016-roster.php'); ?>-->
+    <?php include($root . '/includes/cc/2016/jan/cc-jan2016-roster.php'); ?>
 
     <!-- CC Floorplan -->
     <?php include($root . '/includes/cc/2016/jan/cc-jan2016-floorplan.php'); ?>

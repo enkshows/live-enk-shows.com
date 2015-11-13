@@ -16,7 +16,7 @@
       </nav>
       <div class="row-item item-two-third">
         <a href="<?php echo PDF_FWD; ?>2016/jan/fwd-jan2016-exhibitor_map.pdf" target="_blank">
-          <img src="<?php echo IMG_FWD; ?>2016/pier_94.png" width="520" border="0">
+          <img src="<?php echo IMG_FWD; ?>2016/javits_jan16-lv4.png" width="321" border="0">
         </a>
       </div>  
     </div>
