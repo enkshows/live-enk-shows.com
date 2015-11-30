@@ -1726,24 +1726,39 @@ h5.who {
 
 /* 2015 Heros */
 .ac-jan2015-header 	    {background: url(../img/shows/acic/2015/jan/ac-jan2015-header.jpg) top center no-repeat;}
+
 .ic-jan2015-header 		{background: url(../img/shows/acic/2015/jan/ic-jan2015-header.jpg) top center no-repeat;}
+
 .ev-feb2015-header 		{background: url(../img/shows/vegas/2015/feb/ev-feb2015-header.jpg) no-repeat;}
+
 .ic-jan2015-hero 		{background: url(../img/shows/acic/2015/jan/ic-jan2015-hero.jpg) top center no-repeat;}
 .ic-aug2015-hero 		{background: url(../img/shows/acic/2015/aug/ic-aug2015-hero.jpg) top center no-repeat;}
+
 .ac-jan2015-hero 		{background: url(../img/shows/acic/2015/jan/ac-jan2015-hero.jpg) top center no-repeat;}
 .ac-aug2015-hero 		{background: url(../img/shows/acic/2015/aug/ac-aug2015-hero.jpg) top center no-repeat;}
+
 .fwd-aug2015-hero 		{background: url(../img/shows/fwd/2015/aug/fwd-aug2015-hero.jpg) top center no-repeat;}
 .fwd-sep2015-hero 		{background: url(../img/shows/fwd/2015/sep/fwd-sept2015-hero.jpg) top center no-repeat;}
+
 .cc-oct2015-hero 		{background: url(../img/shows/childrensclub/2015/oct/cc-oct2015-hero.jpg) top center no-repeat;}
+
 .tmrw-sep2015-hero 		{background: url(../img/shows/tmrw/2015/sep/tmrw-sep2015-hero.jpg) top center no-repeat;}
 
+
+
 /* 2016 Heros */
-.ic-jan2016-header 	    {background: url(../img/shows/acic/2016/jan/ic-jan2016-header.jpg) top center no-repeat;}
-.ac-jan2016-header 	    {background: url(../img/shows/acic/2016/jan/ac-jan2016-header.jpg) top center no-repeat;}
+.ac-jan2016-hero 	    {background: url(../img/shows/acic/2016/jan/ac-jan2016-hero.jpg) top center no-repeat;}
+
+.ic-jan2016-hero 	    {background: url(../img/shows/acic/2016/jan/ic-jan2016-hero.jpg) top center no-repeat;}
+
 .fc-feb2016-header 	    {background: url(../img/shows/coterie/2016/feb/fc-feb2016-header.jpg) top center no-repeat;}
+
 .tmrw-feb2016-header 	{background: url(../img/shows/tmrw/2016/feb/tmrw-feb2016-header.jpg) top center no-repeat;}
+
 .sc-feb2016-header 		{background: url(../img/shows/sole/2016/feb/sc-feb2016-header.jpg) top center no-repeat;}
-.cc-jan2016-header 		{background: url(../img/shows/childrensclub/2016/jan/cc-jan2016-header.jpg) top center no-repeat;}
+
+.cc-jan2016-hero 		{background: url(../img/shows/childrensclub/2016/jan/cc-jan2016-hero.jpg) top center no-repeat;}
+
 .fwd-jan2016-header 	{background: url(../img/shows/fwd/2016/jan/fwd-jan2016-header.jpg) top center no-repeat;}
 .fwd-feb2016-header 	{background: url(../img/shows/fwd/2016/feb/fwd-feb2016-header.jpg) top center no-repeat;}
 

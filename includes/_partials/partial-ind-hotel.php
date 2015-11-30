@@ -1,4 +1,4 @@
-<div class="module" id="hotel-travel">
+<div class="module" id="hotel-travel" style="height 1150px">
   <h1>Hotel + Amenities</h1>
   <div class="row">
     <nav class="row-item item-one-third page-inner-nav partial-hotel">
@@ -13,22 +13,23 @@
     </nav>
     <div class="row-item item-two-third">
       <!-- Accomodation  -->
-      <?php include($root . '/includes/_partials/partial-accomodations.php');?>
-
-      <!-- Car Service -->
-      <?php include($root . '/includes/_partials/partial-car-service.php');?>
+      <?php include($root . '/includes/_partials/partial-ind-accomodations.php');?>
 
       <!-- Taxi Service -->
-      <?php include($root . '/includes/_partials/partial-taxi-service.php');?>
+      <?php include($root . '/includes/_partials/partial-ind-taxi-service.php');?>
+
+      <!-- Car Service -->
+      <?php include($root . '/includes/_partials/partial-ind-car-service.php');?>
 
       <!-- Airport Transportation -->
-      <?php include($root . '/includes/_partials/partial-airport-transportation.php');?>
+      <?php include($root . '/includes/_partials/partial-ind-airport-transportation.php');?>
 
       <!-- Parking Transportation -->
-      <?php include($root . '/includes/_partials/partial-parking.php');?>
+      <?php include($root . '/includes/_partials/partial-ind-parking.php');?>
       
       <!-- Show Hours Transportation -->
-      <?php include($root . '/includes/_partials/partial-show-hours.php');?>      
+      <?php include($root . '/includes/_partials/partial-show-hours.php');?>
+      
     </div>
   </div>
 </div>

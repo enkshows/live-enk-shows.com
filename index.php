@@ -24,8 +24,7 @@
     
     <!-- About -->
     <?php include("includes/_v2/v2-main-about.php"); ?>
-    
-    
+        
     
     <!-- Exhibit -->
         <?php include("includes/_v2/v2-main-exhibit.php"); ?>
@@ -41,6 +40,5 @@
 
     </div><!-- end main col-->
 </div><!-- end wrapper-->
-
 
 <?php include("includes/_v2/v2-footer.php"); ?>

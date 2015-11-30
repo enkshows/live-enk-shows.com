@@ -17,8 +17,8 @@ $parking    =   'https://mpsparking.com/view_special_coupon?coupon=101';
 $coupon     =   'https://www.morganshotelgroup.com/special/ChildrensClub-Intermezzo';
 $hotel      =   'https://compass.onpeak.com/e/71cac15/';
 // $postano    =   true;
-//$hero       =   'ic-aug2015-hero';
-$header     =   'ic-jan2016-header';
+$hero       =   'ic-jan2016-hero';
+//$header     =   'ic-jan2016-header';
 // $video      =   '';
 $gallery    =   IMG_ACIC . '2016/jan/ic-jan2016-gallery';
 $address    = array(

@@ -66,7 +66,7 @@ into the span tag and creatse the hero image for the background.
       <?php //include($root . '/includes/fwd/2016/jan/fwd-jan2016-roster.php'); ?> -->
 
       <!-- Hotel + Travel -->
-      <?php include($root . '/includes/_partials/partial-hotel.php'); ?>  
+      <div style="height:1790px;"><?php include($root . '/includes/_partials/partial-ind-hotel.php'); ?></div>
 
       <!-- Gallery -->
       <?php include($root . '/includes/_partials/partial-gallery.php'); ?>  

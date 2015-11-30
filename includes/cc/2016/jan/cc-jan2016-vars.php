@@ -17,8 +17,8 @@ $daythree   =   'Tuesday, January 12 / 9am-5pm';
 $hotel      =   'https://compass.onpeak.com/e/71oct15/';
 //$video      =   '//player.vimeo.com/video/112816633?title=0&amp;byline=0&amp;portrait=0&amp;color=ff3333';
 //$postano    =   false;
-//$hero       =   'cc-oct2015-hero';
-$header     =   'cc-jan2016-header';
+$hero       =   'cc-jan2016-hero';
+//$header     =   'cc-jan2016-header';
 $gallery    =   IMG_CHILDRENS . '2015/oct/cc-oct2015-gallery';
 $address    = array(
   '55 St @ 12th Ave',
