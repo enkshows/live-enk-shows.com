@@ -48,7 +48,7 @@
     <?php include($root . '/includes/ac/2016/ac-jan2016-floorplan.php'); ?> 
 
     <!-- Hotel + Travel -->     
-    <div style="height:3575px;"><?php include($root . '/includes/_partials/partial-ind-hotel.php'); ?></div>
+    <div style="float:left;height:1225px;"><?php include($root . '/includes/_partials/partial-ind-hotel.php'); ?></div>
 
     <!-- Video -->     
     <?php include($root . '/includes/ac/2015/ac-aug2015-video.php'); ?>

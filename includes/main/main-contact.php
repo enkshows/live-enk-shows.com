@@ -13,11 +13,10 @@
     <ul class="no-list one-third">
       <li>California Offices</li>
       <li>ENK International LLC</li>
-      <li>2501 Colorado Boulevard</li>
-      <li>Suite 280</li>
-      <li>Santa Monica CA 90404</li>
-      <li>Tel: 310.857.7316</li>
-      <li>Fax: 310.943.2061</li>
+      <li>2901 28th Street</li>
+      <li>Suite 100</li>
+      <li>Santa Monica CA 90405</li>
+      <li>Tel: 310.445.4200</li> 
     </ul>
     <ul class="no-list one-third">
       <li>Contact Emails</li>

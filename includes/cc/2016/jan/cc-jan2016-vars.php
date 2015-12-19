@@ -1,6 +1,6 @@
 <?php 
 $showname   =   'Children\'s Club';
-$venue      =   ' Pier 94 ';
+$venue      =   ' Pier 92 ';
 $city       =   ' NYC . ';
 $map        =   'piers';
 $lat        =   '40.769339';

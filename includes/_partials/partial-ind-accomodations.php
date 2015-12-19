@@ -60,7 +60,7 @@
           <li><p>Perks include complimentary breakfast Thursday through Saturday (with online reservations), in-room spa services (surcharge), a 24-hour gym.</p></li>
          </ul>  
         <ul class="no-list">
-          <li><p><b>New Yorker</b>, rates beginning at $159/night<br/> 
+          <li><p><b>New Yorker</b>, rates beginning at $129/night<br/> 
           481 8th Avenue and 34th Street<br/>
           <a href="http://www.wyndham.com/groupevents2016/12542_UBMLLC/main.wnt" target="_blank">http://www.wyndham.com/groupevents2016/12542_UBMLLC/main.wnt</a> or Call 212 869 4400</p></li>
           <li><p>Built in 1929, this Jazz Age hotel is 1 mile from both the Empire State Building and the High Line.   The muted art deco-inspired rooms offer coffeemakers, 

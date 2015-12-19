@@ -10,19 +10,15 @@
         <fieldset>
           <div class="formcol-l" >
             <select name="showName" class="showName text-input required" tabindex="501">
-             <option value="NONE" >SELECT SHOW</option>
-             <option value="CHILDRENSCLUB">CHILDRENS CLUB JANUARY</option>
-             <option value="CHILDRENSCLUB">CHILDRENS CLUB MARCH</option>
-             <option value="CHILDRENSCLUB" >CHILDRENS CLUB AUGUST</option>
-             <option value="CHILDRENSCLUB"selected="selected">CHILDRENS CLUB OCTOBER</option>
+             <option value="NONE" >SELECT SHOW</option> 
              <option value="CIRCUIT">CIRCUIT</option>
-             <option value="COTERIE">COTERIE</option>
-             <option value="ENKVEGAS">ENKVEGAS</option>
              <option value="INTERMEZZO">INTERMEZZO</option>
-             <option value="ENKSHANGHAI">MODE SHANGHAI ENK</option>
+             <option value="CHILDRENSCLUB" selected="selected">CHILDRENS CLUB</option>
+             <option value="PROJECTWOMENS">PROJECT WOMENS</option>
+             <option value="COTERIE">COTERIE</option> 
              <option value="SOLE">SOLE COMMERCE</option>
              <option value="TMRW">TMRW</option>
-             <option value="WSA">WSA</option>
+             <option value="FWD">FWD</option>
            </select><br>
 
            <input type="text" name="firstName" size="30" value="First Name" class="firstName text-input required" tabindex="504"><br>

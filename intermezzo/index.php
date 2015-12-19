@@ -47,7 +47,7 @@
     <?php include($root . '/includes/ic/2016/ic-jan2016-floorplan.php'); ?> 
 
     <!-- Hotel + Travel -->     
-    <div style="height:3600px;"><?php include($root . '/includes/_partials/partial-ind-hotel.php'); ?></div>
+    <div style="float:left;height:1225px;"><?php include($root . '/includes/_partials/partial-ind-hotel.php'); ?></div>
 
     <!-- Gallery -->     
     <?php include($root . '/includes/_partials/partial-gallery.php'); ?>

@@ -9,13 +9,14 @@
 			<form id="showApplyForm" method="post" action="bin/applyForm.php" class="form">
 				<select name="showName" class="showName text-input form-control required" tabindex="401">
 						<option value="NONE" selected="selected">SELECT SHOW</option>
-						<option value="CHILDRENSCLUB">CHILDRENS CLUB</option>
 						<option value="CIRCUIT">CIRCUIT</option>
-						<option value="COTERIE">COTERIE</option>
-						<option value="ENKVEGAS">PROJECT WOMENS</option>
 						<option value="INTERMEZZO">INTERMEZZO</option>
+						<option value="CHILDRENSCLUB">CHILDRENS CLUB</option>
+						<option value="PROJECTWOMENS">PROJECT WOMENS</option>
+						<option value="COTERIE">COTERIE</option>
 						<option value="SOLE">SOLE COMMERCE</option>
 						<option value="TMRW">TMRW</option>
+						<option value="FWD">FWD</option>
 					</select>
 				<fieldset>
 					

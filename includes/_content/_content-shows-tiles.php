@@ -22,7 +22,7 @@ $shows = array(
       "name" => "Accessorie Circuit",
       "abbreviation" => "ac",
       "dates" => "January 10.11.12",
-      "location" => "Show Piers 92/94.NYC",
+      "location" => "Pier 94.NYC",
       "year" => "2016",
       "attend" => true,
       "link" => "/circuit"
@@ -33,7 +33,7 @@ $shows = array(
       "name" => "Intermezzo Collections",
       "abbreviation" => "ic",
       "dates" => "January 10.11.12",
-      "location" => "Show Piers 92/94.NYC",
+      "location" => "Pier 94.NYC",
       "year" => "2016",
       "attend" => true,
       "link" => "/intermezzo"
@@ -43,7 +43,7 @@ $shows = array(
       "name" => "Children's Club",
       "abbreviation" => "cc",
       "dates" => "January 10.11.12",
-      "location" => "Pier 94.NYC",
+      "location" => "Pier 92.NYC",
       "year" => "2016",
       "attend" => true,
       "link" => "/childrensclub/"
@@ -105,7 +105,7 @@ $shows = array(
       "abbreviation" => "stf",
       "dates" => "24/7 . 365 Days",
       "location" => "shopthefloor.com",
-      "link" => "https://www.shopthefloor.com/shop"
+      "link" => "http://shopthefloor.com/"
     ),
     
 );

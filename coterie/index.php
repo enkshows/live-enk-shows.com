@@ -49,7 +49,7 @@
       <?php include($root . '/includes/fc/2016/feb/fc-feb2016-floorplan.php'); ?>  
 
       <!-- Hotel + Travel Module --> 
-      <?php include($root . '/includes/_partials/partial-hotel.php'); ?>  
+      <div style="float:left;height:1225px;"><?php include($root . '/includes/_partials/partial-fc-hotel.php'); ?></div>
 
       <!-- Gallery --> 
       <?php include($root . '/includes/_partials/partial-gallery.php'); ?>  

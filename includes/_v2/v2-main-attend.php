@@ -3,8 +3,6 @@
   // it exists on the server
   include($root . "/includes/_content/_content-shows-tiles.php");
 ?>
-
-
 <!--<div class="module" id="attend">
 	<h1>Attend</h1>
 	<h2>Buyer + Press Registration</h2>
@@ -22,7 +20,6 @@
 		<?php //endforeach; ?>
 	</div>
 </div>-->
-
 <div id="attend" class="module">
 	<h1>Attend</h1>
 		<h2>Buyer + Press Registration</h2>
@@ -35,17 +32,17 @@
 
 		<a class="page-tiles attend-tile" href="http://advanstar.force.com/acic?tag=ACIC161-0-5-103" target="_blank">
 			<h1>Accessorie Circuit</h1>
-			<p>JANUARY 10.11.12 @ PIERS 92/94.NYC</p>
+			<p>JANUARY 10.11.12 @ PIER 94.NYC</p>
 		</a>
 
 		<a class="page-tiles attend-tile" href="http://advanstar.force.com/acic?tag=ACIC161-0-5-103" target="_blank">
 			<h1>INTERMEZZO COLLECTIONS</h1>
-			<p>JANUARY 10.11.12 @ PIERS 92/94.NYC</p>
+			<p>JANUARY 10.11.12 @ PIER 94.NYC</p>
 		</a> 
 		
 		<a class="page-tiles attend-tile" href="http://advanstar.force.com/childrensclub?tag=CLB161-0-5-103" target="_blank">
 			<h1>CHILDREN'S CLUB</h1>
-			<p>JANUARY 10.11.12 @ PIER 94.NYC</p>
+			<p>JANUARY 10.11.12 @ PIER 92.NYC</p>
 		</a> 
 
 		<a class="page-tiles attend-tile" href="http://advanstar.force.com/acic?tag=ACIC161-0-5-103" target="_blank">
@@ -74,6 +71,11 @@
 		</a>		
   </div>
 </div>
+<div id="attend" class="module">
+	<h4><a href="http://advanstar.force.com/coterie/webRegLookupPress?tag=COT161-0-5" target="_blank">Press for Coterie »</a></h4>
+	<h4><a href="http://advanstar.force.com/acic/webRegLookupPress?tag=ACIC161-0-5" target="_blank">Press for Accessorie Circuit + Intermezzo »</a></h4>
+	<h4><a href="http://advanstar.force.com/childrensclub/webRegLookupPress?tag=CLB161-0-5" target="_blank">Press for Children's Club »</a></h4>
+</div>	
 
 <!-- USE THIS MONDAY MORNING
 <div id="attend" class="module">

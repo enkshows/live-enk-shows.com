@@ -16,7 +16,7 @@
 
   <?php include($root . '/includes/fwd/2015/fwd-form-exhibitor-app.php'); ?>
 
-  <?php include($root . '/includes/fwd/2015/fwd-form-visit.php'); ?>
+  <?php include($root . '/includes/fwd/fwd-form-visit.php'); ?>
 
   <?php include($root . '/includes/fwd/2015/fwd-form-contact.php'); ?>
 

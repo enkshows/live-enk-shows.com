@@ -22,14 +22,13 @@
         <!-- Attend -->
         <?php include("includes/_v2/v2-main-attend.php"); ?>
     
-    <!-- About -->
-    <?php include("includes/_v2/v2-main-about.php"); ?>
+        <!-- About -->
+        <?php include("includes/_v2/v2-main-about.php"); ?>            
         
-    
-    <!-- Exhibit -->
+        <!-- Exhibit -->
         <?php include("includes/_v2/v2-main-exhibit.php"); ?>
-        
-    <!-- Press -->
+            
+        <!-- Press -->
         <?php include("includes/_v2/v2-main-press.php"); ?>  
         
         <!-- Travel -->

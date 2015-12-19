@@ -1,6 +1,6 @@
 <?php 
 $showname   =   'Intermezzo Collections';
-$venue      =   ' Show Piers 92/94 ';
+$venue      =   ' Pier 94 ';
 $city       =   ' NYC . ';
 $map        =   'piers';
 $lat        =   '40.769339';
@@ -9,7 +9,7 @@ $month      =   'January';
 $year       =   '2016';
 $dates      =   $month . ' 10.11.12 - 2016';
 $showspan   =   'Sunday/Monday, 9am - 6pm • Tuesday, 9am - 5pm';
-$location   =   $dates . ' \ ' . $venue . '.' . $city;
+$location   =   $dates . ' @ ' . $venue . '.' . $city;
 $dayone     =   'Sunday, January 10 / 9am-6pm';
 $daytwo     =   'Monday, January 11 / 9am-6pm';
 $daythree   =   'Tuesday, January 12 / 9am-5pm';
