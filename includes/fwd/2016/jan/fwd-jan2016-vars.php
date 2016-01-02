@@ -18,8 +18,8 @@ $coupon     =   'https://www.morganshotelgroup.com/special/ChildrensClub-Interme
 $hotel      =   'https://compass.onpeak.com/e/71cac15/';
 // $video      =   '//player.vimeo.com/video/112816633?title=0&amp;byline=0&amp;portrait=0&amp;color=ff3333';
 // $postano    =   true;
-//$hero       =   'fwd-JAN2016-hero';
-$header     =   'fwd-jan2016-header';
+$hero       =   'fwd-jan2016-hero';
+//$$header     =   'fwd-jan2016-header';
 $gallery    =   IMG_FWD . '2016/jan/fwd-jan2016-gallery';
 $address    = array(
   '11th Ave @ 37th St.',
