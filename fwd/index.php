@@ -54,7 +54,7 @@ into the span tag and creatse the hero image for the background.
       <?php include($root . '/includes/fwd/2016/feb/fwd-feb2016-floorplan.php'); ?>      
 
       <!-- Hotel + Travel -->
-      <?php include($root . '/includes/_partials/partial-hotel.php'); ?>  
+      <div style="float:left;height:1125px;"><?php include($root . '/includes/_partials/partial-fc-hotel.php'); ?></div>  
 
       <!-- Gallery -->
       <?php include($root . '/includes/_partials/partial-gallery.php'); ?>  
