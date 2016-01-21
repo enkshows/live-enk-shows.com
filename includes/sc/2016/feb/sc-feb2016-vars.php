@@ -17,12 +17,11 @@ $parking    =   'https://mpsparking.com/view_special_coupon?coupon=88';
 // $coupon     =   'https://www.morganshotelgroup.com/special/COTERIE-September2015';
 // $hotel      =   'https://compass.onpeak.com/e/71cof15';
 $gallery    =   IMG_SC . '2016/feb/sc-feb2016-gallery';
-$header     =   'sc-feb2016-header';
-//$hero     =   'sc-sep2015-hero';
+//$header     =   'sc-feb2016-header';
+$hero     =   'sc-feb2016-hero';
 // $postano    =   true;
 $address    = array(
   '11th Ave @ 37th St.',
   'NYC 10019'
   );
-
 ?>

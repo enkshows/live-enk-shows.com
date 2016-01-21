@@ -2,21 +2,9 @@
   $name     = "FWD";
   $content  = "A fashion forward juniors trade show showcasing the most sought-after juniors and young contemporary ready-to-wear during New York market week. With the addition of FWD, buyers now get exclusive access to the entire women’s marketplace in one location.";
   $keyword  = "FWD Trade Show, FWD, junior trade show, juniors trade show, international fashion trade show,javits fashion, javits";
-
-  // This MUST be included for all other files to work
-  // This 'variables.php' file is global utility variables
-  // to help with file paths and URLS
-  // directory path will change if this is a main show page or 
-  // archived show page (EX: enkshows.com/coterie VS enkshows.com/coterie/2015/feb)
   include('../includes/variables.php'); 
-
-  // MathGaurd powers our form Captcha. Must be included
   require($root . '/bin/ClassMathGuard.php');
-
-  // Show specific variables
-  include($root . '/includes/fwd/2016/jan/fwd-jan2016-vars.php');
-
-  // General show header with all relevant script/link tags
+  include($root . '/includes/fwd/2016/feb/fwd-feb2016-vars.php');
   include($root . '/includes/show-header.php');
 ?> 
 
@@ -54,19 +42,19 @@ into the span tag and creatse the hero image for the background.
       <?php endif; ?>
 
       <!-- Show Descriptions -->
-      <?php include($root . '/includes/fwd/2016/jan/fwd-2016-show-description.php'); ?>
+      <?php include($root . '/includes/fwd/2016/feb/fwd-2016-show-description.php'); ?>
 
       <!-- Forms -->
-      <?php include($root . '/includes/fwd/2016/jan/fwd-forms.php'); ?>  
-
-      <!-- Floorplan -->
-      <?php include($root . '/includes/fwd/2016/jan/fwd-jan2016-floorplan.php'); ?> 
+      <?php include($root . '/includes/fwd/2016/feb/fwd-forms.php'); ?>  
 
       <!-- Roster 
-      <?php include($root . '/includes/fwd/2016/jan/fwd-jan2016-roster.php'); ?>
+      <?php //include($root . '/includes/fwd/2016/feb/fwd-feb2016-roster.php'); ?> --> 
+
+      <!-- Floorplan -->
+      <?php include($root . '/includes/fwd/2016/feb/fwd-feb2016-floorplan.php'); ?>      
 
       <!-- Hotel + Travel -->
-      <div style="height:1790px;"><?php include($root . '/includes/_partials/partial-fwd-hotel.php'); ?></div>
+      <?php include($root . '/includes/_partials/partial-hotel.php'); ?>  
 
       <!-- Gallery -->
       <?php include($root . '/includes/_partials/partial-gallery.php'); ?>  
@@ -78,7 +66,9 @@ into the span tag and creatse the hero image for the background.
     </div><!-- end main col-->
 
 </div><!-- end wrapper-->
-<?php
+
+<?php 
+
 // This footer houses all the footer markup
 // and all the javascript scripts included on the page
 // as well as tracking scripts

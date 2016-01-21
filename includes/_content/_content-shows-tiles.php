@@ -56,7 +56,7 @@ $shows = array(
       "location" => "Javits.NYC",
       "year" => "2016",
       "attend" => true,
-      "link" => "/fwd"
+      "link" => "/fwd/2016/jan"
     ),    
     array(
       // show information
@@ -96,7 +96,7 @@ $shows = array(
       "location" => "Javits.NYC",
       "year" => "2016",
       "attend" => true,
-      "link" => "/fwd/2016/feb"
+      "link" => "/fwd/"
     ),     
     array(
       // show information

@@ -8,7 +8,7 @@
   // to help with file paths and URLS
   // directory path will change if this is a main show page or 
   // archived show page (EX: enkshows.com/coterie VS enkshows.com/coterie/2015/feb)
-  include('../includes/variables.php'); 
+  include('../../../includes/variables.php'); 
 
   // MathGaurd powers our form Captcha. Must be included
   require($root . '/bin/ClassMathGuard.php');
@@ -63,10 +63,10 @@ into the span tag and creatse the hero image for the background.
       <?php include($root . '/includes/fwd/2016/jan/fwd-jan2016-floorplan.php'); ?> 
 
       <!-- Roster 
-      <?php //include($root . '/includes/fwd/2016/jan/fwd-jan2016-roster.php'); ?> -->
+      <?php include($root . '/includes/fwd/2016/jan/fwd-jan2016-roster.php'); ?>
 
       <!-- Hotel + Travel -->
-      <?php include($root . '/includes/_partials/partial-hotel.php'); ?>  
+      <div style="height:1790px;"><?php include($root . '/includes/_partials/partial-fwd-hotel.php'); ?></div>
 
       <!-- Gallery -->
       <?php include($root . '/includes/_partials/partial-gallery.php'); ?>  
