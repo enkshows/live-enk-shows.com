@@ -30,26 +30,6 @@
 
 		<div class="module-content-attend"> 
 
-		<a class="page-tiles attend-tile" href="http://advanstar.force.com/acic?tag=ACIC161-0-5-103" target="_blank">
-			<h1>Accessorie Circuit</h1>
-			<p>JANUARY 10.11.12 @ PIER 94.NYC</p>
-		</a>
-
-		<a class="page-tiles attend-tile" href="http://advanstar.force.com/acic?tag=ACIC161-0-5-103" target="_blank">
-			<h1>INTERMEZZO COLLECTIONS</h1>
-			<p>JANUARY 10.11.12 @ PIER 94.NYC</p>
-		</a> 
-		
-		<a class="page-tiles attend-tile" href="http://advanstar.force.com/childrensclub?tag=CLB161-0-5-103" target="_blank">
-			<h1>CHILDREN'S CLUB</h1>
-			<p>JANUARY 10.11.12 @ PIER 92.NYC</p>
-		</a> 
-
-		<a class="page-tiles attend-tile" href="http://advanstar.force.com/acic?tag=ACIC161-0-5-103" target="_blank">
-			<h1>FWD</h1>
-			<p>JANUARY 10.11.12 @ JAVITS.NYC</p>
-		</a>
-
 		<a class="page-tiles attend-tile" href="http://advanstar.force.com/coterie?tag=COT161-0-5-103" target="_blank">
 			<h1>COTERIE</h1>
 			<p>FEBRUARY 22.23.24 @ JAVITS.NYC</p>
@@ -68,7 +48,22 @@
 		<a class="page-tiles attend-tile" href="http://advanstar.force.com/coterie?tag=COT161-0-5-103" target="_blank">
 			<h1>FWD</h1>
 			<p>FEBRUARY 22.23.24 @ JAVITS.NYC</p>
-		</a>		
+		</a>
+
+		<a class="page-tiles attend-tile" href="http://advanstar.force.com/childrensclub?tag=CLB161-0-5-103" target="_blank">
+			<h1>CHILDREN'S CLUB</h1>
+			<p>MARCH 13.14.15 @ JAVITS.NYC</p>
+		</a> 
+
+		<a class="page-tiles attend-tile" href="http://advanstar.force.com/acic?tag=ACIC161-0-5-103" target="_blank">
+			<h1>ACCESSORIE CIRCUIT</h1>
+			<p>MAY 2.3.4 @ JAVITS.NYC</p>
+		</a>
+
+		<a class="page-tiles attend-tile" href="http://advanstar.force.com/acic?tag=ACIC161-0-5-103" target="_blank">
+			<h1>INTERMEZZO COLLECTIONS</h1>
+			<p>MAY 2.3.4 @ JAVITS.NYC</p>
+		</a>  
   </div>
 </div>
 <div id="attend" class="module">

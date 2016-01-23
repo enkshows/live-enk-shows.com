@@ -3,6 +3,6 @@
   <!-- Postano 
   <?php //include($root. "/includes/ac/2016/ac-jan2016-postano.php"); ?>-->
   <!-- Lookbook -->
-  <?php include($root. "/includes/ac/2016/ac-jan2016-lookbook.php"); ?>
+  <?php include($root. "/includes/ic/2016/jan/ic-jan2016-lookbook.php"); ?>
 </div> 
 <!-- End of NEWS MODULE -->   

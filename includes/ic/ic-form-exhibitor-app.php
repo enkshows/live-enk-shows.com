@@ -2,7 +2,8 @@
   <h2>Exhibitor Application</h2>
   <div class="desc-lg">
     To exhibit at one of ENK’s shows, please begin the application process by choosing a show and completing the short form below
-    If you have questions during this process, please contact <a href="mailto:intermezzocollections@enkshows.com">intermezzocollections@enkshows.com</a> or call 212.951.6600.
+    If you have questions during this process, please contact <a href="mailto:intermezzocollections@enkshows.com">intermezzocollections@enkshows.com</a> 
+    or call 212.600.3000.
   </div>
   <div class="module-content">
 

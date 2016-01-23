@@ -53,26 +53,26 @@
         <h1 style="margin-bottom: 25px;">2016 Dates</h1><br><br>
         
         <h3>ACCESSORIE CIRCUIT</h3>
-        <a href="/circuit/">January 10.11.12 @ Pier 94.NYC</a><br />
-        May 2.3.4 @ Javits Center.NYC
+        <a href="/circuit/2016/jan">January 10.11.12 @ Pier 94.NYC</a><br />
+        <a href="/circuit/">May 2.3.4 @ Javits Center.NYC</a>
         <br /> 
         <br />  
 
         <h3>INTERMEZZO COLLECTIONS</h3>
-        <a href="/intermezzo/">January 10.11.12 @ Pier 94.NYC</a><br /> 
-        May 2.3.4 @ Javits Center.NYC
+        <a href="/intermezzo/2016/jan">January 10.11.12 @ Pier 94.NYC</a><br /> 
+        <a href="/intermezzo/">May 2.3.4 @ Javits Center.NYC</a>
         <br /> 
         <br /> 
 
         <h3>CHILDREN’S CLUB</h3>
-        <a href="/childrensclub/">January 10.11.12 @ Pier 92.NYC</a><br />
-        March 13.14.15 @ Javits Center.NYC</a>
+        <a href="/childrensclub/2016/jan">January 10.11.12 @ Pier 92.NYC</a><br />
+        <a href="/childrensclub/">March 13.14.15 @ Javits Center.NYC</a>
         <br /> 
         <br /> 
 
         <h3>FWD</h3>
-        <a href="/fwd/">January 10.11.12 @ Javits Center.NYC</a><br />
-        <a href="/fwd/2016/feb">February 22.23.24 @ Javits Center.NYC</a><br />
+        <a href="/fwd/2016/jan">January 10.11.12 @ Javits Center.NYC</a><br />
+        <a href="/fwd/">February 22.23.24 @ Javits Center.NYC</a><br />
         May 2.3.4 @ Javits Center.NYC
         <br /> 
         <br /> 

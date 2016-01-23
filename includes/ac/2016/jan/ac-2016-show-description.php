@@ -2,10 +2,9 @@
   <div class="row">
     <div class="row-item"><img src="<?php echo IMG_ACIC; ?>logos01-old.png" /></div>
     <div class="row-item">
-      <p>Established in 1987, CIRCUIT is a comprehensive women’s accessory and footwear exhibition 
-      featuring  designer and fine jewelry, handbags, footwear, scarves, belts and gift items. 
-      Held 3 times a year during the <!--<a href="/circuit/2015/jan">January</a>-->January, <!--<a href="/circuit/2015/apr">April</a>-->April and 
-      <!--<a href="/circuit/2015/aug">August</a>-->August NYC market weeks, this exhibition runs concurrently with ENK’s <a href="/intermezzo/">Intermezzo Collections</a>.</p>
+      <p>Established in 1987, CIRCUIT is a comprehensive women’s accessory exhibition featuring designer and fine 
+      jewelry, handbags, footwear, scarves, belts and gift items. Held 3 times a year during the January, 
+      April and August NYC market weeks, this exhibition runs concurrently with <a href="/intermezzo/">Intermezzo Collections</a>.</p>
     </div>
   </div>
 

@@ -3,7 +3,7 @@
   $content  = "Established in 1987, CIRCUIT is a comprehensive women’s accessory and footwear exhibition featuring fashion and fine jewelry, handbags, footwear, scarves, belts and gift items.";
   $keyword  = "ACIC, fashion, tradeshow, accessory tradeshow, accessories tradeshow, accessorie circuit, intermezzo collections, intermezzo, circuit, fashion tradeshow";
   include('../includes/variables.php');
-  include($root . '/includes/ac/2016/ac-jan2016-vars.php'); 
+  include($root . '/includes/ac/2016/may/ac-may2016-vars.php'); 
   include($root . '/includes/show-header.php');
 ?> 
 <body class="ac showPage" id="showPage">
@@ -33,19 +33,19 @@
       <?php endif; ?>  
           
     <!-- Show Descriptions -->
-    <?php include($root . '/includes/ac/2016/ac-2016-show-description.php'); ?>
+    <?php include($root . '/includes/ac/2016/may/ac-2016-show-description.php'); ?>
 
     <!-- AC Forms -->
-    <?php include($root . '/includes/ac/2016/ac-2016-forms.php'); ?>  
+    <?php include($root . '/includes/ac/2016/may/ac-2016-forms.php'); ?>  
     
     <!-- Highlights -->     
-    <?php include($root . '/includes/ac/2016/ac-jan2016-highlights.php'); ?> 
+    <?php include($root . '/includes/ac/2016/may/ac-may2016-highlights.php'); ?> 
 
     <!-- Roster -->     
-    <?php include($root . '/includes/ac/2016/ac-jan2016-roster.php'); ?> 
+    <?php include($root . '/includes/ac/2016/may/ac-may2016-roster.php'); ?> 
     
     <!-- Floorplans -->     
-    <?php include($root . '/includes/ac/2016/ac-jan2016-floorplan.php'); ?> 
+    <?php include($root . '/includes/ac/2016/may/ac-may2016-floorplan.php'); ?> 
 
     <!-- Hotel + Travel -->     
     <div style="float:left;height:1225px;"><?php include($root . '/includes/_partials/partial-ind-hotel.php'); ?></div>

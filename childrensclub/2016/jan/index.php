@@ -41,14 +41,14 @@
     <?php include($root . '/includes/cc/2016/jan/cc-jan2016-highlights.php'); ?>
      
     <!-- CC Roster -->
-    <!--<?php //include($root . '/includes/cc/2016/jan/cc-jan2016-roster.php'); ?>-->
+    <?php include($root . '/includes/cc/2016/jan/cc-jan2016-roster.php'); ?>
 
     <!-- CC Floorplan -->
     <?php include($root . '/includes/cc/2016/jan/cc-jan2016-floorplan.php'); ?>
     
     <!-- Hotel + Travel -->       
-    <?php include($root . '/includes/_partials/partial-hotel.php'); ?>
-    
+    <div style="float:left;height:1225px;"><?php include($root . '/includes/_partials/partial-ind-hotel.php'); ?></div>
+
     <!-- Video -->     
     <?php include($root . '/includes/cc/2016/jan/cc-jan2016-video.php'); ?> 
 

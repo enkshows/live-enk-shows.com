@@ -2,7 +2,7 @@
   <h2>Visit our show</h2>
   <div class="desc-lg">
    To visit one of our shows please begin the application process by choosing a show and filling out the short form below. 
-   If you have questions during this process, please contact <a href="mailto:childrensclub@enkshows.com">childrensclub@enkshows.com</a> or call 212.951.6600.
+   If you have questions during this process, please contact <a href="mailto:childrensclub@enkshows.com">childrensclub@enkshows.com</a> or call 212.600.3000.
   </div>
   <div class="module-content">
     <div id="visitor_form">

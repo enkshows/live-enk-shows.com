@@ -19,47 +19,6 @@ $shows = array(
 
     array(
       // show information
-      "name" => "Accessorie Circuit",
-      "abbreviation" => "ac",
-      "dates" => "January 10.11.12",
-      "location" => "Pier 94.NYC",
-      "year" => "2016",
-      "attend" => true,
-      "link" => "/circuit"
-    ),  
-
-    array(
-      // show information
-      "name" => "Intermezzo Collections",
-      "abbreviation" => "ic",
-      "dates" => "January 10.11.12",
-      "location" => "Pier 94.NYC",
-      "year" => "2016",
-      "attend" => true,
-      "link" => "/intermezzo"
-    ),   
-    array(
-      // show information
-      "name" => "Children's Club",
-      "abbreviation" => "cc",
-      "dates" => "January 10.11.12",
-      "location" => "Pier 92.NYC",
-      "year" => "2016",
-      "attend" => true,
-      "link" => "/childrensclub/"
-    ),
-    array(
-      // show information
-      "name" => "FWD",
-      "abbreviation" => "fwd",
-      "dates" => "January 10.11.12",
-      "location" => "Javits.NYC",
-      "year" => "2016",
-      "attend" => true,
-      "link" => "/fwd/2016/jan"
-    ),    
-    array(
-      // show information
       "name" => "Coterie",
       "abbreviation" => "fc",
       "dates" => "February 22.23.24",
@@ -77,7 +36,7 @@ $shows = array(
       "year" => "2016",
       "attend" => true,
       "link" => "/sole"
-    ),     
+    ),  
     array(
       // show information
       "name" => "TMRW",
@@ -87,7 +46,7 @@ $shows = array(
       "year" => "2016",
       "attend" => true,
       "link" => "/tmrw"
-    ),     
+    ),
     array(
       // show information
       "name" => "FWD",
@@ -96,8 +55,39 @@ $shows = array(
       "location" => "Javits.NYC",
       "year" => "2016",
       "attend" => true,
-      "link" => "/fwd/"
-    ),     
+      "link" => "/fwd"
+    ),            
+    array(
+      // show information
+      "name" => "Children's Club",
+      "abbreviation" => "cc",
+      "dates" => "March 13.14.15",
+      "location" => "Javits.NYC",
+      "year" => "2016",
+      "attend" => true,
+      "link" => "/childrensclub"
+    ),   
+    array(
+      // show information
+      "name" => "Accessorie Circuit",
+      "abbreviation" => "ac",
+      "dates" => "May 2.3.4",
+      "location" => "Javits.NYC",
+      "year" => "2016",
+      "attend" => true,
+      "link" => "/circuit"
+    ),  
+
+    array(
+      // show information
+      "name" => "Intermezzo Collections",
+      "abbreviation" => "ic",
+      "dates" => "May 2.3.4",
+      "location" => "Javits.NYC",
+      "year" => "2016",
+      "attend" => true,
+      "link" => "/intermezzo"
+    ),
     array(
       // show information
       // this should never have the "attend" value
