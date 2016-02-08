@@ -14,9 +14,9 @@
         </div>     
       </nav>
       <div class="row-item item-two-third">
-       <a href="<?php echo PDF_CHILDRENS; ?>2016/jan/cc-jan2016-exhibitor-map.pdf" target="_blank" border="0">
+       <!--<a href="<?php echo PDF_CHILDRENS; ?>2016/jan/cc-jan2016-exhibitor-map.pdf" target="_blank" border="0">
         <img src="<?php echo IMG_ACIC; ?>/2016/may/javits_may16-lv3.png" border="0">
-      </a>
+      </a>-->
       <a href="<?php echo PDF_CHILDRENS; ?>2016/jan/cc-jan2016-exhibitor-map.pdf" target="_blank" border="0">
         <img src="<?php echo IMG_ACIC; ?>/2016/may/javits_may16-lv1.png" border="0">
       </a>

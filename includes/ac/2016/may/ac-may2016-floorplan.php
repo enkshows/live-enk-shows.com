@@ -15,12 +15,15 @@
       </nav>
            
       <div class="row-item item-one-third">
-        <a href="<?php echo PDF_ACIC; ?>/2016/may/acic-may2016-exhibitor_map.pdf" target="_blank">
+        <!--<a href="<?php echo PDF_ACIC; ?>/2016/may/acic-may2016-exhibitor_map.pdf" target="_blank">
           <img src="<?php echo IMG_ACIC; ?>/2016/may/javits_may16-lv3.png" border="0">
-        </a>
+        </a>-->
         <a href="<?php echo PDF_ACIC; ?>/2016/may/acic-may2016-exhibitor_map.pdf" target="_blank">
           <img src="<?php echo IMG_ACIC; ?>/2016/may/javits_may16-lv1.png" border="0">
         </a>
+        <a href="<?php echo PDF_ACIC; ?>/2016/may/acic-may2016-exhibitor_map.pdf" target="_blank">
+          <img src="<?php echo IMG_ACIC; ?>/2016/may/Javits-lvl2.png" border="0">
+        </a>        
       </div>      
 
     </div>

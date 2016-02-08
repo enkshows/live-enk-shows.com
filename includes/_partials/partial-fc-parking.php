@@ -7,13 +7,14 @@
   <br/>
   <ul class="no-list">
     <li class="title">JAVITS PARKING</li>
+    <li>Parking Panda Promo Code  <a href="https://www.parkingpanda.com/coterie-new-york-parking?ref=coterie " target="_blank"><strong>COTERIE15</strong></a></li>
   </ul>
   <ul class="no-list">
     <li class="title">MP 41 LLC, 475 West 41st Street</li>
      <li><p>Up to 10 hrs - $12<br/>
      Up to 12 hrs - $20<br/>
      Up to 24 hrs - $45<br/>
-     DISCOUNT COUPON: <a href="https://www.mpsparking.com/view_special_coupon?coupon=48" target="_blank">See featured Parking Coupon</a></p></li>
+     DISCOUNT COUPON: <a href="https://mpsparking.com/view_special_coupon?coupon=118" target="_blank"><strong>See featured Parking Coupon</strong></a></p></li>
   </ul>
   <ul class="no-list">
     <li class="title">EDISON</li>

@@ -39,7 +39,7 @@
         <ul class="no-list">
           <li><p><b>New Yorker</b>, rates beginning at $159/night<br/> 
           481 8th Avenue and 34th Street<br/>
-          <li>Call 212 971 0101</li>
+          Call 212 971 0101</p></li>
           <li><p>Built in 1929, this Jazz Age hotel is 1 mile from both the Empire State Building and the High Line. The muted art deco-inspired rooms offer coffeemakers, flat-screen TVs and free WiFi.</p></li>
           <li><p>Perks include continental buffet breakfast for up to two (2) per room served in the Sky Lounge (Hours: 6:30am to 10:00am); in-room WiFi; 24-Hour access to the Fitness Center; 24-Hour use of Business Center; complimentary local, long-distance and international calling.</p></li>
          </ul>                  

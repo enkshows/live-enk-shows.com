@@ -16,6 +16,6 @@
 
   <?php include($root . '/includes/ic/ic-form-contact.php'); ?>
 
-  <?php include($root . '/includes/ic/2016/ic-2016-shows.php'); ?>
+  <?php include($root . '/includes/ic/2016/jan/ic-2016-shows.php'); ?>
 
 </div> 

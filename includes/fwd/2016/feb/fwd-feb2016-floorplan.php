@@ -15,14 +15,14 @@
         </div>     
       </nav>
       <div class="row-item item-two-third">
-        <a href="<?php echo PDF_FWD; ?>2016/feb/fwd-feb2016-exhibitor_map.pdf" target="_blank">
-          <img width="320"  src="<?php echo IMG_FWD; ?>2016/javits_jan16-lv4.png" border="0">
+        <a href="<?php echo PDF_FC; ?>2016/feb/fc-feb2016_exhibitor_map_lv4.pdf" target="_blank">
+          <img width="320"  src="<?php echo IMG_FC; ?>2016/feb/javits_feb16-lv4.png" border="0">
         </a>
-        <a href="<?php echo PDF_FWD; ?>2016/feb/fwd-feb2016-exhibitor_map.pdf" target="_blank">
-          <img width="100%"  src="<?php echo IMG_FWD; ?>2016/javits_jan16-lv3.png" border="0">
+        <a href="<?php echo PDF_FC; ?>2016/feb/fc-feb2016-exhibitor_map_lv3.pdf" target="_blank">
+          <img width="100%"  src="<?php echo IMG_FC; ?>2016/feb/javits_feb16-lv3.png" border="0">
         </a>
-        <a href="<?php echo PDF_FWD; ?>2016/feb/fwd-feb2016-exhibitor_map.pdf" target="_blank">
-          <img width="400"  src="<?php echo IMG_FWD; ?>2016/javits_jan16-lv1.png" border="0">
+        <a href="<?php echo PDF_FC; ?>2016/feb/fc-feb2016_exhibitor_map_lv1.pdf" target="_blank">
+          <img width="400"  src="<?php echo IMG_FC; ?>2016/feb/javits_feb16-lv1.png" border="0">
         </a>
       </div>  
     </div>
