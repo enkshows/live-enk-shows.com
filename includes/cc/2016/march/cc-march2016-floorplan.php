@@ -9,7 +9,7 @@
           <li>3D Overview</li>
         </ul>
         <div id="btn1" class="showcol-btn1">
-        <a class="showcol-link" target="floorplan" href="http://www.enkshows.com/pdf/childrensclub/2016/jan/cc-jan2016-exhibitor-map.pdf">Detailed Floor Plan</a>
+        <a class="showcol-link" target="floorplan" href="http://www.enkshows.com/pdf/childrensclub/2016/mar/cc-mar2016-exhibitor-map.pdf">Detailed Floor Plan</a>
         <!--<a href="http://www.mapyourshow.com/shows/index.cfm?show_id=coterie15" target="_blank" class="showcol-link">SHOW PLANNER</a>-->
         </div>     
       </nav>
@@ -17,10 +17,12 @@
        <!--<a href="<?php echo PDF_CHILDRENS; ?>2016/jan/cc-jan2016-exhibitor-map.pdf" target="_blank" border="0">
         <img src="<?php echo IMG_ACIC; ?>/2016/may/javits_may16-lv3.png" border="0">
       </a>-->
-      <a href="<?php echo PDF_CHILDRENS; ?>2016/jan/cc-jan2016-exhibitor-map.pdf" target="_blank" border="0">
-        <img src="<?php echo IMG_ACIC; ?>/2016/may/javits_may16-lv1.png" border="0">
+      <a href="<?php echo PDF_CHILDRENS; ?>2016/mar/cc-mar2016-exhibitor-map.pdf" target="_blank" border="0">
+        <img src="<?php echo IMG_CHILDRENS; ?>/2016/march/cc-march2016-level2.png" border="0">
       </a>
-
+      <a href="<?php echo PDF_CHILDRENS; ?>2016/mar/cc-mar2016-exhibitor-map.pdf" target="_blank" border="0">
+        <img src="<?php echo IMG_CHILDRENS; ?>/2016/march/cc-march2016-level1.png" border="0">
+      </a>
       </div>  
     </div>
 </div>

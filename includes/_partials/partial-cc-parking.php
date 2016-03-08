@@ -3,6 +3,7 @@
   <ul class="no-list">
     <li><p><a href="http://www.bestparking.com" target="_blank"><strong>Best Parking (free)</strong></a></p></li>
     <li><p><a href="http://spothero.com/nyc" target="_blank"><strong>SpotHero Parking (free)</strong></a></p></li>
+    <li><p><strong>Parking Panda Promo Code</strong> <a href="https://www.parkingpanda.com/childrens-club-new-york-parking?ref=ccny" target="_blank"><strong>CHILDRENSCLUB15</strong></a></p></li>
   </ul>
   <br/>
   <ul class="no-list"><strong>MP 41 LLC, 475 West 41st Street</strong>
