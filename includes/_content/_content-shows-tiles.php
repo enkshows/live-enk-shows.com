@@ -46,17 +46,7 @@ $shows = array(
       "year" => "2016",
       "attend" => true,
       "link" => "/tmrw"
-    ),
-    array(
-      // show information
-      "name" => "FWD",
-      "abbreviation" => "fwd",
-      "dates" => "February 22.23.24",
-      "location" => "Javits.NYC",
-      "year" => "2016",
-      "attend" => true,
-      "link" => "/fwd"
-    ),            
+    ),           
     array(
       // show information
       "name" => "Children's Club",
@@ -77,7 +67,6 @@ $shows = array(
       "attend" => true,
       "link" => "/circuit"
     ),  
-
     array(
       // show information
       "name" => "Intermezzo Collections",
@@ -88,6 +77,16 @@ $shows = array(
       "attend" => true,
       "link" => "/intermezzo"
     ),
+    array(
+      // show information
+      "name" => "FWD",
+      "abbreviation" => "fwd",
+      "dates" => "May 2.3.4",
+      "location" => "Javits.NYC",
+      "year" => "2016",
+      "attend" => true,
+      "link" => "/fwd"
+    ),     
     array(
       // show information
       // this should never have the "attend" value

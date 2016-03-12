@@ -25,7 +25,7 @@
         <ul class="no-list">
           <li><p><b>Hudson Hotel</b>, rates beginning at $120/night.<br/>
           356 West 58th Street and 9th Avenue<br/>
-          <a href="http://www.morganshotelgroup.com/special/coterie-sole " target="_blank">www.morganshotelgroup.com/special/coterie-sole </a> or Call (702) 577-2830 or toll-free (800) 606-6090</p></li>
+          <!--<a href="http://www.morganshotelgroup.com/special/coterie-sole " target="_blank">www.morganshotelgroup.com/special/coterie-sole </a> or -->Call (702) 577-2830 or toll-free (800) 606-6090</p></li>
           <li><p>Designed by Phillipe Starck, this hotel is a 4-minute walk from Columbus Circle and 6 minutes from Lincoln Center.  Rooms have rich wood walls and floors, designer toiletries, HDTVs, WiFi (fee) and iPod docks. Studios and suites include sitting areas, city and river views, and in-room dining options.</p></li>
           <li><p>Perks include 24-hour fitness room; complimentary Show shuttle to/from Show venue.</p></li>
          </ul>

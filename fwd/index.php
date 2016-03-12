@@ -4,10 +4,9 @@
   $keyword  = "FWD Trade Show, FWD, junior trade show, juniors trade show, international fashion trade show,javits fashion, javits";
   include('../includes/variables.php'); 
   require($root . '/bin/ClassMathGuard.php');
-  include($root . '/includes/fwd/2016/feb/fwd-feb2016-vars.php');
+  include($root . '/includes/fwd/2016/may/fwd-may2016-vars.php');
   include($root . '/includes/show-header.php');
 ?> 
-
 <!-- 
   The body must have three things
   1. Show abbreviation as a class name
@@ -42,22 +41,22 @@ into the span tag and creatse the hero image for the background.
       <?php endif; ?>
 
       <!-- Show Descriptions -->
-      <?php include($root . '/includes/fwd/2016/feb/fwd-2016-show-description.php'); ?>
+      <?php include($root . '/includes/fwd/2016/may/fwd-2016-show-description.php'); ?>
 
       <!-- Forms -->
-      <?php include($root . '/includes/fwd/2016/feb/fwd-forms.php'); ?>  
+      <?php include($root . '/includes/fwd/2016/may/fwd-forms.php'); ?>  
 
       <!-- Roster 
-      <?php //include($root . '/includes/fwd/2016/feb/fwd-feb2016-roster.php'); ?> --> 
+      <?php //include($root . '/includes/fwd/2016/may/fwd-may2016-roster.php'); ?> --> 
 
       <!-- Floorplan -->
-      <?php include($root . '/includes/fwd/2016/feb/fwd-feb2016-floorplan.php'); ?>      
+      <?php include($root . '/includes/fwd/2016/may/fwd-may2016-floorplan.php'); ?>      
 
       <!-- Hotel + Travel -->
       <div style="float:left;height:1125px;"><?php include($root . '/includes/_partials/partial-fc-hotel.php'); ?></div>  
 
       <!-- Gallery -->
-      <?php include($root . '/includes/_partials/partial-gallery.php'); ?>  
+      <?php include($root . '/includes/fwd/2016/may/fwd-may2016-gallery.php'); ?>  
     
       <!-- BLANK SPACE-->
       <div style="float:left; clear:both; height:300px;"></div>

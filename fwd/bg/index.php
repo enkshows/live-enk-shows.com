@@ -2,11 +2,12 @@
   $name     = "FWD";
   $content  = "A fashion forward juniors trade show showcasing the most sought-after juniors and young contemporary ready-to-wear during New York market week. With the addition of FWD, buyers now get exclusive access to the entire women’s marketplace in one location.";
   $keyword  = "FWD Trade Show, FWD, junior trade show, juniors trade show, international fashion trade show,javits fashion, javits";
-  include('../../../includes/variables.php'); 
+  include('../includes/variables.php'); 
   require($root . '/bin/ClassMathGuard.php');
   include($root . '/includes/fwd/2016/feb/fwd-feb2016-vars.php');
   include($root . '/includes/show-header.php');
-?>
+?> 
+
 <!-- 
   The body must have three things
   1. Show abbreviation as a class name
@@ -53,7 +54,7 @@ into the span tag and creatse the hero image for the background.
       <?php include($root . '/includes/fwd/2016/feb/fwd-feb2016-floorplan.php'); ?>      
 
       <!-- Hotel + Travel -->
-      <?php include($root . '/includes/_partials/partial-hotel.php'); ?>  
+      <div style="float:left;height:1125px;"><?php include($root . '/includes/_partials/partial-fc-hotel.php'); ?></div>  
 
       <!-- Gallery -->
       <?php include($root . '/includes/_partials/partial-gallery.php'); ?>  
