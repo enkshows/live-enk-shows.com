@@ -13,19 +13,19 @@
     </nav>
     <div class="row-item item-two-third">
       <!-- Accomodation  -->
-      <?php include($root . '/includes/_partials/partial-acic-accomodations.php');?>
+      <?php include($root . '/includes/_partials/partial-ind-accomodations.php');?>
 
       <!-- Taxi Service -->
-      <?php include($root . '/includes/_partials/partial-acic-taxi-service.php');?>
+      <?php include($root . '/includes/_partials/partial-ind-taxi-service.php');?>
 
       <!-- Car Service -->
-      <?php include($root . '/includes/_partials/partial-acic-car-service.php');?>
+      <?php include($root . '/includes/_partials/partial-ind-car-service.php');?>
 
       <!-- Airport Transportation -->
-      <?php include($root . '/includes/_partials/partial-acic-airport-transportation.php');?>
+      <?php include($root . '/includes/_partials/partial-ind-airport-transportation.php');?>
 
       <!-- Parking Transportation -->
-      <?php include($root . '/includes/_partials/partial-acic-parking.php');?>
+      <?php include($root . '/includes/_partials/partial-ind-parking.php');?>
       
       <!-- Show Hours Transportation -->
       <?php include($root . '/includes/_partials/partial-show-hours.php');?>

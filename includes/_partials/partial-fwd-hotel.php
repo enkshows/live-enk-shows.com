@@ -13,16 +13,16 @@
     </nav>
     <div class="row-item item-two-third">
       <!-- Accomodation  -->
-      <?php include($root . '/includes/_partials/partial-ind-accomodations.php');?>
+      <?php include($root . '/includes/_partials/partial-fwd-accomodations.php');?>
 
       <!-- Taxi Service -->
-      <?php include($root . '/includes/_partials/partial-ind-taxi-service.php');?>
+      <?php include($root . '/includes/_partials/partial-fwd-taxi-service.php');?>
 
       <!-- Car Service -->
-      <?php include($root . '/includes/_partials/partial-ind-car-service.php');?>
+      <?php include($root . '/includes/_partials/partial-fwd-car-service.php');?>
 
       <!-- Airport Transportation -->
-      <?php include($root . '/includes/_partials/partial-ind-airport-transportation.php');?>
+      <?php include($root . '/includes/_partials/partial-fwd-airport-transportation.php');?>
 
       <!-- Parking Transportation -->
       <?php include($root . '/includes/_partials/partial-fwd-parking.php');?>

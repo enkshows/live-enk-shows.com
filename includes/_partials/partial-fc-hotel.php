@@ -13,19 +13,19 @@
     </nav>
     <div class="row-item item-two-third">
       <!-- Accomodation  -->
-      <?php include($root . '/includes/_partials/partial-fc-accomodations.php');?>
+      <?php include($root . '/includes/_partials/partial-fwd-accomodations.php');?>
 
       <!-- Car Service -->
-      <?php include($root . '/includes/_partials/partial-fc-car-service.php');?>
+      <?php include($root . '/includes/_partials/partial-fwd-car-service.php');?>
 
       <!-- Taxi Service -->
-      <?php include($root . '/includes/_partials/partial-fc-taxi-service.php');?>
+      <?php include($root . '/includes/_partials/partial-fwd-taxi-service.php');?>
 
       <!-- Airport Transportation -->
-      <?php include($root . '/includes/_partials/partial-fc-airport-transportation.php');?>
+      <?php include($root . '/includes/_partials/partial-fwd-airport-transportation.php');?>
 
       <!-- Parking Transportation -->
-      <?php include($root . '/includes/_partials/partial-fc-parking.php');?>
+      <?php include($root . '/includes/_partials/partial-fwd-parking.php');?>
       
       <!-- Show Hours Transportation -->
       <?php include($root . '/includes/_partials/partial-show-hours.php');?>      

@@ -52,7 +52,7 @@
         <?php include($root . '/includes/tmrw/2016/feb/tmrw-feb2016-floorplan.php'); ?> 
 
         <!-- Hotel + Travel -->
-        <div style="float:left;height:1125px;"><?php include($root . '/includes/_partials/partial-fc-hotel.php'); ?></div>
+        <div style="float:left;height:890px;"><?php include($root . '/includes/_partials/partial-fc-hotel.php'); ?></div>
 
         <!-- Video -->
         <?php include($root . '/includes/_partials/partial-video.php'); ?>

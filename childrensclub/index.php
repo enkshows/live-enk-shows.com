@@ -47,7 +47,7 @@
     <?php include($root . '/includes/cc/2016/march/cc-march2016-floorplan.php'); ?>
     
     <!-- Hotel + Travel -->       
-    <div style="float:left;height:1225px;"><?php include($root . '/includes/_partials/partial-cc-hotel.php'); ?></div>
+    <div style="float:left;height:925px;"><?php include($root . '/includes/_partials/partial-cc-hotel.php'); ?></div>
 
     <!-- Video -->     
     <?php include($root . '/includes/cc/2016/march/cc-march2016-video.php'); ?> 

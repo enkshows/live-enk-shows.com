@@ -25,7 +25,7 @@
       <?php //endif; ?>
       -->
       <p>&nbsp;</p>
-      <li>
+      <!--<li>
         <a href="https://www.airbnb.com/" target="_blank" style="font-weight:bold;">AirBNB</a>
         <ul class="no-list">
           <li class="subtitle">About</li>          
@@ -40,7 +40,7 @@
           <li><p>Whether you're traveling or hosting, AIRBNB is there for you before, during, and after your experience. Help Center…contact us by visiting airbnb.com/contact or for 
           urgent matters, call 415-800-5959 or 855-424-7262</p></li>
         </ul>
-      </li>
+      </li>-->
       <li class="subtitle">Hotels.Savings</li>
         <ul class="no-list">
           <li><p><b>Hudson Hotel</b>, rates beginning at $169/night.<br/>

@@ -2,7 +2,7 @@
 	<h1>Exhibit</h1>
 	<h2>Exhibitor Application</h2>
 	<p>To exhibit at one of ENK’s shows, please begin the application process by choosing a show and completing the short form below. 
-		If you have questions during this process, please contact  <a href="mailto:enkshows@enkshows.com" target="_blank">enkshows@enkshows.com</a> or call 212.951.6600.</p>		
+		If you have questions during this process, please contact  <a href="mailto:enkshows@enkshows.com" target="_blank">enkshows@enkshows.com</a> or call 212.600.3000.</p>		
 	<div class="row">
 		<div id="apply_form">
 

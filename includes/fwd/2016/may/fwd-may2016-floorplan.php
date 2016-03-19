@@ -15,10 +15,10 @@
         </div>     
       </nav>
       <div class="row-item item-two-third">
-        <a href="<?php echo PDF_FWD; ?>2016/may/fwd-may2016-exhibitor_map.pdf" target="_blank">
+        <a href="<?php echo PDF_FWD; ?>2016/may/fwd-may2016-exhibitor-map.pdf" target="_blank">
           <img width="400"  src="<?php echo IMG_FWD; ?>2016/may/javits_may16-lv1.png" border="0">
         </a>
-        <a href="<?php echo PDF_FWD; ?>2016/may/fwd-may2016-exhibitor_map.pdf" target="_blank">
+        <a href="<?php echo PDF_FWD; ?>2016/may/fwd-may2016-exhibitor-map.pdf" target="_blank">
           <img width="100%"  src="<?php echo IMG_FWD; ?>2016/may/Javits-lvl2.png" border="0">
         </a>
       </div>  

@@ -7,6 +7,11 @@
 
       <strong>May 2.3.4 @ Javits Center.NYC</strong><br>
       Monday/Tuesday 9am – 6pm • Wednesday 9am - 5pm<br><br>
+
+	 <strong>July 31 – August 2 @ Javits Center.NYC</strong><br>
+	 Monday/Tuesday 9am – 6pm • Wednesday 9am - 5pm<br><br>
+
+
     </span>  
   </div>
 </div>

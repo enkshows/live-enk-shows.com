@@ -54,13 +54,15 @@
         
         <h3>ACCESSORIE CIRCUIT</h3>
         <a href="/circuit/2016/jan">January 10.11.12 @ Pier 94.NYC</a><br />
-        <a href="/circuit/">May 2.3.4 @ Javits Center.NYC</a>
+        <a href="/circuit/">May 2.3.4 @ Javits Center.NYC</a><br/>
+        July 31 - August 2 @ Javits Center.NYC
         <br /> 
         <br />  
 
         <h3>INTERMEZZO COLLECTIONS</h3>
         <a href="/intermezzo/2016/jan">January 10.11.12 @ Pier 94.NYC</a><br /> 
-        <a href="/intermezzo/">May 2.3.4 @ Javits Center.NYC</a>
+        <a href="/intermezzo/">May 2.3.4 @ Javits Center.NYC</a><br/>
+        July 31 - August 2 @ Javits Center.NYC
         <br /> 
         <br /> 
 
@@ -72,8 +74,8 @@
 
         <h3>FWD</h3>
         <a href="/fwd/2016/jan">January 10.11.12 @ Javits Center.NYC</a><br />
-        <a href="/fwd/">February 22.23.24 @ Javits Center.NYC</a><br />
-        May 2.3.4 @ Javits Center.NYC
+        <a href="/fwd/2016/feb">February 22.23.24 @ Javits Center.NYC</a><br />
+        <a href="/fwd/">May 2.3.4 @ Javits Center.NYC</a>
         <br /> 
         <br /> 
 
