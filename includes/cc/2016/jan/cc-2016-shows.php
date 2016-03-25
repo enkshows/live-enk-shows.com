@@ -6,8 +6,11 @@
 			<!--<a href="<?php //echo BASE;?>/childrensclub/2016/jan"><strong>January 10.11.12 @ Pier94 . NYC</strong></a><br>-->
 			Sunday/Monday, 9am - 6pm • Tuesday, 9am - 5pm<br/><br />
       
-      		<strong>March 13.14.15 @ Javits Center.NYC</strong><br>
-			Sunday/Monday, 9am - 6pm • Tuesday, 9am - 5pm<br/><br />      
+      		<a href="/childrensclub/2016/march"><strong>March 13.14.15 @ Javits Center.NYC</strong></a><br>
+			Sunday/Monday, 9am - 6pm • Tuesday, 9am - 5pm<br/><br />
+
+      		<a href="/childrensclub/"><strong>July 31 – Aug 2 @ Javits Center.NYC</strong></a><br>
+			Sunday/Monday, 9am - 6pm • Tuesday, 9am - 5pm<br/><br />   			
  		</span>
 	</div>
 </div>  

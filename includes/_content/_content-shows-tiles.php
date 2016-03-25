@@ -46,17 +46,7 @@ $shows = array(
       "year" => "2016",
       "attend" => true,
       "link" => "/tmrw"
-    ),           
-    array(
-      // show information
-      "name" => "Children's Club",
-      "abbreviation" => "cc",
-      "dates" => "March 13.14.15",
-      "location" => "Javits.NYC",
-      "year" => "2016",
-      "attend" => true,
-      "link" => "/childrensclub"
-    ),*/
+    ),*/          
     array(
       // show information
       "name" => "Accessorie Circuit",
@@ -86,6 +76,16 @@ $shows = array(
       "year" => "2016",
       "attend" => true,
       "link" => "/fwd"
+    ),   
+    array(
+      // show information
+      "name" => "Children's Club",
+      "abbreviation" => "cc",
+      "dates" => "July 31 - Aug 2",
+      "location" => "Javits.NYC",
+      "year" => "2016",
+      "attend" => true,
+      "link" => "/childrensclub"
     ),     
     array(
       // show information

@@ -42,7 +42,7 @@
         <br /><br />
         <div class="module-content-info" >
          <div class="info-links" >
-          <a href="<?php echo PDF_BASE; ?>/calendar/2016_allshow_q2_savethedate.pdf" class="info-btn" target="_blank" style="margin-top:0px;">Download PDF</a>
+          <a href="<?php echo PDF_BASE; ?>/calendar/Q2_calendar_2016.pdf" class="info-btn" target="_blank" style="margin-top:0px;">Download PDF</a>
         </div>   
       </div><!-- End Module Content Info-button section --> 
 
@@ -52,35 +52,40 @@
 
         <h1 style="margin-bottom: 25px;">2016 Dates</h1><br><br>
         
-        <h3>ACCESSORIE CIRCUIT</h3>
+        <h3><strong>ACCESSORIE CIRCUIT</strong></h3>
         <a href="/circuit/2016/jan">January 10.11.12 @ Pier 94.NYC</a><br />
         <a href="/circuit/">May 2.3.4 @ Javits Center.NYC</a><br/>
         July 31 - August 2 @ Javits Center.NYC
         <br /> 
         <br />  
 
-        <h3>INTERMEZZO COLLECTIONS</h3>
+        <h3><strong>INTERMEZZO COLLECTIONS</strong></h3>
         <a href="/intermezzo/2016/jan">January 10.11.12 @ Pier 94.NYC</a><br /> 
         <a href="/intermezzo/">May 2.3.4 @ Javits Center.NYC</a><br/>
         July 31 - August 2 @ Javits Center.NYC
         <br /> 
         <br /> 
 
-        <h3>CHILDREN’S CLUB</h3>
+        <h3><strong>CHILDREN’S CLUB</strong></h3>
         <a href="/childrensclub/2016/jan">January 10.11.12 @ Pier 92.NYC</a><br />
-        <a href="/childrensclub/">March 13.14.15 @ Javits Center.NYC</a>
+        <a href="/childrensclub/2016/march">March 13.14.15 @ Javits Center.NYC</a><br />
+        <a href="/childrensclub/">July 31 - August 2 @ Javits Center.NYC</a><br />
+        September 18.19.20 @ Javits Center.NYC
         <br /> 
         <br /> 
 
-        <h3>FWD</h3>
+        <h3><strong>FWD</strong></h3>
         <a href="/fwd/2016/jan">January 10.11.12 @ Javits Center.NYC</a><br />
         <a href="/fwd/2016/feb">February 22.23.24 @ Javits Center.NYC</a><br />
-        <a href="/fwd/">May 2.3.4 @ Javits Center.NYC</a>
-        <br /> 
+        <a href="/fwd/">May 2.3.4 @ Javits Center.NYC</a><br />
+        July 31 – August 2 @ Javits Center.NYC<br />
+        September 18.19.20 @ Javits Center.NYC
+        <br />
         <br /> 
 
-        <h3>COTERIE</h3>
+        <h3><strong>COTERIE</strong></h3>
         <a href="/coterie/">February 22.23.24 @ Javits Center.NYC</a><br /> 
+        September 18.19.20 @ Javits Center.NYC 
         <br /> 
         <br />  
   

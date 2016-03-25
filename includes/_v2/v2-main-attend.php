@@ -27,10 +27,8 @@
 			please contact <a href="mailto:buyer@enkshows.com">buyer@enkshows.com</a> or call 310.857.7316 (8am-5:30pm PST) ask for Retail Relations.</p>
 			<p>ENK shows are trade only events and are not open to the public.  Only qualified, registered trade visitors may attend</p>
 	
-
 		<div class="module-content-attend"> 
-
-		<a class="page-tiles attend-tile" href="http://advanstar.force.com/coterie?tag=COT161-0-5-103" target="_blank">
+		<!--<a class="page-tiles attend-tile" href="http://advanstar.force.com/coterie?tag=COT161-0-5-103" target="_blank">
 			<h1>COTERIE</h1>
 			<p>FEBRUARY 22.23.24 @ JAVITS.NYC</p>
 		</a>
@@ -43,27 +41,22 @@
 		<a class="page-tiles attend-tile" href="http://advanstar.force.com/coterie?tag=COT161-0-5-103" target="_blank">
 			<h1>TMRW</h1>
 			<p>FEBRUARY 22.23.24 @ JAVITS.NYC</p>
-		</a>
-
-		<a class="page-tiles attend-tile" href="http://advanstar.force.com/childrensclub?tag=CLB161-0-5-103" target="_blank">
-			<h1>CHILDREN'S CLUB</h1>
-			<p>MARCH 13.14.15 @ JAVITS.NYC</p>
-		</a> 
-
+		</a>-->
 		<a class="page-tiles attend-tile" href="http://advanstar.force.com/acic?tag=ACIC161-0-5-103" target="_blank">
 			<h1>ACCESSORIE CIRCUIT</h1>
 			<p>MAY 2.3.4 @ JAVITS.NYC</p>
 		</a>
-
 		<a class="page-tiles attend-tile" href="http://advanstar.force.com/acic?tag=ACIC161-0-5-103" target="_blank">
 			<h1>INTERMEZZO COLLECTIONS</h1>
 			<p>MAY 2.3.4 @ JAVITS.NYC</p>
-
 		<a class="page-tiles attend-tile" href="http://advanstar.force.com/acic?tag=ACIC161-0-5-103" target="_blank">
 			<h1>FWD</h1>
 			<p>MAY 2.3.4 @ JAVITS.NYC</p>
 		</a>			
-		</a>  
+		<a class="page-tiles attend-tile" href="http://advanstar.force.com/childrensclub?tag=CLB161-0-5-103" target="_blank">
+			<h1>CHILDREN'S CLUB</h1>
+			<p>JULY 31 - AUGUST 2 @ JAVITS.NYC</p>
+		</a> 
   </div>
 </div>
 <div id="attend" class="module">
