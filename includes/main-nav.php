@@ -1,7 +1,6 @@
 <a class="nav_enk" title="ENK International" href="<?php echo BASE; ?>">ENK International</a>
 <ul class="nav_first">
   <li><a href="/#show-dates" title="About">Show Dates</a></li>
-  <li><a href="/#about" title="About">About</a></li>
   <li><a href="/#attend" title="Attendee/Press Registration">Attend</a></li>
   <li><a href="/#exhibit" title="Exhibitor Application">Exhibit</a></li>
   <li><a href="/#press" title="Press">Press</a></li>
@@ -18,9 +17,6 @@
     <li>
       <a href="/childrensclub" title="Childrens Club">Childrens Club</a> 
         <ul class="nav_third  cc-nav" id="navThirdcc" > </ul> </li>
-    <li>
-      <a href="http://www.magiconline.com/project-womens" target="_blank"  title="PROJECT WOMENS" >PROJECT WOMENS</a>
-        <ul class="nav_third ev-nav" id="navThirdvegas " > </ul> </li>
     <li>
       <a href="/coterie" title="Fashion Coterie" >Coterie</a>
         <ul class="nav_third fc-nav" id="navThirdcoterie "> </ul> </li>

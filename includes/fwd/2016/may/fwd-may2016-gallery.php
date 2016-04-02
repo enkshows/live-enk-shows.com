@@ -10,7 +10,7 @@
 					for ($i = 1; $i <= 6; $i++){
 						echo '<img src="' . $path . $i .'.jpg" data-thumb="' . $path . '-thumb' . $i .'.jpg" alt="" />';
 					}
-				?>fasfasfsdf
+				?>
 			</div>
 		</div>
 	</div> 

@@ -17,36 +17,6 @@ $shows = array(
           // NOTE: the only tile that should not be set is the Shop The Floor tile
     // link: links the showtile to its respective show
 
-    /* array(
-      // show information
-      name" => "Coterie",
-      "abbreviation" => "fc",
-      "dates" => "February 22.23.24",
-      "location" => "Javits.NYC",
-      "year" => "2016",
-      "attend" => true,
-      "link" => "/coterie"
-    ), 
-    array(
-      // show information
-      "name" => "Sole Commerce",
-      "abbreviation" => "sc",
-      "dates" => "February 22.23.24",
-      "location" => "Javits.NYC",
-      "year" => "2016",
-      "attend" => true,
-      "link" => "/sole"
-    ),  
-    array(
-      // show information
-      "name" => "TMRW",
-      "abbreviation" => "tmrw",
-      "dates" => "February 22.23.24",
-      "location" => "Javits.NYC",
-      "year" => "2016",
-      "attend" => true,
-      "link" => "/tmrw"
-    ),*/          
     array(
       // show information
       "name" => "Accessorie Circuit",
@@ -76,7 +46,8 @@ $shows = array(
       "year" => "2016",
       "attend" => true,
       "link" => "/fwd"
-    ),   
+    ),  
+
     array(
       // show information
       "name" => "Children's Club",
@@ -86,6 +57,36 @@ $shows = array(
       "year" => "2016",
       "attend" => true,
       "link" => "/childrensclub"
+    ),    
+    array(
+      // show information
+      "name" => "Coterie",
+      "abbreviation" => "fc",
+      "dates" => "Sept 18.19.20",
+      "location" => "Javits.NYC",
+      "year" => "2016",
+      "attend" => true,
+      "link" => "/coterie"
+    ),   
+    array(
+      // show information
+      "name" => "Sole Commerce",
+      "abbreviation" => "sc",
+      "dates" => "Sept 18.19.20",
+      "location" => "Javits.NYC",
+      "year" => "2016",
+      "attend" => true,
+      "link" => "/sole"
+    ),  
+    array(
+      // show information
+      "name" => "TMRW",
+      "abbreviation" => "tmrw",
+      "dates" => "Sept 18.19.20",
+      "location" => "Javits.NYC",
+      "year" => "2016",
+      "attend" => true,
+      "link" => "/tmrw"
     ),     
     array(
       // show information
@@ -96,7 +97,7 @@ $shows = array(
       "location" => "shopthefloor.com",
       "link" => "http://shopthefloor.com/"
     ),
-    
+     
 );
 
 ?>

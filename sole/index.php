@@ -3,7 +3,7 @@ $name     = "Sole Commerece";
 $content  = "A trade show dedicated exclusively to footwear and handbags with the best domestic and international retailers.";
 $keyword  = "Sole Commerce, Mens Tradeshow, Womens fashion tradeshow, New york trade show, international trade show, fashion coterie, ENK, Accessories tradeshow, Shoes Tradeshow, sole commerce, fashion trade events";
   include('../includes/variables.php'); 
-  include($root . '/includes/sc/2016/feb/sc-feb2016-vars.php');
+  include($root . '/includes/sc/2016/sept/sc-sept2016-vars.php');
   include($root . '/includes/show-header.php');
 ?> 
 <body class="coteriePage sc showPage" id="showPage">
@@ -14,8 +14,7 @@ $keyword  = "Sole Commerce, Mens Tradeshow, Womens fashion tradeshow, New york t
     <!-- Navigation-->  
     <div id="nav-col">
       <div id="nav">
-        <?php include($root . "/includes/main-nav.php"); ?>
-        <?php include($root . "/includes/main-nav-social.php"); ?>
+        <?php include($root . "/includes/main-nav.php"); ?>        
       </div>
     </div> <!-- End Navigation --> 
   
@@ -23,7 +22,7 @@ $keyword  = "Sole Commerce, Mens Tradeshow, Womens fashion tradeshow, New york t
     <div id="main-col">
       <!-- Show Hero / Info Container -->
       <?php if ( $postano) : ?>
-        <?php include($root . '/includes/sc/2016/feb/sc-feb2016-postano.php'); ?>
+        <?php include($root . '/includes/sc/2016/sept/sc-sept2016-postano.php'); ?>
       <?php elseif ( $hero) : ?>
         <?php include($root . '/includes/main-hero-container.php'); ?>
       <?php else : ?>
@@ -31,16 +30,16 @@ $keyword  = "Sole Commerce, Mens Tradeshow, Womens fashion tradeshow, New york t
       <?php endif; ?>
 
       <!-- Show Descriptions -->
-      <?php include($root . '/includes/sc/2016/feb/sc-2016-show-description.php'); ?>
+      <?php include($root . '/includes/sc/2016/sept/sc-2016-show-description.php'); ?>
     
       <!-- Info Links/forms -->  
-      <?php include($root . '/includes/sc/2016/feb/sc-2016-forms.php'); ?>  
+      <?php include($root . '/includes/sc/2016/sept/sc-2016-forms.php'); ?>  
 
-      <!-- Roster Module --> 
-      <?php include($root . '/includes/sc/2016/feb/sc-feb2016-roster-post.php'); ?>
+      <!-- Roster Module  
+      <?php //include($root . '/includes/sc/2016/sept/sc-sept2016-roster-post.php'); ?>--> 
 
       <!-- Floorplan Module --> 
-      <?php include($root . '/includes/sc/2016/feb/sc-feb2016-floorplan.php'); ?>      
+      <?php include($root . '/includes/fc/2016/sept/fc-sept2016-floorplan.php'); ?>      
 
       <!-- Hotel + Travel Module --> 
       <div style="float:left;height:890px;"><?php include($root . '/includes/_partials/partial-fc-hotel.php'); ?></div>

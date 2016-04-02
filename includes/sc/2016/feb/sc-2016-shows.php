@@ -6,8 +6,8 @@
      <!--<a href="http://www.enkshows.com/sole/2014/feb/"><strong>February 22.23.24, 2016 @ Javits Center.NYC</strong></a><br>-->
       Monday/Tuesday, 9am - 6pm  • Wednesday, 9am - 5pm <br><br>
     
-     <!--<a href="http://www.enkshows.com/sole/"><strong>September 14.15.16, 2014 @ Javits Center.NYC</strong></a><br
-     Sunday/Monday, 9am - 6pm • Tuesday, 9am - 5pm>-->
+     <a href="http://www.enkshows.com/sole/"><strong>September 18.19.20, 2016 @ Javits Center.NYC</strong></a><br>
+     Sunday/Monday, 9am - 6pm • Tuesday, 9am - 5pm
     </span>
   </div>
 </div>

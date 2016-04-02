@@ -84,10 +84,22 @@
         <br /> 
 
         <h3><strong>COTERIE</strong></h3>
-        <a href="/coterie/">February 22.23.24 @ Javits Center.NYC</a><br /> 
-        September 18.19.20 @ Javits Center.NYC 
+        <a href="/coterie/2016/feb">February 22.23.24 @ Javits Center.NYC</a><br /> 
+        <a href="/coterie/">September 18.19.20 @ Javits Center.NYC</a>
         <br /> 
-        <br />  
+        <br />
+
+        <h3><strong>SOLE COMMERCE</strong></h3>
+        <a href="/sole/2016/feb">February 22.23.24 @ Javits Center.NYC</a><br /> 
+        <a href="/sole/">September 18.19.20 @ Javits Center.NYC</a>
+        <br /> 
+        <br />        
+
+        <h3><strong>TMRW</strong></h3>
+        <a href="/tmrw/2016/feb">February 22.23.24 @ Javits Center.NYC</a><br /> 
+        <a href="/tmrw/">September 18.19.20 @ Javits Center.NYC</a>
+        <br /> 
+        <br />                    
   
 <!--
 <h3>PROJECT WOMENS</h3>

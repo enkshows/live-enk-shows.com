@@ -4,7 +4,7 @@
   $keyword  = "tmrw, Mens Tradeshow, Womens fashion tradeshow, New york trade show, international trade show, fashion coterie, ENK, Accessories tradeshow, Shoes Tradeshow, sole commerce, fashion trade events";
 
   include('../includes/variables.php'); 
-  include($root . '/includes/tmrw/2016/feb/tmrw-feb2016-vars.php');
+  include($root . '/includes/tmrw/2016/sept/tmrw-sept2016-vars.php');
   include($root . '/includes/show-header.php');
 ?>
 
@@ -17,8 +17,7 @@
       <!-- Navigation-->  
     <div id="nav-col">
       <div id="nav">
-          <?php include($root . '/includes/main-nav.php'); ?>
-           <?php include($root . '/includes/main-nav-social.php'); ?>
+          <?php include($root . '/includes/main-nav.php'); ?>           
         </div>
     </div> <!-- End Navigation -->
     
@@ -26,7 +25,7 @@
   <div id="main-col">
 
         <?php if ( $postano) : ?>
-          <?php include($root . '/includes/tmrw/2016/feb/tmrw-feb2016-postano.php'); ?>
+          <?php include($root . '/includes/tmrw/2016/sept/tmrw-sept2016-postano.php'); ?>
         <?php elseif ( $hero) : ?>
           <?php include($root . '/includes/main-hero-container.php'); ?>
         <?php else : ?>
@@ -34,22 +33,22 @@
         <?php endif; ?>
         
         <!-- Show Description -->
-        <?php include($root . '/includes/tmrw/2016/feb/tmrw-2016-show-description.php'); ?>
+        <?php include($root . '/includes/tmrw/2016/sept/tmrw-2016-show-description.php'); ?>
         
         <!-- Forms -->
-        <?php include($root . '/includes/tmrw/2016/feb/tmrw-feb2016-forms.php'); ?>
+        <?php include($root . '/includes/tmrw/2016/sept/tmrw-sept2016-forms.php'); ?>
 
         <!-- Highlights -->
-        <?php include($root . '/includes/tmrw/2016/feb/tmrw-feb2016-highlights.php'); ?> 
+        <?php include($root . '/includes/tmrw/2016/sept/tmrw-sept2016-highlights.php'); ?> 
 
         <!-- Music -->
-        <?php include($root . '/includes/tmrw/2016/feb/tmrw-feb2016-soundcloud.php'); ?>
+        <?php include($root . '/includes/tmrw/2016/sept/tmrw-sept2016-soundcloud.php'); ?>
         
-        <!-- Roster Module --> 
-        <?php include($root . '/includes/tmrw/2016/feb/tmrw-feb2016-roster-post.php'); ?>
+        <!-- Roster Module 
+        <?php //include($root . '/includes/tmrw/2016/sept/tmrw-sept2016-roster-post.php'); ?>-->
 
         <!-- Floorplan -->
-        <?php include($root . '/includes/tmrw/2016/feb/tmrw-feb2016-floorplan.php'); ?> 
+        <?php include($root . '/includes/fc/2016/sept/fc-sept2016-floorplan.php'); ?> 
 
         <!-- Hotel + Travel -->
         <div style="float:left;height:890px;"><?php include($root . '/includes/_partials/partial-fc-hotel.php'); ?></div>

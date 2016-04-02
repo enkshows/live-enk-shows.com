@@ -57,6 +57,18 @@
 			<h1>CHILDREN'S CLUB</h1>
 			<p>JULY 31 - AUGUST 2 @ JAVITS.NYC</p>
 		</a> 
+		<a class="page-tiles attend-tile" href="http://advanstar.force.com/coterie" target="_blank">
+			<h1>COTERIE</h1>
+			<p>SEPTEMBER 18.19.20 @ JAVITS.NYC</p>
+		</a> 	
+		<a class="page-tiles attend-tile" href="http://advanstar.force.com/coterie" target="_blank">
+			<h1>SOLE COMMERCE</h1>
+			<p>SEPTEMBER 18.19.20 @ JAVITS.NYC</p>
+		</a> 
+		<a class="page-tiles attend-tile" href="http://advanstar.force.com/coterie" target="_blank">
+			<h1>TMRW</h1>
+			<p>SEPTEMBER 18.19.20 @ JAVITS.NYC</p>
+		</a> 					
   </div>
 </div>
 <div id="attend" class="module">

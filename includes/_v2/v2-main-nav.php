@@ -3,7 +3,6 @@
   <div class="nav">
     <ul class="nav_first">
       <li><a href="../#show-dates" title="About" class="ext">Show Dates</a></li>
-      <li><a href="../#about" title="About" class="ext">About</a></li>
       <li><a href="../#attend" title="Attendee/Press Registration" class="ext">Attend</a></li>
       <li><a href="../#exhibit" title="Exhibitor Application" class="ext">Exhibit</a></li>
       <li><a href="../#press" title="Press" class="ext">Press</a></li>
@@ -21,9 +20,6 @@
             <a href="/childrensclub/" title="Childrens Club" class="ext">Childrens Club</a> 
               <ul class="nav_third  cc-nav" id="navThirdcc"> </ul> </li>
           <li>
-            <a href="http://www.magiconline.com/project-womens" target="_blank" title="Project Womens" class="ext">Project Womens</a>
-              <ul class="nav_third ev-nav" id="navThirdvegas "> </ul> </li>
-          <li>
             <a href="/coterie" title="Fashion Coterie" class="ext">Coterie</a>
               <ul class="nav_third fc-nav" id="navThirdcoterie "></ul></li>
           <li>
@@ -40,10 +36,10 @@
         </ul>
       </li>
     </ul>
-    <ul class="nav_social ss-icon">
+    <!--<ul class="nav_social ss-icon">
       <li><a class="ss-icon" href="#">facebook</a></li>
       <li><a class="ss-icon" href="#">twitter</a></li>
       <li><a class="ss-icon" href="#">instagram</a></li>
-    </ul>
+    </ul>-->
   </div>  
 </div>

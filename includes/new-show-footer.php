@@ -8,7 +8,6 @@
       <a class="show" href="http://www.enkshows.com/coterie" title="Coterie">Coterie</a>
       <a class="show" href="http://www.enkshows.com/fwd" title="FWD">FWD</a>
       <a class="show" href="http://www.enkshows.com/intermezzo" title="Intermezzo Collections">Intermezzo</a>
-      <a class="show" href="http://www.enkshows.com/enkvegas" title="Project Womens">Project Womens</a>
       <a class="show" href="http://www.enkshows.com/sole" title="Sole Commerce">Sole</a>
       <a class="show" href="http://www.enkshows.com/tmrw" title="TMRW">TMRW</a>
       <a></a>

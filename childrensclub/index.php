@@ -15,8 +15,7 @@
   <!-- Navigation-->  
   <div id="nav-col">
     <div id="nav">
-      <?php include($root . "/includes/main-nav.php"); ?>
-      <?php include($root . "/includes/main-nav-social.php"); ?>
+      <?php include($root . "/includes/main-nav.php"); ?>      
     </div>
   </div> <!-- End Navigation --> 
   

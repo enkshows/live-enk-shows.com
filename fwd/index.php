@@ -27,8 +27,7 @@ into the span tag and creatse the hero image for the background.
     <!-- Navigation-->  
     <div id="nav-col">
       <div id="nav">
-        <?php include($root . "/includes/main-nav.php"); ?>
-        <?php include($root . "/includes/main-nav-fwd-social.php"); ?>
+        <?php include($root . "/includes/main-nav.php"); ?>        
       </div>
     </div> <!-- End Navigation --> 
   
